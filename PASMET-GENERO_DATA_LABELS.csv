@@ -1,1597 +1,1597 @@
-Record ID;IDENTIFICACION DE GENERO;SEXO;GOLDBERG1_PUNTAJE;GOLDBERG2_PUNTAJE;GOLDBERG2_DIFERENCIA;REGION;EDAD
-2;MASCULINO;M;2;;;Regi�n de Valpara�so;80
-3;MASCULINO;M;3;;;Regi�n de Valpara�so;16
-5;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;40
-6;FEMENINO;F;5;;;Regi�n de Biob�o;29
-7;MASCULINO;M;10;1;9;Regi�n de Libertador B. O'Higgins;18
-8;FEMENINO;F;;;;Regi�n de Metropolitana De Santiago;27
-9;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;17
-10;FEMENINO;F;6;;;Regi�n de Los Rios;33
-11;FEMENINO;F;4;;;Regi�n de Metropolitana De Santiago;19
-12;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;27
-13;FEMENINO;F;7;;;Regi�n de �uble;21
-14;FEMENINO;F;5;1;4;Regi�n de Metropolitana De Santiago;27
-15;MASCULINO;M;7;;;Regi�n de Metropolitana De Santiago;20
-16;FEMENINO;F;10;;;Regi�n de Biob�o;37
-17;FEMENINO;F;12;;;Regi�n de Los Lagos;20
-18;FEMENINO;F;8;0;8;Regi�n de Metropolitana De Santiago;27
-19;FEMENINO;F;6;0;6;Regi�n de Valpara�so;31
-20;FEMENINO;F;2;0;2;Regi�n de Metropolitana De Santiago;30
-21;MASCULINO;M;4;0;4;Regi�n de Valpara�so;32
-22;FEMENINO;F;3;1;2;Regi�n de Libertador B. O'Higgins;30
-23;FEMENINO;F;6;;;Regi�n de Tarapac�;41
-24;MASCULINO;;0;;;Regi�n de Biob�o;
-25;FEMENINO;F;4;;;Regi�n de Metropolitana De Santiago;23
+﻿Record ID;IDENTIFICACION DE GENERO;SEXO;GOLDBERG1_PUNTAJE;GOLDBERG2_PUNTAJE;GOLDBERG2_DIFERENCIA;REGION;EDAD
+2;MASCULINO;M;2;;;Región de Valparaíso;80
+3;MASCULINO;M;3;;;Región de Valparaíso;16
+5;FEMENINO;F;6;;;Región de Metropolitana De Santiago;40
+6;FEMENINO;F;5;;;Región de Biobío;29
+7;MASCULINO;M;10;1;9;Región de Libertador B. O'Higgins;18
+8;FEMENINO;F;;;;Región de Metropolitana De Santiago;27
+9;FEMENINO;F;6;;;Región de Metropolitana De Santiago;17
+10;FEMENINO;F;6;;;Región de Los Rios;33
+11;FEMENINO;F;4;;;Región de Metropolitana De Santiago;19
+12;MASCULINO;M;6;;;Región de Metropolitana De Santiago;27
+13;FEMENINO;F;7;;;Región de Ñuble;21
+14;FEMENINO;F;5;1;4;Región de Metropolitana De Santiago;27
+15;MASCULINO;M;7;;;Región de Metropolitana De Santiago;20
+16;FEMENINO;F;10;;;Región de Biobío;37
+17;FEMENINO;F;12;;;Región de Los Lagos;20
+18;FEMENINO;F;8;0;8;Región de Metropolitana De Santiago;27
+19;FEMENINO;F;6;0;6;Región de Valparaíso;31
+20;FEMENINO;F;2;0;2;Región de Metropolitana De Santiago;30
+21;MASCULINO;M;4;0;4;Región de Valparaíso;32
+22;FEMENINO;F;3;1;2;Región de Libertador B. O'Higgins;30
+23;FEMENINO;F;6;;;Región de Tarapacá;41
+24;MASCULINO;;0;;;Región de Biobío;
+25;FEMENINO;F;4;;;Región de Metropolitana De Santiago;23
 26;;F;;;;;28
-27;MASCULINO;M;4;0;4;Regi�n de Metropolitana De Santiago;33
-29;FEMENINO;F;4;;;Regi�n de Valpara�so;19
-30;FEMENINO;F;4;;;Regi�n de Metropolitana De Santiago;42
-31;FEMENINO;F;6;0;6;Regi�n de Metropolitana De Santiago;45
-32;FEMENINO;F;12;;;Regi�n de Maule;19
-33;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;46
-34;MASCULINO;M;9;;;Regi�n de Biob�o;33
-35;FEMENINO;F;10;;;Regi�n de Antofagasta;29
-36;FEMENINO;F;6;;;Regi�n de Biob�o;35
-37;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;24
-38;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;68
-39;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;31
-40;MASCULINO;M;10;;;Regi�n de Metropolitana De Santiago;30
-41;FEMENINO;F;11;1;10;Regi�n de Metropolitana De Santiago;28
-42;MASCULINO;M;4;0;4;Regi�n de Metropolitana De Santiago;20
-43;FEMENINO;F;6;0;6;Regi�n de La Araucan�a;21
-44;FEMENINO;F;5;;;Regi�n de Los Rios;26
-45;MASCULINO;M;5;;;Regi�n de Atacama;23
-46;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;33
-47;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;23
-48;FEMENINO;F;6;;;Regi�n de Libertador B. O'Higgins;53
-50;FEMENINO;F;6;0;6;Regi�n de Metropolitana De Santiago;40
-51;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;32
-52;FEMENINO;F;;0;;Regi�n de Metropolitana De Santiago;28
-53;MASCULINO;M;4;0;4;Regi�n de La Araucan�a;23
-54;FEMENINO;F;6;2;4;Regi�n de Metropolitana De Santiago;42
-55;FEMENINO;F;11;;;Regi�n de Tarapac�;50
-56;FEMENINO;F;3;;;Regi�n de Metropolitana De Santiago;33
-57;FEMENINO;F;6;;;Regi�n de Valpara�so;19
-58;FEMENINO;F;6;7;-1;Regi�n de Magallanes y de La Ant�rtica chilena;24
-59;FEMENINO;F;3;0;3;Regi�n de Metropolitana De Santiago;18
-60;FEMENINO;F;7;1;6;Regi�n de Metropolitana De Santiago;45
-61;FEMENINO;F;3;0;3;Regi�n de Libertador B. O'Higgins;45
-62;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;30
-63;FEMENINO;F;6;;;Regi�n de Valpara�so;36
-64;FEMENINO;F;4;;;Regi�n de Biob�o;23
-66;FEMENINO;F;4;;;Regi�n de Metropolitana De Santiago;27
-67;MASCULINO;M;5;0;5;Regi�n de La Araucan�a;31
-68;FEMENINO;F;;;;Regi�n de Biob�o;34
-69;MASCULINO;M;6;0;6;Regi�n de Biob�o;32
-70;FEMENINO;F;10;0;10;Regi�n de Los Lagos;18
+27;MASCULINO;M;4;0;4;Región de Metropolitana De Santiago;33
+29;FEMENINO;F;4;;;Región de Valparaíso;19
+30;FEMENINO;F;4;;;Región de Metropolitana De Santiago;42
+31;FEMENINO;F;6;0;6;Región de Metropolitana De Santiago;45
+32;FEMENINO;F;12;;;Región de Maule;19
+33;FEMENINO;F;7;;;Región de Metropolitana De Santiago;46
+34;MASCULINO;M;9;;;Región de Biobío;33
+35;FEMENINO;F;10;;;Región de Antofagasta;29
+36;FEMENINO;F;6;;;Región de Biobío;35
+37;FEMENINO;F;6;;;Región de Metropolitana De Santiago;24
+38;FEMENINO;F;5;;;Región de Metropolitana De Santiago;68
+39;FEMENINO;F;7;;;Región de Metropolitana De Santiago;31
+40;MASCULINO;M;10;;;Región de Metropolitana De Santiago;30
+41;FEMENINO;F;11;1;10;Región de Metropolitana De Santiago;28
+42;MASCULINO;M;4;0;4;Región de Metropolitana De Santiago;20
+43;FEMENINO;F;6;0;6;Región de La Araucanía;21
+44;FEMENINO;F;5;;;Región de Los Rios;26
+45;MASCULINO;M;5;;;Región de Atacama;23
+46;FEMENINO;F;10;;;Región de Metropolitana De Santiago;33
+47;FEMENINO;F;5;;;Región de Metropolitana De Santiago;23
+48;FEMENINO;F;6;;;Región de Libertador B. O'Higgins;53
+50;FEMENINO;F;6;0;6;Región de Metropolitana De Santiago;40
+51;FEMENINO;F;7;;;Región de Metropolitana De Santiago;32
+52;FEMENINO;F;;0;;Región de Metropolitana De Santiago;28
+53;MASCULINO;M;4;0;4;Región de La Araucanía;23
+54;FEMENINO;F;6;2;4;Región de Metropolitana De Santiago;42
+55;FEMENINO;F;11;;;Región de Tarapacá;50
+56;FEMENINO;F;3;;;Región de Metropolitana De Santiago;33
+57;FEMENINO;F;6;;;Región de Valparaíso;19
+58;FEMENINO;F;6;7;-1;Región de Magallanes y de La Antártica chilena;24
+59;FEMENINO;F;3;0;3;Región de Metropolitana De Santiago;18
+60;FEMENINO;F;7;1;6;Región de Metropolitana De Santiago;45
+61;FEMENINO;F;3;0;3;Región de Libertador B. O'Higgins;45
+62;FEMENINO;F;11;;;Región de Metropolitana De Santiago;30
+63;FEMENINO;F;6;;;Región de Valparaíso;36
+64;FEMENINO;F;4;;;Región de Biobío;23
+66;FEMENINO;F;4;;;Región de Metropolitana De Santiago;27
+67;MASCULINO;M;5;0;5;Región de La Araucanía;31
+68;FEMENINO;F;;;;Región de Biobío;34
+69;MASCULINO;M;6;0;6;Región de Biobío;32
+70;FEMENINO;F;10;0;10;Región de Los Lagos;18
 73;;F;;;;;20
-74;FEMENINO;F;12;0;12;Regi�n de Los Lagos;18
-75;FEMENINO;F;7;;;Regi�n de La Araucan�a;48
-76;FEMENINO;F;11;1;10;Regi�n de Valpara�so;27
-77;;M;4;0;4;Regi�n de Biob�o;31
-78;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;37
-79;FEMENINO;F;8;2;6;Regi�n de Metropolitana De Santiago;32
-80;MASCULINO;M;5;;;Regi�n de Libertador B. O'Higgins;41
-81;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;70
-82;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;43
-83;FEMENINO;F;7;1;6;Regi�n de Metropolitana De Santiago;27
-84;FEMENINO;F;6;0;6;Regi�n de Metropolitana De Santiago;24
-85;MASCULINO;M;11;;;Regi�n de Metropolitana De Santiago;29
-86;FEMENINO;F;6;;;Regi�n de Biob�o;35
-87;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;29
-88;MASCULINO;M;2;;;Regi�n de Valpara�so;35
-89;FEMENINO;F;6;0;6;Regi�n de Valpara�so;44
-90;FEMENINO;F;11;;;Regi�n de Valpara�so;40
-92;FEMENINO;F;;;;Regi�n de Metropolitana De Santiago;17
-94;MASCULINO;M;3;;;Regi�n de Metropolitana De Santiago;30
-96;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;67
-97;FEMENINO;F;6;0;6;Regi�n de Biob�o;27
-98;MASCULINO;M;5;;;Regi�n de Metropolitana De Santiago;32
-99;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;53
-100;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;62
-101;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;20
-102;MASCULINO;M;2;0;2;Regi�n de Los Rios;29
-103;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;28
-104;FEMENINO;F;3;0;3;Regi�n de Libertador B. O'Higgins;67
-105;FEMENINO;F;10;0;10;Regi�n de Metropolitana De Santiago;30
-106;FEMENINO;F;7;0;7;Regi�n de Metropolitana De Santiago;23
-107;MASCULINO;M;9;0;9;Regi�n de Valpara�so;40
-109;FEMENINO;F;12;0;12;Regi�n de Metropolitana De Santiago;40
-110;MASCULINO;M;5;;;Regi�n de Metropolitana De Santiago;35
-111;MASCULINO;M;4;;;Regi�n de Metropolitana De Santiago;74
-112;FEMENINO;F;11;1;10;Regi�n de Antofagasta;23
-113;FEMENINO;F;10;1;9;Regi�n de Metropolitana De Santiago;66
-114;FEMENINO;F;7;;;Regi�n de �uble;27
+74;FEMENINO;F;12;0;12;Región de Los Lagos;18
+75;FEMENINO;F;7;;;Región de La Araucanía;48
+76;FEMENINO;F;11;1;10;Región de Valparaíso;27
+77;;M;4;0;4;Región de Biobío;31
+78;FEMENINO;F;7;;;Región de Metropolitana De Santiago;37
+79;FEMENINO;F;8;2;6;Región de Metropolitana De Santiago;32
+80;MASCULINO;M;5;;;Región de Libertador B. O'Higgins;41
+81;FEMENINO;F;8;;;Región de Metropolitana De Santiago;70
+82;FEMENINO;F;8;;;Región de Metropolitana De Santiago;43
+83;FEMENINO;F;7;1;6;Región de Metropolitana De Santiago;27
+84;FEMENINO;F;6;0;6;Región de Metropolitana De Santiago;24
+85;MASCULINO;M;11;;;Región de Metropolitana De Santiago;29
+86;FEMENINO;F;6;;;Región de Biobío;35
+87;FEMENINO;F;9;;;Región de Metropolitana De Santiago;29
+88;MASCULINO;M;2;;;Región de Valparaíso;35
+89;FEMENINO;F;6;0;6;Región de Valparaíso;44
+90;FEMENINO;F;11;;;Región de Valparaíso;40
+92;FEMENINO;F;;;;Región de Metropolitana De Santiago;17
+94;MASCULINO;M;3;;;Región de Metropolitana De Santiago;30
+96;FEMENINO;F;6;;;Región de Metropolitana De Santiago;67
+97;FEMENINO;F;6;0;6;Región de Biobío;27
+98;MASCULINO;M;5;;;Región de Metropolitana De Santiago;32
+99;MASCULINO;M;6;;;Región de Metropolitana De Santiago;53
+100;FEMENINO;F;11;;;Región de Metropolitana De Santiago;62
+101;FEMENINO;F;6;;;Región de Metropolitana De Santiago;20
+102;MASCULINO;M;2;0;2;Región de Los Rios;29
+103;FEMENINO;F;11;;;Región de Metropolitana De Santiago;28
+104;FEMENINO;F;3;0;3;Región de Libertador B. O'Higgins;67
+105;FEMENINO;F;10;0;10;Región de Metropolitana De Santiago;30
+106;FEMENINO;F;7;0;7;Región de Metropolitana De Santiago;23
+107;MASCULINO;M;9;0;9;Región de Valparaíso;40
+109;FEMENINO;F;12;0;12;Región de Metropolitana De Santiago;40
+110;MASCULINO;M;5;;;Región de Metropolitana De Santiago;35
+111;MASCULINO;M;4;;;Región de Metropolitana De Santiago;74
+112;FEMENINO;F;11;1;10;Región de Antofagasta;23
+113;FEMENINO;F;10;1;9;Región de Metropolitana De Santiago;66
+114;FEMENINO;F;7;;;Región de Ñuble;27
 115;;F;;;;;66
-116;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;19
-117;MASCULINO;M;11;3;8;Regi�n de Antofagasta;72
-118;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;20
-119;FEMENINO;F;3;0;3;Regi�n de Biob�o;59
-120;FEMENINO;F;4;;;Regi�n de Los Rios;23
-121;FEMENINO;F;2;;;Regi�n de Metropolitana De Santiago;26
-122;MASCULINO;M;5;0;5;Regi�n de Atacama;36
-123;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;22
-124;FEMENINO;F;;0;;Regi�n de Metropolitana De Santiago;37
-125;FEMENINO;F;4;;;Regi�n de Biob�o;23
-126;MASCULINO;M;5;;;Regi�n de Valpara�so;23
-127;FEMENINO;F;7;0;7;Regi�n de Metropolitana De Santiago;28
-128;MASCULINO;M;6;1;5;Regi�n de Coquimbo;25
-129;FEMENINO;F;5;;;Regi�n de Antofagasta;33
-130;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;34
-131;MASCULINO;M;8;0;8;Regi�n de Metropolitana De Santiago;32
-132;FEMENINO;F;9;0;9;Regi�n de Maule;22
-133;MASCULINO;M;3;;;Regi�n de Biob�o;65
-134;FEMENINO;F;2;;;Regi�n de Los Lagos;19
-135;FEMENINO;F;10;0;10;Regi�n de Metropolitana De Santiago;30
-136;MASCULINO;M;1;;;Regi�n de Metropolitana De Santiago;27
-137;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;22
-138;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;28
-139;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;26
-140;FEMENINO;F;7;;;Regi�n de Valpara�so;52
-141;FEMENINO;F;3;0;3;Regi�n de Antofagasta;50
-142;FEMENINO;F;3;0;3;Regi�n de Metropolitana De Santiago;20
-143;FEMENINO;F;8;0;8;Regi�n de La Araucan�a;25
-144;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;20
-145;FEMENINO;F;7;0;7;Regi�n de Metropolitana De Santiago;28
-146;FEMENINO;F;1;;;Regi�n de Antofagasta;22
-147;FEMENINO;F;6;0;6;Regi�n de Metropolitana De Santiago;62
-148;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;28
-149;MASCULINO;M;;;;Regi�n de Los Lagos;69
-150;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;47
-151;MASCULINO;M;8;;;Regi�n de Maule;21
-152;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;73
-153;FEMENINO;F;5;;;Regi�n de Biob�o;31
-154;FEMENINO;F;8;0;8;Regi�n de Los Rios;40
-155;FEMENINO;F;6;;;Regi�n de Atacama;22
-157;MASCULINO;M;12;;;Regi�n de Valpara�so;45
-158;FEMENINO;F;6;0;6;Regi�n de Metropolitana De Santiago;37
-159;MASCULINO;M;4;;;Regi�n de Los Rios;19
-161;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;47
-162;FEMENINO;F;9;0;9;Regi�n de Valpara�so;21
-163;FEMENINO;F;8;0;8;Regi�n de La Araucan�a;34
-164;FEMENINO;F;7;;;Regi�n de Biob�o;28
-165;FEMENINO;F;5;;;Regi�n de Maule;21
-166;FEMENINO;F;5;;;Regi�n de Biob�o;39
-167;FEMENINO;F;6;0;6;Regi�n de Metropolitana De Santiago;30
-168;FEMENINO;F;7;0;7;Regi�n de Metropolitana De Santiago;88
-169;FEMENINO;F;10;0;10;Regi�n de Metropolitana De Santiago;23
-170;MASCULINO;M;7;;;Regi�n de Biob�o;27
-171;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;41
-172;MASCULINO;M;1;0;1;Regi�n de Metropolitana De Santiago;24
-173;FEMENINO;F;6;1;5;Regi�n de Valpara�so;36
-174;FEMENINO;F;5;;;Regi�n de La Araucan�a;28
-175;FEMENINO;F;5;;;Regi�n de Los Rios;25
-176;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;32
-177;FEMENINO;F;5;1;4;Regi�n de Los Lagos;26
-178;FEMENINO;F;4;;;Regi�n de Biob�o;29
-179;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;23
-180;MASCULINO;M;10;;;Regi�n de Metropolitana De Santiago;19
-181;MASCULINO;M;4;;;Regi�n de Metropolitana De Santiago;29
-182;FEMENINO;F;3;0;3;Regi�n de Los Lagos;18
-183;FEMENINO;F;4;;;Regi�n de Atacama;28
-184;FEMENINO;F;12;;;Regi�n de Coquimbo;18
-185;MASCULINO;M;11;;;Regi�n de Valpara�so;19
-186;FEMENINO;F;9;0;9;Regi�n de Maule;25
-187;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;25
-188;FEMENINO;F;2;1;1;Regi�n de Metropolitana De Santiago;26
-189;FEMENINO;F;4;;;Regi�n de Metropolitana De Santiago;26
-190;FEMENINO;F;8;;;Regi�n de La Araucan�a;21
-191;FEMENINO;F;5;3;2;Regi�n de Metropolitana De Santiago;39
-192;FEMENINO;F;4;0;4;Regi�n de Antofagasta;25
-193;FEMENINO;F;10;9;1;Regi�n de Los Rios;55
-194;MASCULINO;M;11;;;Regi�n de Coquimbo;36
-195;FEMENINO;F;4;;;Regi�n de Valpara�so;38
-196;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;31
-198;FEMENINO;F;10;3;7;Regi�n de Metropolitana De Santiago;27
-199;FEMENINO;F;0;;;Regi�n de Los Lagos;29
-200;MASCULINO;M;;;;Regi�n de Metropolitana De Santiago;21
-201;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;58
-202;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;45
-203;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;18
-204;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;25
-205;FEMENINO;F;5;;;Regi�n de Valpara�so;34
-206;MASCULINO;M;8;;;Regi�n de La Araucan�a;21
-207;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;32
-208;FEMENINO;F;4;1;3;Regi�n de Valpara�so;32
-210;FEMENINO;F;12;0;12;Regi�n de Maule;23
-212;FEMENINO;F;;;;Regi�n de Magallanes y de La Ant�rtica chilena;27
-213;MASCULINO;M;11;;;Regi�n de Metropolitana De Santiago;23
-214;MASCULINO;M;11;;;Regi�n de Antofagasta;17
+116;MASCULINO;M;6;;;Región de Metropolitana De Santiago;19
+117;MASCULINO;M;11;3;8;Región de Antofagasta;72
+118;FEMENINO;F;9;;;Región de Metropolitana De Santiago;20
+119;FEMENINO;F;3;0;3;Región de Biobío;59
+120;FEMENINO;F;4;;;Región de Los Rios;23
+121;FEMENINO;F;2;;;Región de Metropolitana De Santiago;26
+122;MASCULINO;M;5;0;5;Región de Atacama;36
+123;FEMENINO;F;5;;;Región de Metropolitana De Santiago;22
+124;FEMENINO;F;;0;;Región de Metropolitana De Santiago;37
+125;FEMENINO;F;4;;;Región de Biobío;23
+126;MASCULINO;M;5;;;Región de Valparaíso;23
+127;FEMENINO;F;7;0;7;Región de Metropolitana De Santiago;28
+128;MASCULINO;M;6;1;5;Región de Coquimbo;25
+129;FEMENINO;F;5;;;Región de Antofagasta;33
+130;FEMENINO;F;10;;;Región de Metropolitana De Santiago;34
+131;MASCULINO;M;8;0;8;Región de Metropolitana De Santiago;32
+132;FEMENINO;F;9;0;9;Región de Maule;22
+133;MASCULINO;M;3;;;Región de Biobío;65
+134;FEMENINO;F;2;;;Región de Los Lagos;19
+135;FEMENINO;F;10;0;10;Región de Metropolitana De Santiago;30
+136;MASCULINO;M;1;;;Región de Metropolitana De Santiago;27
+137;FEMENINO;F;6;;;Región de Metropolitana De Santiago;22
+138;FEMENINO;F;7;;;Región de Metropolitana De Santiago;28
+139;FEMENINO;F;6;;;Región de Metropolitana De Santiago;26
+140;FEMENINO;F;7;;;Región de Valparaíso;52
+141;FEMENINO;F;3;0;3;Región de Antofagasta;50
+142;FEMENINO;F;3;0;3;Región de Metropolitana De Santiago;20
+143;FEMENINO;F;8;0;8;Región de La Araucanía;25
+144;MASCULINO;M;6;;;Región de Metropolitana De Santiago;20
+145;FEMENINO;F;7;0;7;Región de Metropolitana De Santiago;28
+146;FEMENINO;F;1;;;Región de Antofagasta;22
+147;FEMENINO;F;6;0;6;Región de Metropolitana De Santiago;62
+148;FEMENINO;F;9;;;Región de Metropolitana De Santiago;28
+149;MASCULINO;M;;;;Región de Los Lagos;69
+150;FEMENINO;F;8;;;Región de Metropolitana De Santiago;47
+151;MASCULINO;M;8;;;Región de Maule;21
+152;FEMENINO;F;12;;;Región de Metropolitana De Santiago;73
+153;FEMENINO;F;5;;;Región de Biobío;31
+154;FEMENINO;F;8;0;8;Región de Los Rios;40
+155;FEMENINO;F;6;;;Región de Atacama;22
+157;MASCULINO;M;12;;;Región de Valparaíso;45
+158;FEMENINO;F;6;0;6;Región de Metropolitana De Santiago;37
+159;MASCULINO;M;4;;;Región de Los Rios;19
+161;FEMENINO;F;5;;;Región de Metropolitana De Santiago;47
+162;FEMENINO;F;9;0;9;Región de Valparaíso;21
+163;FEMENINO;F;8;0;8;Región de La Araucanía;34
+164;FEMENINO;F;7;;;Región de Biobío;28
+165;FEMENINO;F;5;;;Región de Maule;21
+166;FEMENINO;F;5;;;Región de Biobío;39
+167;FEMENINO;F;6;0;6;Región de Metropolitana De Santiago;30
+168;FEMENINO;F;7;0;7;Región de Metropolitana De Santiago;88
+169;FEMENINO;F;10;0;10;Región de Metropolitana De Santiago;23
+170;MASCULINO;M;7;;;Región de Biobío;27
+171;FEMENINO;F;7;;;Región de Metropolitana De Santiago;41
+172;MASCULINO;M;1;0;1;Región de Metropolitana De Santiago;24
+173;FEMENINO;F;6;1;5;Región de Valparaíso;36
+174;FEMENINO;F;5;;;Región de La Araucanía;28
+175;FEMENINO;F;5;;;Región de Los Rios;25
+176;FEMENINO;F;5;;;Región de Metropolitana De Santiago;32
+177;FEMENINO;F;5;1;4;Región de Los Lagos;26
+178;FEMENINO;F;4;;;Región de Biobío;29
+179;FEMENINO;F;6;;;Región de Metropolitana De Santiago;23
+180;MASCULINO;M;10;;;Región de Metropolitana De Santiago;19
+181;MASCULINO;M;4;;;Región de Metropolitana De Santiago;29
+182;FEMENINO;F;3;0;3;Región de Los Lagos;18
+183;FEMENINO;F;4;;;Región de Atacama;28
+184;FEMENINO;F;12;;;Región de Coquimbo;18
+185;MASCULINO;M;11;;;Región de Valparaíso;19
+186;FEMENINO;F;9;0;9;Región de Maule;25
+187;MASCULINO;M;6;;;Región de Metropolitana De Santiago;25
+188;FEMENINO;F;2;1;1;Región de Metropolitana De Santiago;26
+189;FEMENINO;F;4;;;Región de Metropolitana De Santiago;26
+190;FEMENINO;F;8;;;Región de La Araucanía;21
+191;FEMENINO;F;5;3;2;Región de Metropolitana De Santiago;39
+192;FEMENINO;F;4;0;4;Región de Antofagasta;25
+193;FEMENINO;F;10;9;1;Región de Los Rios;55
+194;MASCULINO;M;11;;;Región de Coquimbo;36
+195;FEMENINO;F;4;;;Región de Valparaíso;38
+196;FEMENINO;F;11;;;Región de Metropolitana De Santiago;31
+198;FEMENINO;F;10;3;7;Región de Metropolitana De Santiago;27
+199;FEMENINO;F;0;;;Región de Los Lagos;29
+200;MASCULINO;M;;;;Región de Metropolitana De Santiago;21
+201;FEMENINO;F;5;;;Región de Metropolitana De Santiago;58
+202;FEMENINO;F;9;;;Región de Metropolitana De Santiago;45
+203;FEMENINO;F;8;;;Región de Metropolitana De Santiago;18
+204;MASCULINO;M;8;;;Región de Metropolitana De Santiago;25
+205;FEMENINO;F;5;;;Región de Valparaíso;34
+206;MASCULINO;M;8;;;Región de La Araucanía;21
+207;FEMENINO;F;10;;;Región de Metropolitana De Santiago;32
+208;FEMENINO;F;4;1;3;Región de Valparaíso;32
+210;FEMENINO;F;12;0;12;Región de Maule;23
+212;FEMENINO;F;;;;Región de Magallanes y de La Antártica chilena;27
+213;MASCULINO;M;11;;;Región de Metropolitana De Santiago;23
+214;MASCULINO;M;11;;;Región de Antofagasta;17
 215;;F;;;;;34
-216;FEMENINO;F;2;;;Regi�n de Maule;26
-217;MASCULINO;M;11;0;11;Regi�n de Magallanes y de La Ant�rtica chilena;18
-218;FEMENINO;F;10;;;Regi�n de Los Lagos;33
-219;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;34
-220;FEMENINO;F;12;0;12;Regi�n de �uble;39
+216;FEMENINO;F;2;;;Región de Maule;26
+217;MASCULINO;M;11;0;11;Región de Magallanes y de La Antártica chilena;18
+218;FEMENINO;F;10;;;Región de Los Lagos;33
+219;FEMENINO;F;12;;;Región de Metropolitana De Santiago;34
+220;FEMENINO;F;12;0;12;Región de Ñuble;39
 221;;F;;;;;18
-222;MASCULINO;M;7;1;6;Regi�n de Los Lagos;27
-223;MASCULINO;M;7;;;Regi�n de Metropolitana De Santiago;37
-224;MASCULINO;M;2;;;Regi�n de Metropolitana De Santiago;33
-225;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;32
-226;MASCULINO;M;4;;;Regi�n de Tarapac�;24
-227;FEMENINO;F;7;;;Regi�n de Valpara�so;21
-228;FEMENINO;F;6;0;6;Regi�n de Maule;40
-229;FEMENINO;F;3;;;Regi�n de Metropolitana De Santiago;23
-230;FEMENINO;F;5;;;Regi�n de Biob�o;27
-231;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;50
-232;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;20
-233;FEMENINO;F;6;;;Regi�n de Maule;23
-234;FEMENINO;F;6;3;3;Regi�n de Biob�o;49
-235;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;23
-236;FEMENINO;F;10;1;9;Regi�n de Coquimbo;31
-237;MASCULINO;M;8;;;Regi�n de Biob�o;27
-238;MASCULINO;M;5;0;5;Regi�n de Metropolitana De Santiago;47
-239;FEMENINO;F;11;;;Regi�n de Los Lagos;46
-241;FEMENINO;F;5;;;Regi�n de Biob�o;23
-242;FEMENINO;F;9;3;6;Regi�n de Metropolitana De Santiago;52
-243;MASCULINO;M;12;0;12;Regi�n de Metropolitana De Santiago;20
-244;FEMENINO;F;5;3;2;Regi�n de Biob�o;33
-245;MASCULINO;M;7;;;Regi�n de Libertador B. O'Higgins;49
-250;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;33
-252;FEMENINO;F;11;;;Regi�n de Valpara�so;44
-253;FEMENINO;F;8;;;Regi�n de Los Lagos;71
-254;FEMENINO;F;7;0;7;Regi�n de Metropolitana De Santiago;22
-255;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;50
-257;FEMENINO;F;3;;;Regi�n de Metropolitana De Santiago;57
-258;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;23
-259;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;18
-260;FEMENINO;F;2;;;Regi�n de Valpara�so;36
-261;MASCULINO;M;7;;;Regi�n de Coquimbo;21
-262;FEMENINO;F;6;;;Regi�n de Libertador B. O'Higgins;47
-263;MASCULINO;M;3;;;Regi�n de La Araucan�a;26
-264;MASCULINO;M;9;0;9;Regi�n de Metropolitana De Santiago;36
-265;FEMENINO;F;3;0;3;Regi�n de Biob�o;27
-266;FEMENINO;F;6;;;Regi�n de Libertador B. O'Higgins;35
-267;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;32
-268;FEMENINO;F;6;;;Regi�n de Maule;38
-269;FEMENINO;F;6;;;Regi�n de La Araucan�a;25
-270;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;35
-271;FEMENINO;F;6;1;5;Regi�n de Antofagasta;29
-272;FEMENINO;F;6;0;6;Regi�n de Metropolitana De Santiago;29
-274;FEMENINO;F;11;;;Regi�n de Antofagasta;23
-275;FEMENINO;F;6;0;6;Regi�n de Metropolitana De Santiago;26
-276;FEMENINO;F;3;;;Regi�n de Metropolitana De Santiago;40
-277;MASCULINO;M;11;;;Regi�n de Tarapac�;61
-278;FEMENINO;F;10;0;10;Regi�n de Arica y Parinacota;24
-279;FEMENINO;F;8;;;Regi�n de Valpara�so;52
-280;FEMENINO;F;10;0;10;Regi�n de Valpara�so;30
-281;FEMENINO;F;10;4;6;Regi�n de Metropolitana De Santiago;29
-282;MASCULINO;M;;;;Regi�n de Metropolitana De Santiago;30
-283;FEMENINO;F;3;0;3;Regi�n de Libertador B. O'Higgins;21
-284;FEMENINO;F;7;1;6;Regi�n de �uble;53
-285;FEMENINO;F;3;;;Regi�n de Metropolitana De Santiago;25
-286;MASCULINO;M;9;;;Regi�n de Antofagasta;28
-287;FEMENINO;F;9;0;9;Regi�n de Metropolitana De Santiago;33
-288;MASCULINO;M;11;;;Regi�n de Metropolitana De Santiago;46
-289;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;37
-291;FEMENINO;F;3;;;Regi�n de Metropolitana De Santiago;21
-292;FEMENINO;F;9;;;Regi�n de �uble;20
-293;MASCULINO;M;11;1;10;Regi�n de Libertador B. O'Higgins;20
-294;MASCULINO;M;8;3;5;Regi�n de Los Lagos;24
-295;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;31
+222;MASCULINO;M;7;1;6;Región de Los Lagos;27
+223;MASCULINO;M;7;;;Región de Metropolitana De Santiago;37
+224;MASCULINO;M;2;;;Región de Metropolitana De Santiago;33
+225;FEMENINO;F;7;;;Región de Metropolitana De Santiago;32
+226;MASCULINO;M;4;;;Región de Tarapacá;24
+227;FEMENINO;F;7;;;Región de Valparaíso;21
+228;FEMENINO;F;6;0;6;Región de Maule;40
+229;FEMENINO;F;3;;;Región de Metropolitana De Santiago;23
+230;FEMENINO;F;5;;;Región de Biobío;27
+231;FEMENINO;F;6;;;Región de Metropolitana De Santiago;50
+232;FEMENINO;F;6;;;Región de Metropolitana De Santiago;20
+233;FEMENINO;F;6;;;Región de Maule;23
+234;FEMENINO;F;6;3;3;Región de Biobío;49
+235;MASCULINO;M;6;;;Región de Metropolitana De Santiago;23
+236;FEMENINO;F;10;1;9;Región de Coquimbo;31
+237;MASCULINO;M;8;;;Región de Biobío;27
+238;MASCULINO;M;5;0;5;Región de Metropolitana De Santiago;47
+239;FEMENINO;F;11;;;Región de Los Lagos;46
+241;FEMENINO;F;5;;;Región de Biobío;23
+242;FEMENINO;F;9;3;6;Región de Metropolitana De Santiago;52
+243;MASCULINO;M;12;0;12;Región de Metropolitana De Santiago;20
+244;FEMENINO;F;5;3;2;Región de Biobío;33
+245;MASCULINO;M;7;;;Región de Libertador B. O'Higgins;49
+250;FEMENINO;F;7;;;Región de Metropolitana De Santiago;33
+252;FEMENINO;F;11;;;Región de Valparaíso;44
+253;FEMENINO;F;8;;;Región de Los Lagos;71
+254;FEMENINO;F;7;0;7;Región de Metropolitana De Santiago;22
+255;FEMENINO;F;8;;;Región de Metropolitana De Santiago;50
+257;FEMENINO;F;3;;;Región de Metropolitana De Santiago;57
+258;FEMENINO;F;5;;;Región de Metropolitana De Santiago;23
+259;FEMENINO;F;5;;;Región de Metropolitana De Santiago;18
+260;FEMENINO;F;2;;;Región de Valparaíso;36
+261;MASCULINO;M;7;;;Región de Coquimbo;21
+262;FEMENINO;F;6;;;Región de Libertador B. O'Higgins;47
+263;MASCULINO;M;3;;;Región de La Araucanía;26
+264;MASCULINO;M;9;0;9;Región de Metropolitana De Santiago;36
+265;FEMENINO;F;3;0;3;Región de Biobío;27
+266;FEMENINO;F;6;;;Región de Libertador B. O'Higgins;35
+267;FEMENINO;F;5;;;Región de Metropolitana De Santiago;32
+268;FEMENINO;F;6;;;Región de Maule;38
+269;FEMENINO;F;6;;;Región de La Araucanía;25
+270;MASCULINO;M;6;;;Región de Metropolitana De Santiago;35
+271;FEMENINO;F;6;1;5;Región de Antofagasta;29
+272;FEMENINO;F;6;0;6;Región de Metropolitana De Santiago;29
+274;FEMENINO;F;11;;;Región de Antofagasta;23
+275;FEMENINO;F;6;0;6;Región de Metropolitana De Santiago;26
+276;FEMENINO;F;3;;;Región de Metropolitana De Santiago;40
+277;MASCULINO;M;11;;;Región de Tarapacá;61
+278;FEMENINO;F;10;0;10;Región de Arica y Parinacota;24
+279;FEMENINO;F;8;;;Región de Valparaíso;52
+280;FEMENINO;F;10;0;10;Región de Valparaíso;30
+281;FEMENINO;F;10;4;6;Región de Metropolitana De Santiago;29
+282;MASCULINO;M;;;;Región de Metropolitana De Santiago;30
+283;FEMENINO;F;3;0;3;Región de Libertador B. O'Higgins;21
+284;FEMENINO;F;7;1;6;Región de Ñuble;53
+285;FEMENINO;F;3;;;Región de Metropolitana De Santiago;25
+286;MASCULINO;M;9;;;Región de Antofagasta;28
+287;FEMENINO;F;9;0;9;Región de Metropolitana De Santiago;33
+288;MASCULINO;M;11;;;Región de Metropolitana De Santiago;46
+289;FEMENINO;F;9;;;Región de Metropolitana De Santiago;37
+291;FEMENINO;F;3;;;Región de Metropolitana De Santiago;21
+292;FEMENINO;F;9;;;Región de Ñuble;20
+293;MASCULINO;M;11;1;10;Región de Libertador B. O'Higgins;20
+294;MASCULINO;M;8;3;5;Región de Los Lagos;24
+295;FEMENINO;F;11;;;Región de Metropolitana De Santiago;31
 296;;M;;;;;41
-297;MASCULINO;M;5;0;5;Regi�n de Maule;35
-298;FEMENINO;F;6;;;Regi�n de Magallanes y de La Ant�rtica chilena;47
-299;MASCULINO;M;9;;;Regi�n de Valpara�so;21
-301;FEMENINO;F;7;7;0;Regi�n de Valpara�so;28
-302;MASCULINO;M;;;;Regi�n de Metropolitana De Santiago;31
+297;MASCULINO;M;5;0;5;Región de Maule;35
+298;FEMENINO;F;6;;;Región de Magallanes y de La Antártica chilena;47
+299;MASCULINO;M;9;;;Región de Valparaíso;21
+301;FEMENINO;F;7;7;0;Región de Valparaíso;28
+302;MASCULINO;M;;;;Región de Metropolitana De Santiago;31
 304;;F;;;;;56
-305;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;28
-306;MASCULINO;M;7;;;Regi�n de Metropolitana De Santiago;28
-307;MASCULINO;M;9;;;Regi�n de Maule;31
-308;MASCULINO;M;9;0;9;Regi�n de Metropolitana De Santiago;24
-309;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;29
-310;MASCULINO;M;8;0;8;Regi�n de Metropolitana De Santiago;21
-311;FEMENINO;F;6;0;6;Regi�n de Metropolitana De Santiago;46
-312;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;31
-313;FEMENINO;F;5;;;Regi�n de Antofagasta;19
-314;MASCULINO;M;9;;;Regi�n de Valpara�so;27
-315;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;38
-316;FEMENINO;F;8;6;2;Regi�n de Metropolitana De Santiago;61
-317;FEMENINO;F;;;;Regi�n de Valpara�so;58
-318;MASCULINO;M;10;0;10;Regi�n de Valpara�so;28
-319;FEMENINO;F;10;;;Regi�n de Biob�o;23
-320;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;31
+305;MASCULINO;M;6;;;Región de Metropolitana De Santiago;28
+306;MASCULINO;M;7;;;Región de Metropolitana De Santiago;28
+307;MASCULINO;M;9;;;Región de Maule;31
+308;MASCULINO;M;9;0;9;Región de Metropolitana De Santiago;24
+309;FEMENINO;F;5;;;Región de Metropolitana De Santiago;29
+310;MASCULINO;M;8;0;8;Región de Metropolitana De Santiago;21
+311;FEMENINO;F;6;0;6;Región de Metropolitana De Santiago;46
+312;FEMENINO;F;5;;;Región de Metropolitana De Santiago;31
+313;FEMENINO;F;5;;;Región de Antofagasta;19
+314;MASCULINO;M;9;;;Región de Valparaíso;27
+315;FEMENINO;F;9;;;Región de Metropolitana De Santiago;38
+316;FEMENINO;F;8;6;2;Región de Metropolitana De Santiago;61
+317;FEMENINO;F;;;;Región de Valparaíso;58
+318;MASCULINO;M;10;0;10;Región de Valparaíso;28
+319;FEMENINO;F;10;;;Región de Biobío;23
+320;FEMENINO;F;12;;;Región de Metropolitana De Santiago;31
 321;;F;;;;;56
-322;FEMENINO;F;9;0;9;Regi�n de Valpara�so;25
-323;MASCULINO;M;4;;;Regi�n de Metropolitana De Santiago;35
-324;MASCULINO;M;5;;;Regi�n de Los Lagos;27
-326;MASCULINO;M;6;0;6;Regi�n de La Araucan�a;19
-327;FEMENINO;F;6;;;Regi�n de Valpara�so;31
-328;FEMENINO;F;7;0;7;Regi�n de Metropolitana De Santiago;38
-329;MASCULINO;M;6;;;Regi�n de Valpara�so;34
-330;FEMENINO;F;8;;;Regi�n de Maule;36
-331;FEMENINO;F;6;0;6;Regi�n de Metropolitana De Santiago;35
-332;FEMENINO;F;7;0;7;Regi�n de La Araucan�a;78
-333;MASCULINO;M;6;1;5;Regi�n de Metropolitana De Santiago;32
+322;FEMENINO;F;9;0;9;Región de Valparaíso;25
+323;MASCULINO;M;4;;;Región de Metropolitana De Santiago;35
+324;MASCULINO;M;5;;;Región de Los Lagos;27
+326;MASCULINO;M;6;0;6;Región de La Araucanía;19
+327;FEMENINO;F;6;;;Región de Valparaíso;31
+328;FEMENINO;F;7;0;7;Región de Metropolitana De Santiago;38
+329;MASCULINO;M;6;;;Región de Valparaíso;34
+330;FEMENINO;F;8;;;Región de Maule;36
+331;FEMENINO;F;6;0;6;Región de Metropolitana De Santiago;35
+332;FEMENINO;F;7;0;7;Región de La Araucanía;78
+333;MASCULINO;M;6;1;5;Región de Metropolitana De Santiago;32
 334;;M;;;;;21
-335;FEMENINO;F;6;0;6;Regi�n de Libertador B. O'Higgins;19
-336;MASCULINO;M;8;;;Regi�n de Magallanes y de La Ant�rtica chilena;30
-337;FEMENINO;F;8;0;8;Regi�n de Metropolitana De Santiago;31
-338;FEMENINO;F;9;;;Regi�n de La Araucan�a;20
-339;MASCULINO;M;10;;;Regi�n de Los Lagos;33
-340;FEMENINO;F;6;2;4;Regi�n de Metropolitana De Santiago;59
-341;FEMENINO;F;6;0;6;Regi�n de Metropolitana De Santiago;19
-342;MASCULINO;M;7;;;Regi�n de Metropolitana De Santiago;28
-343;MASCULINO;M;8;0;8;Regi�n de Tarapac�;19
-344;MASCULINO;M;7;4;3;Regi�n de Metropolitana De Santiago;35
+335;FEMENINO;F;6;0;6;Región de Libertador B. O'Higgins;19
+336;MASCULINO;M;8;;;Región de Magallanes y de La Antártica chilena;30
+337;FEMENINO;F;8;0;8;Región de Metropolitana De Santiago;31
+338;FEMENINO;F;9;;;Región de La Araucanía;20
+339;MASCULINO;M;10;;;Región de Los Lagos;33
+340;FEMENINO;F;6;2;4;Región de Metropolitana De Santiago;59
+341;FEMENINO;F;6;0;6;Región de Metropolitana De Santiago;19
+342;MASCULINO;M;7;;;Región de Metropolitana De Santiago;28
+343;MASCULINO;M;8;0;8;Región de Tarapacá;19
+344;MASCULINO;M;7;4;3;Región de Metropolitana De Santiago;35
 345;;F;;;;;40
-346;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;24
-347;FEMENINO;F;7;0;7;Regi�n de Biob�o;39
-348;MASCULINO;M;8;;;Regi�n de Los Lagos;38
-349;FEMENINO;F;5;;;Regi�n de Coquimbo;20
-350;FEMENINO;F;7;;;Regi�n de Antofagasta;38
-351;FEMENINO;F;6;0;6;Regi�n de Maule;39
-352;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;28
-353;FEMENINO;F;4;;;Regi�n de Valpara�so;36
+346;FEMENINO;F;5;;;Región de Metropolitana De Santiago;24
+347;FEMENINO;F;7;0;7;Región de Biobío;39
+348;MASCULINO;M;8;;;Región de Los Lagos;38
+349;FEMENINO;F;5;;;Región de Coquimbo;20
+350;FEMENINO;F;7;;;Región de Antofagasta;38
+351;FEMENINO;F;6;0;6;Región de Maule;39
+352;FEMENINO;F;6;;;Región de Metropolitana De Santiago;28
+353;FEMENINO;F;4;;;Región de Valparaíso;36
 354;;F;;;;;38
-355;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;68
-357;FEMENINO;F;7;;;Regi�n de Ays�n del Gral. C. Iba�ez del Campo;49
-358;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;20
-359;FEMENINO;F;10;;;Regi�n de Libertador B. O'Higgins;33
-360;MASCULINO;M;6;;;Regi�n de Magallanes y de La Ant�rtica chilena;21
-361;MASCULINO;M;2;;;Regi�n de Metropolitana De Santiago;30
-362;FEMENINO;F;10;;;Regi�n de Biob�o;21
-363;FEMENINO;F;4;1;3;Regi�n de Metropolitana De Santiago;20
-364;FEMENINO;F;2;2;0;Regi�n de Metropolitana De Santiago;24
-365;FEMENINO;F;9;;;Regi�n de Valpara�so;20
-366;FEMENINO;F;5;0;5;Regi�n de Metropolitana De Santiago;26
-367;FEMENINO;F;5;;;Regi�n de Biob�o;35
-368;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;20
-369;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;21
-370;FEMENINO;F;12;;;Regi�n de Arica y Parinacota;30
-371;FEMENINO;F;4;;;Regi�n de Biob�o;20
-372;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;19
-373;MASCULINO;M;5;;;Regi�n de Atacama;28
-374;MASCULINO;M;7;;;Regi�n de Metropolitana De Santiago;31
-375;FEMENINO;F;6;0;6;Regi�n de Valpara�so;21
-376;FEMENINO;F;6;;;Regi�n de Valpara�so;56
-378;MASCULINO;M;7;0;7;Regi�n de Valpara�so;24
-379;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;26
-380;MASCULINO;M;6;;;Regi�n de Los Rios;41
-381;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;32
-382;FEMENINO;F;7;1;6;Regi�n de Atacama;20
-383;FEMENINO;F;6;;;Regi�n de Coquimbo;43
-384;FEMENINO;F;6;3;3;Regi�n de Valpara�so;26
-385;FEMENINO;F;9;;;Regi�n de Los Lagos;29
-386;FEMENINO;F;5;;;Regi�n de Valpara�so;22
-387;MASCULINO;M;2;0;2;Regi�n de Metropolitana De Santiago;38
-388;MASCULINO;M;12;0;12;Regi�n de Metropolitana De Santiago;27
-389;FEMENINO;F;12;0;12;Regi�n de Metropolitana De Santiago;45
-390;MASCULINO;M;0;;;Regi�n de Libertador B. O'Higgins;17
-391;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;27
-392;FEMENINO;F;4;;;Regi�n de Antofagasta;28
-393;FEMENINO;F;3;;;Regi�n de Metropolitana De Santiago;21
-394;FEMENINO;M;12;;;Regi�n de La Araucan�a;20
-395;MASCULINO;M;9;;;Regi�n de Metropolitana De Santiago;24
-396;MASCULINO;M;2;1;1;Regi�n de Biob�o;25
-397;FEMENINO;F;8;3;5;Regi�n de Biob�o;67
-398;FEMENINO;F;4;0;4;Regi�n de Antofagasta;23
-399;FEMENINO;F;11;0;11;Regi�n de �uble;42
-400;FEMENINO;F;5;;;Regi�n de Maule;25
-401;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;23
-403;MASCULINO;M;7;;;Regi�n de Metropolitana De Santiago;28
-405;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;20
-406;FEMENINO;F;10;0;10;Regi�n de Metropolitana De Santiago;23
-407;FEMENINO;F;1;;;Regi�n de �uble;30
-408;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;20
-409;FEMENINO;F;9;;;Regi�n de Atacama;25
-410;MASCULINO;M;7;;;Regi�n de Metropolitana De Santiago;21
-411;FEMENINO;F;7;0;7;Regi�n de Metropolitana De Santiago;37
-412;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;21
-413;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;18
-414;FEMENINO;F;9;;;Regi�n de Valpara�so;18
+355;FEMENINO;F;6;;;Región de Metropolitana De Santiago;68
+357;FEMENINO;F;7;;;Región de Aysén del Gral. C. Ibañez del Campo;49
+358;FEMENINO;F;5;;;Región de Metropolitana De Santiago;20
+359;FEMENINO;F;10;;;Región de Libertador B. O'Higgins;33
+360;MASCULINO;M;6;;;Región de Magallanes y de La Antártica chilena;21
+361;MASCULINO;M;2;;;Región de Metropolitana De Santiago;30
+362;FEMENINO;F;10;;;Región de Biobío;21
+363;FEMENINO;F;4;1;3;Región de Metropolitana De Santiago;20
+364;FEMENINO;F;2;2;0;Región de Metropolitana De Santiago;24
+365;FEMENINO;F;9;;;Región de Valparaíso;20
+366;FEMENINO;F;5;0;5;Región de Metropolitana De Santiago;26
+367;FEMENINO;F;5;;;Región de Biobío;35
+368;FEMENINO;F;7;;;Región de Metropolitana De Santiago;20
+369;FEMENINO;F;10;;;Región de Metropolitana De Santiago;21
+370;FEMENINO;F;12;;;Región de Arica y Parinacota;30
+371;FEMENINO;F;4;;;Región de Biobío;20
+372;MASCULINO;M;6;;;Región de Metropolitana De Santiago;19
+373;MASCULINO;M;5;;;Región de Atacama;28
+374;MASCULINO;M;7;;;Región de Metropolitana De Santiago;31
+375;FEMENINO;F;6;0;6;Región de Valparaíso;21
+376;FEMENINO;F;6;;;Región de Valparaíso;56
+378;MASCULINO;M;7;0;7;Región de Valparaíso;24
+379;FEMENINO;F;11;;;Región de Metropolitana De Santiago;26
+380;MASCULINO;M;6;;;Región de Los Rios;41
+381;FEMENINO;F;7;;;Región de Metropolitana De Santiago;32
+382;FEMENINO;F;7;1;6;Región de Atacama;20
+383;FEMENINO;F;6;;;Región de Coquimbo;43
+384;FEMENINO;F;6;3;3;Región de Valparaíso;26
+385;FEMENINO;F;9;;;Región de Los Lagos;29
+386;FEMENINO;F;5;;;Región de Valparaíso;22
+387;MASCULINO;M;2;0;2;Región de Metropolitana De Santiago;38
+388;MASCULINO;M;12;0;12;Región de Metropolitana De Santiago;27
+389;FEMENINO;F;12;0;12;Región de Metropolitana De Santiago;45
+390;MASCULINO;M;0;;;Región de Libertador B. O'Higgins;17
+391;FEMENINO;F;10;;;Región de Metropolitana De Santiago;27
+392;FEMENINO;F;4;;;Región de Antofagasta;28
+393;FEMENINO;F;3;;;Región de Metropolitana De Santiago;21
+394;FEMENINO;M;12;;;Región de La Araucanía;20
+395;MASCULINO;M;9;;;Región de Metropolitana De Santiago;24
+396;MASCULINO;M;2;1;1;Región de Biobío;25
+397;FEMENINO;F;8;3;5;Región de Biobío;67
+398;FEMENINO;F;4;0;4;Región de Antofagasta;23
+399;FEMENINO;F;11;0;11;Región de Ñuble;42
+400;FEMENINO;F;5;;;Región de Maule;25
+401;MASCULINO;M;8;;;Región de Metropolitana De Santiago;23
+403;MASCULINO;M;7;;;Región de Metropolitana De Santiago;28
+405;FEMENINO;F;6;;;Región de Metropolitana De Santiago;20
+406;FEMENINO;F;10;0;10;Región de Metropolitana De Santiago;23
+407;FEMENINO;F;1;;;Región de Ñuble;30
+408;MASCULINO;M;6;;;Región de Metropolitana De Santiago;20
+409;FEMENINO;F;9;;;Región de Atacama;25
+410;MASCULINO;M;7;;;Región de Metropolitana De Santiago;21
+411;FEMENINO;F;7;0;7;Región de Metropolitana De Santiago;37
+412;FEMENINO;F;6;;;Región de Metropolitana De Santiago;21
+413;MASCULINO;M;6;;;Región de Metropolitana De Santiago;18
+414;FEMENINO;F;9;;;Región de Valparaíso;18
 415;;F;;;;;30
 416;;F;;;;;30
-418;FEMENINO;F;9;;;Regi�n de Maule;29
-419;FEMENINO;F;11;;;Regi�n de Los Lagos;29
-420;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;21
-421;FEMENINO;F;5;1;4;Regi�n de Metropolitana De Santiago;40
-424;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;48
-427;MASCULINO;M;11;;;Regi�n de Metropolitana De Santiago;29
-428;FEMENINO;F;10;;;Regi�n de Biob�o;41
-429;FEMENINO;F;1;;;Regi�n de Valpara�so;71
-430;FEMENINO;F;7;0;7;Regi�n de Metropolitana De Santiago;29
-431;MASCULINO;M;11;;;Regi�n de La Araucan�a;35
-432;FEMENINO;F;10;;;Regi�n de Tarapac�;24
-433;FEMENINO;F;7;;;Regi�n de Valpara�so;26
+418;FEMENINO;F;9;;;Región de Maule;29
+419;FEMENINO;F;11;;;Región de Los Lagos;29
+420;FEMENINO;F;5;;;Región de Metropolitana De Santiago;21
+421;FEMENINO;F;5;1;4;Región de Metropolitana De Santiago;40
+424;FEMENINO;F;11;;;Región de Metropolitana De Santiago;48
+427;MASCULINO;M;11;;;Región de Metropolitana De Santiago;29
+428;FEMENINO;F;10;;;Región de Biobío;41
+429;FEMENINO;F;1;;;Región de Valparaíso;71
+430;FEMENINO;F;7;0;7;Región de Metropolitana De Santiago;29
+431;MASCULINO;M;11;;;Región de La Araucanía;35
+432;FEMENINO;F;10;;;Región de Tarapacá;24
+433;FEMENINO;F;7;;;Región de Valparaíso;26
 435;;F;;;;;30
-436;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;57
-437;FEMENINO;F;;0;;Regi�n de �uble;39
-438;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;21
-439;FEMENINO;F;5;;;Regi�n de Maule;25
-440;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;50
-441;FEMENINO;F;10;;;Regi�n de Biob�o;29
-442;MASCULINO;M;2;;;Regi�n de Coquimbo;26
-443;FEMENINO;F;;;;Regi�n de Metropolitana De Santiago;31
-444;MASCULINO;F;11;;;Regi�n de Metropolitana De Santiago;29
-445;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;22
-446;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;40
-448;MASCULINO;M;3;;;Regi�n de La Araucan�a;19
-449;FEMENINO;F;5;;;Regi�n de �uble;27
-450;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;28
-451;FEMENINO;F;12;;;Regi�n de Biob�o;17
-454;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;19
-455;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;35
-456;MASCULINO;M;7;;;Regi�n de Biob�o;28
-458;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;21
-459;FEMENINO;F;4;1;3;Regi�n de Maule;71
-460;MASCULINO;M;8;0;8;Regi�n de Maule;22
-461;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;41
-462;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;34
-463;MASCULINO;M;9;0;9;Regi�n de Valpara�so;22
-464;FEMENINO;F;3;0;3;Regi�n de Los Lagos;23
-465;FEMENINO;F;9;;;Regi�n de Valpara�so;24
-466;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;29
-467;MASCULINO;M;8;;;Regi�n de Los Rios;26
-468;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;49
-469;FEMENINO;F;8;0;8;Regi�n de Biob�o;40
-470;FEMENINO;F;10;;;Regi�n de Libertador B. O'Higgins;39
-471;FEMENINO;F;2;;;Regi�n de Coquimbo;25
-472;MASCULINO;M;;;;Regi�n de Metropolitana De Santiago;38
-473;FEMENINO;F;5;0;5;Regi�n de Metropolitana De Santiago;22
-474;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;24
-475;FEMENINO;F;7;0;7;Regi�n de Libertador B. O'Higgins;18
-476;FEMENINO;F;11;;;Regi�n de Maule;58
-477;FEMENINO;F;10;0;10;Regi�n de Metropolitana De Santiago;23
-478;MASCULINO;M;12;;;Regi�n de Metropolitana De Santiago;24
-479;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;23
-480;FEMENINO;F;4;;;Regi�n de Tarapac�;32
-481;MASCULINO;M;10;;;Regi�n de Metropolitana De Santiago;34
+436;FEMENINO;F;12;;;Región de Metropolitana De Santiago;57
+437;FEMENINO;F;;0;;Región de Ñuble;39
+438;FEMENINO;F;5;;;Región de Metropolitana De Santiago;21
+439;FEMENINO;F;5;;;Región de Maule;25
+440;FEMENINO;F;5;;;Región de Metropolitana De Santiago;50
+441;FEMENINO;F;10;;;Región de Biobío;29
+442;MASCULINO;M;2;;;Región de Coquimbo;26
+443;FEMENINO;F;;;;Región de Metropolitana De Santiago;31
+444;MASCULINO;F;11;;;Región de Metropolitana De Santiago;29
+445;FEMENINO;F;7;;;Región de Metropolitana De Santiago;22
+446;FEMENINO;F;11;;;Región de Metropolitana De Santiago;40
+448;MASCULINO;M;3;;;Región de La Araucanía;19
+449;FEMENINO;F;5;;;Región de Ñuble;27
+450;FEMENINO;F;6;;;Región de Metropolitana De Santiago;28
+451;FEMENINO;F;12;;;Región de Biobío;17
+454;MASCULINO;M;6;;;Región de Metropolitana De Santiago;19
+455;MASCULINO;M;8;;;Región de Metropolitana De Santiago;35
+456;MASCULINO;M;7;;;Región de Biobío;28
+458;FEMENINO;F;7;;;Región de Metropolitana De Santiago;21
+459;FEMENINO;F;4;1;3;Región de Maule;71
+460;MASCULINO;M;8;0;8;Región de Maule;22
+461;FEMENINO;F;5;;;Región de Metropolitana De Santiago;41
+462;MASCULINO;M;6;;;Región de Metropolitana De Santiago;34
+463;MASCULINO;M;9;0;9;Región de Valparaíso;22
+464;FEMENINO;F;3;0;3;Región de Los Lagos;23
+465;FEMENINO;F;9;;;Región de Valparaíso;24
+466;FEMENINO;F;12;;;Región de Metropolitana De Santiago;29
+467;MASCULINO;M;8;;;Región de Los Rios;26
+468;MASCULINO;M;8;;;Región de Metropolitana De Santiago;49
+469;FEMENINO;F;8;0;8;Región de Biobío;40
+470;FEMENINO;F;10;;;Región de Libertador B. O'Higgins;39
+471;FEMENINO;F;2;;;Región de Coquimbo;25
+472;MASCULINO;M;;;;Región de Metropolitana De Santiago;38
+473;FEMENINO;F;5;0;5;Región de Metropolitana De Santiago;22
+474;FEMENINO;F;5;;;Región de Metropolitana De Santiago;24
+475;FEMENINO;F;7;0;7;Región de Libertador B. O'Higgins;18
+476;FEMENINO;F;11;;;Región de Maule;58
+477;FEMENINO;F;10;0;10;Región de Metropolitana De Santiago;23
+478;MASCULINO;M;12;;;Región de Metropolitana De Santiago;24
+479;FEMENINO;F;9;;;Región de Metropolitana De Santiago;23
+480;FEMENINO;F;4;;;Región de Tarapacá;32
+481;MASCULINO;M;10;;;Región de Metropolitana De Santiago;34
 482;;M;;;;;39
-483;FEMENINO;F;6;;;Regi�n de Valpara�so;23
-484;FEMENINO;F;4;;;Regi�n de Metropolitana De Santiago;36
-485;FEMENINO;F;5;;;Regi�n de Libertador B. O'Higgins;51
-486;MASCULINO;M;7;0;7;Regi�n de Magallanes y de La Ant�rtica chilena;26
-487;FEMENINO;F;6;1;5;Regi�n de Metropolitana De Santiago;30
-488;FEMENINO;F;5;1;4;Regi�n de Maule;60
-489;FEMENINO;F;6;;;Regi�n de Libertador B. O'Higgins;32
-490;FEMENINO;F;5;0;5;Regi�n de Metropolitana De Santiago;18
-491;FEMENINO;F;8;;;Regi�n de Valpara�so;21
-492;FEMENINO;F;;;;Regi�n de Metropolitana De Santiago;21
-493;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;40
-494;FEMENINO;F;7;0;7;Regi�n de Metropolitana De Santiago;25
-495;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;33
-496;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;28
-497;MASCULINO;M;6;0;6;Regi�n de La Araucan�a;44
-498;FEMENINO;F;3;;;Regi�n de Coquimbo;18
-499;MASCULINO;M;10;;;Regi�n de Los Lagos;25
-500;FEMENINO;F;4;;;Regi�n de Los Lagos;20
-501;MASCULINO;M;5;0;5;Regi�n de Metropolitana De Santiago;64
-502;MASCULINO;M;8;;;Regi�n de Biob�o;22
+483;FEMENINO;F;6;;;Región de Valparaíso;23
+484;FEMENINO;F;4;;;Región de Metropolitana De Santiago;36
+485;FEMENINO;F;5;;;Región de Libertador B. O'Higgins;51
+486;MASCULINO;M;7;0;7;Región de Magallanes y de La Antártica chilena;26
+487;FEMENINO;F;6;1;5;Región de Metropolitana De Santiago;30
+488;FEMENINO;F;5;1;4;Región de Maule;60
+489;FEMENINO;F;6;;;Región de Libertador B. O'Higgins;32
+490;FEMENINO;F;5;0;5;Región de Metropolitana De Santiago;18
+491;FEMENINO;F;8;;;Región de Valparaíso;21
+492;FEMENINO;F;;;;Región de Metropolitana De Santiago;21
+493;FEMENINO;F;12;;;Región de Metropolitana De Santiago;40
+494;FEMENINO;F;7;0;7;Región de Metropolitana De Santiago;25
+495;FEMENINO;F;10;;;Región de Metropolitana De Santiago;33
+496;FEMENINO;F;7;;;Región de Metropolitana De Santiago;28
+497;MASCULINO;M;6;0;6;Región de La Araucanía;44
+498;FEMENINO;F;3;;;Región de Coquimbo;18
+499;MASCULINO;M;10;;;Región de Los Lagos;25
+500;FEMENINO;F;4;;;Región de Los Lagos;20
+501;MASCULINO;M;5;0;5;Región de Metropolitana De Santiago;64
+502;MASCULINO;M;8;;;Región de Biobío;22
 503;;M;;;;;22
-504;FEMENINO;F;7;;;Regi�n de Biob�o;44
-505;FEMENINO;F;5;;;Regi�n de Biob�o;21
-506;FEMENINO;F;7;1;6;Regi�n de Metropolitana De Santiago;22
-507;MASCULINO;M;3;;;Regi�n de Metropolitana De Santiago;32
+504;FEMENINO;F;7;;;Región de Biobío;44
+505;FEMENINO;F;5;;;Región de Biobío;21
+506;FEMENINO;F;7;1;6;Región de Metropolitana De Santiago;22
+507;MASCULINO;M;3;;;Región de Metropolitana De Santiago;32
 508;;;;;;;
-509;MASCULINO;M;8;0;8;Regi�n de Metropolitana De Santiago;28
-510;FEMENINO;F;1;0;1;Regi�n de Metropolitana De Santiago;28
-511;FEMENINO;F;4;;;Regi�n de Antofagasta;54
-512;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;32
-514;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;42
-515;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;28
-516;MASCULINO;M;9;;;Regi�n de Magallanes y de La Ant�rtica chilena;50
-517;FEMENINO;F;5;0;5;Regi�n de Metropolitana De Santiago;26
-518;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;38
-519;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;36
-520;FEMENINO;F;6;;;Regi�n de Antofagasta;52
-521;FEMENINO;F;1;0;1;Regi�n de �uble;33
-522;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;28
-523;MASCULINO;M;2;;;Regi�n de Metropolitana De Santiago;20
+509;MASCULINO;M;8;0;8;Región de Metropolitana De Santiago;28
+510;FEMENINO;F;1;0;1;Región de Metropolitana De Santiago;28
+511;FEMENINO;F;4;;;Región de Antofagasta;54
+512;FEMENINO;F;8;;;Región de Metropolitana De Santiago;32
+514;MASCULINO;M;6;;;Región de Metropolitana De Santiago;42
+515;FEMENINO;F;12;;;Región de Metropolitana De Santiago;28
+516;MASCULINO;M;9;;;Región de Magallanes y de La Antártica chilena;50
+517;FEMENINO;F;5;0;5;Región de Metropolitana De Santiago;26
+518;FEMENINO;F;12;;;Región de Metropolitana De Santiago;38
+519;FEMENINO;F;8;;;Región de Metropolitana De Santiago;36
+520;FEMENINO;F;6;;;Región de Antofagasta;52
+521;FEMENINO;F;1;0;1;Región de Ñuble;33
+522;FEMENINO;F;9;;;Región de Metropolitana De Santiago;28
+523;MASCULINO;M;2;;;Región de Metropolitana De Santiago;20
 524;;;;;;;
-525;FEMENINO;F;5;;;Regi�n de La Araucan�a;21
+525;FEMENINO;F;5;;;Región de La Araucanía;21
 526;;F;;;;;20
-527;FEMENINO;F;6;;;Regi�n de Maule;54
-528;FEMENINO;F;;;;Regi�n de �uble;37
-529;MASCULINO;M;7;;;Regi�n de Metropolitana De Santiago;25
-530;FEMENINO;F;9;0;9;Regi�n de Valpara�so;19
-531;FEMENINO;F;4;;;Regi�n de Metropolitana De Santiago;54
-533;MASCULINO;M;2;;;Regi�n de Metropolitana De Santiago;77
+527;FEMENINO;F;6;;;Región de Maule;54
+528;FEMENINO;F;;;;Región de Ñuble;37
+529;MASCULINO;M;7;;;Región de Metropolitana De Santiago;25
+530;FEMENINO;F;9;0;9;Región de Valparaíso;19
+531;FEMENINO;F;4;;;Región de Metropolitana De Santiago;54
+533;MASCULINO;M;2;;;Región de Metropolitana De Santiago;77
 535;;F;;;;;25
-536;FEMENINO;F;7;;;Regi�n de Maule;28
-537;FEMENINO;F;4;;;Regi�n de Maule;24
-538;FEMENINO;F;3;0;3;Regi�n de �uble;23
-539;MASCULINO;M;5;;;Regi�n de Metropolitana De Santiago;24
-540;FEMENINO;F;3;;;Regi�n de Los Rios;28
-541;FEMENINO;F;2;;;Regi�n de Metropolitana De Santiago;22
-542;FEMENINO;F;4;;;Regi�n de La Araucan�a;31
-543;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;33
-544;FEMENINO;F;3;;;Regi�n de Metropolitana De Santiago;63
-546;FEMENINO;F;2;;;Regi�n de La Araucan�a;29
-547;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;21
-548;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;32
-549;MASCULINO;M;7;0;7;Regi�n de La Araucan�a;27
-550;MASCULINO;M;3;;;Regi�n de Metropolitana De Santiago;38
+536;FEMENINO;F;7;;;Región de Maule;28
+537;FEMENINO;F;4;;;Región de Maule;24
+538;FEMENINO;F;3;0;3;Región de Ñuble;23
+539;MASCULINO;M;5;;;Región de Metropolitana De Santiago;24
+540;FEMENINO;F;3;;;Región de Los Rios;28
+541;FEMENINO;F;2;;;Región de Metropolitana De Santiago;22
+542;FEMENINO;F;4;;;Región de La Araucanía;31
+543;MASCULINO;M;6;;;Región de Metropolitana De Santiago;33
+544;FEMENINO;F;3;;;Región de Metropolitana De Santiago;63
+546;FEMENINO;F;2;;;Región de La Araucanía;29
+547;FEMENINO;F;9;;;Región de Metropolitana De Santiago;21
+548;FEMENINO;F;6;;;Región de Metropolitana De Santiago;32
+549;MASCULINO;M;7;0;7;Región de La Araucanía;27
+550;MASCULINO;M;3;;;Región de Metropolitana De Santiago;38
 551;;F;;;;;20
 552;;F;;;;;20
-553;FEMENINO;F;6;1;5;Regi�n de Metropolitana De Santiago;29
-554;FEMENINO;F;5;;;Regi�n de Los Rios;60
-555;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;27
-556;FEMENINO;F;8;0;8;Regi�n de Los Lagos;18
-557;FEMENINO;F;7;;;Regi�n de Tarapac�;24
-558;FEMENINO;F;4;;;Regi�n de Metropolitana De Santiago;22
-559;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;22
-560;FEMENINO;F;10;;;Regi�n de Valpara�so;27
-561;MASCULINO;M;11;0;11;Regi�n de Biob�o;31
-562;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;33
-563;FEMENINO;F;4;;;Regi�n de Maule;29
-564;FEMENINO;F;5;;;Regi�n de �uble;19
-565;MASCULINO;M;0;;;Regi�n de Metropolitana De Santiago;24
-566;MASCULINO;M;6;0;6;Regi�n de Metropolitana De Santiago;18
-567;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;35
-568;FEMENINO;F;8;;;Regi�n de Antofagasta;26
-569;FEMENINO;F;2;1;1;Regi�n de Biob�o;28
-570;FEMENINO;F;1;0;1;Regi�n de Metropolitana De Santiago;20
-571;FEMENINO;F;6;;;Regi�n de La Araucan�a;30
-572;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;29
-573;FEMENINO;F;10;;;Regi�n de Coquimbo;27
-574;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;25
-575;MASCULINO;M;6;;;Regi�n de Biob�o;26
-576;FEMENINO;F;7;;;Regi�n de Maule;18
-578;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;44
-579;FEMENINO;F;5;;;Regi�n de Coquimbo;32
-580;FEMENINO;F;6;;;Regi�n de Valpara�so;29
-581;FEMENINO;F;6;;;Regi�n de Los Lagos;36
-582;MASCULINO;M;3;;;Regi�n de La Araucan�a;44
-583;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;20
-584;FEMENINO;F;11;;;Regi�n de Maule;25
-585;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;37
-586;MASCULINO;M;6;;;Regi�n de Maule;20
-587;FEMENINO;F;5;1;4;Regi�n de Metropolitana De Santiago;52
-588;FEMENINO;F;12;;;Regi�n de Los Lagos;20
-589;MASCULINO;M;6;;;Regi�n de Los Lagos;47
-590;FEMENINO;F;5;;;Regi�n de Libertador B. O'Higgins;22
-591;MASCULINO;M;12;;;Regi�n de Metropolitana De Santiago;27
+553;FEMENINO;F;6;1;5;Región de Metropolitana De Santiago;29
+554;FEMENINO;F;5;;;Región de Los Rios;60
+555;FEMENINO;F;8;;;Región de Metropolitana De Santiago;27
+556;FEMENINO;F;8;0;8;Región de Los Lagos;18
+557;FEMENINO;F;7;;;Región de Tarapacá;24
+558;FEMENINO;F;4;;;Región de Metropolitana De Santiago;22
+559;FEMENINO;F;6;;;Región de Metropolitana De Santiago;22
+560;FEMENINO;F;10;;;Región de Valparaíso;27
+561;MASCULINO;M;11;0;11;Región de Biobío;31
+562;FEMENINO;F;5;;;Región de Metropolitana De Santiago;33
+563;FEMENINO;F;4;;;Región de Maule;29
+564;FEMENINO;F;5;;;Región de Ñuble;19
+565;MASCULINO;M;0;;;Región de Metropolitana De Santiago;24
+566;MASCULINO;M;6;0;6;Región de Metropolitana De Santiago;18
+567;FEMENINO;F;5;;;Región de Metropolitana De Santiago;35
+568;FEMENINO;F;8;;;Región de Antofagasta;26
+569;FEMENINO;F;2;1;1;Región de Biobío;28
+570;FEMENINO;F;1;0;1;Región de Metropolitana De Santiago;20
+571;FEMENINO;F;6;;;Región de La Araucanía;30
+572;FEMENINO;F;6;;;Región de Metropolitana De Santiago;29
+573;FEMENINO;F;10;;;Región de Coquimbo;27
+574;FEMENINO;F;6;;;Región de Metropolitana De Santiago;25
+575;MASCULINO;M;6;;;Región de Biobío;26
+576;FEMENINO;F;7;;;Región de Maule;18
+578;FEMENINO;F;6;;;Región de Metropolitana De Santiago;44
+579;FEMENINO;F;5;;;Región de Coquimbo;32
+580;FEMENINO;F;6;;;Región de Valparaíso;29
+581;FEMENINO;F;6;;;Región de Los Lagos;36
+582;MASCULINO;M;3;;;Región de La Araucanía;44
+583;FEMENINO;F;7;;;Región de Metropolitana De Santiago;20
+584;FEMENINO;F;11;;;Región de Maule;25
+585;FEMENINO;F;5;;;Región de Metropolitana De Santiago;37
+586;MASCULINO;M;6;;;Región de Maule;20
+587;FEMENINO;F;5;1;4;Región de Metropolitana De Santiago;52
+588;FEMENINO;F;12;;;Región de Los Lagos;20
+589;MASCULINO;M;6;;;Región de Los Lagos;47
+590;FEMENINO;F;5;;;Región de Libertador B. O'Higgins;22
+591;MASCULINO;M;12;;;Región de Metropolitana De Santiago;27
 592;FEMENINO;F;3;;;;32
-593;FEMENINO;F;11;0;11;Regi�n de Metropolitana De Santiago;23
-594;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;32
-595;MASCULINO;M;5;;;Regi�n de Los Lagos;36
-596;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;22
-597;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;20
-598;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;23
-599;MASCULINO;M;4;;;Regi�n de Metropolitana De Santiago;39
-600;FEMENINO;F;6;;;Regi�n de Libertador B. O'Higgins;24
-601;FEMENINO;F;6;;;Regi�n de Los Lagos;52
+593;FEMENINO;F;11;0;11;Región de Metropolitana De Santiago;23
+594;FEMENINO;F;9;;;Región de Metropolitana De Santiago;32
+595;MASCULINO;M;5;;;Región de Los Lagos;36
+596;FEMENINO;F;6;;;Región de Metropolitana De Santiago;22
+597;FEMENINO;F;12;;;Región de Metropolitana De Santiago;20
+598;FEMENINO;F;7;;;Región de Metropolitana De Santiago;23
+599;MASCULINO;M;4;;;Región de Metropolitana De Santiago;39
+600;FEMENINO;F;6;;;Región de Libertador B. O'Higgins;24
+601;FEMENINO;F;6;;;Región de Los Lagos;52
 602;;F;;;;;23
-603;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;36
-604;MASCULINO;M;9;;;Regi�n de �uble;28
-605;MASCULINO;M;1;;;Regi�n de Arica y Parinacota;38
+603;MASCULINO;M;8;;;Región de Metropolitana De Santiago;36
+604;MASCULINO;M;9;;;Región de Ñuble;28
+605;MASCULINO;M;1;;;Región de Arica y Parinacota;38
 606;;F;;;;;20
-607;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;32
-608;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;32
-609;FEMENINO;F;11;;;Regi�n de Coquimbo;47
-610;MASCULINO;M;5;;;Regi�n de Metropolitana De Santiago;31
-611;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;22
-612;MASCULINO;M;6;3;3;Regi�n de Los Lagos;31
-613;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;33
-614;MASCULINO;M;12;;;Regi�n de Libertador B. O'Higgins;28
-615;FEMENINO;F;9;2;7;Regi�n de Libertador B. O'Higgins;26
-616;MASCULINO;M;0;0;0;Regi�n de Maule;18
-617;FEMENINO;F;6;;;Regi�n de Maule;23
-618;FEMENINO;F;7;0;7;Regi�n de Metropolitana De Santiago;31
+607;FEMENINO;F;7;;;Región de Metropolitana De Santiago;32
+608;FEMENINO;F;6;;;Región de Metropolitana De Santiago;32
+609;FEMENINO;F;11;;;Región de Coquimbo;47
+610;MASCULINO;M;5;;;Región de Metropolitana De Santiago;31
+611;FEMENINO;F;6;;;Región de Metropolitana De Santiago;22
+612;MASCULINO;M;6;3;3;Región de Los Lagos;31
+613;FEMENINO;F;10;;;Región de Metropolitana De Santiago;33
+614;MASCULINO;M;12;;;Región de Libertador B. O'Higgins;28
+615;FEMENINO;F;9;2;7;Región de Libertador B. O'Higgins;26
+616;MASCULINO;M;0;0;0;Región de Maule;18
+617;FEMENINO;F;6;;;Región de Maule;23
+618;FEMENINO;F;7;0;7;Región de Metropolitana De Santiago;31
 619;;F;;;;;31
-620;FEMENINO;F;;;;Regi�n de Valpara�so;26
-621;FEMENINO;F;5;0;5;Regi�n de Metropolitana De Santiago;39
-622;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;21
-623;MASCULINO;M;4;;;Regi�n de Metropolitana De Santiago;27
-624;FEMENINO;F;9;;;Regi�n de Antofagasta;34
-625;FEMENINO;F;4;;;Regi�n de Antofagasta;34
-626;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;70
-627;FEMENINO;F;2;;;Regi�n de Metropolitana De Santiago;25
-628;MASCULINO;M;12;;;Regi�n de Biob�o;30
-629;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;33
-630;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;26
-631;MASCULINO;M;12;;;Regi�n de Magallanes y de La Ant�rtica chilena;21
-632;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;22
-633;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;43
-634;FEMENINO;F;8;;;Regi�n de Maule;47
-635;MASCULINO;M;7;;;Regi�n de Biob�o;40
-636;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;63
-637;FEMENINO;F;8;;;Regi�n de Tarapac�;23
-638;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;19
-639;FEMENINO;F;2;;;Regi�n de Valpara�so;62
-640;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;53
-641;MASCULINO;M;2;;;Regi�n de Metropolitana De Santiago;44
-642;FEMENINO;F;8;0;8;Regi�n de Metropolitana De Santiago;30
-643;FEMENINO;F;9;0;9;Regi�n de Metropolitana De Santiago;35
-644;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;29
-645;MASCULINO;M;7;0;7;Regi�n de Metropolitana De Santiago;51
-646;MASCULINO;M;5;0;5;Regi�n de Los Lagos;20
-647;FEMENINO;F;10;0;10;Regi�n de Valpara�so;34
-648;MASCULINO;M;6;1;5;Regi�n de Metropolitana De Santiago;37
-649;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;47
-650;FEMENINO;F;5;;;Regi�n de Maule;58
-651;MASCULINO;M;6;;;Regi�n de Valpara�so;22
-652;FEMENINO;F;4;0;4;Regi�n de Metropolitana De Santiago;56
-653;MASCULINO;M;7;;;Regi�n de Metropolitana De Santiago;25
-654;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;44
-655;FEMENINO;F;3;0;3;Regi�n de Valpara�so;48
-656;FEMENINO;F;3;;;Regi�n de Biob�o;29
-657;FEMENINO;F;11;0;11;Regi�n de Los Lagos;74
-658;FEMENINO;F;5;;;Regi�n de Los Lagos;56
-659;FEMENINO;F;6;;;Regi�n de Los Lagos;42
-660;FEMENINO;F;10;0;10;Regi�n de Biob�o;33
-661;FEMENINO;F;4;;;Regi�n de Los Lagos;58
-662;FEMENINO;F;4;;;Regi�n de Los Lagos;32
-663;FEMENINO;F;10;;;Regi�n de Tarapac�;23
-664;FEMENINO;F;4;;;Regi�n de Los Lagos;27
-665;FEMENINO;F;5;1;4;Regi�n de Arica y Parinacota;27
-666;FEMENINO;F;7;1;6;Regi�n de Los Lagos;64
-667;FEMENINO;F;8;;;Regi�n de Los Lagos;62
-668;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;64
-669;MASCULINO;M;5;0;5;Regi�n de Los Lagos;58
+620;FEMENINO;F;;;;Región de Valparaíso;26
+621;FEMENINO;F;5;0;5;Región de Metropolitana De Santiago;39
+622;FEMENINO;F;7;;;Región de Metropolitana De Santiago;21
+623;MASCULINO;M;4;;;Región de Metropolitana De Santiago;27
+624;FEMENINO;F;9;;;Región de Antofagasta;34
+625;FEMENINO;F;4;;;Región de Antofagasta;34
+626;FEMENINO;F;7;;;Región de Metropolitana De Santiago;70
+627;FEMENINO;F;2;;;Región de Metropolitana De Santiago;25
+628;MASCULINO;M;12;;;Región de Biobío;30
+629;FEMENINO;F;11;;;Región de Metropolitana De Santiago;33
+630;MASCULINO;M;8;;;Región de Metropolitana De Santiago;26
+631;MASCULINO;M;12;;;Región de Magallanes y de La Antártica chilena;21
+632;MASCULINO;M;8;;;Región de Metropolitana De Santiago;22
+633;FEMENINO;F;12;;;Región de Metropolitana De Santiago;43
+634;FEMENINO;F;8;;;Región de Maule;47
+635;MASCULINO;M;7;;;Región de Biobío;40
+636;FEMENINO;F;9;;;Región de Metropolitana De Santiago;63
+637;FEMENINO;F;8;;;Región de Tarapacá;23
+638;FEMENINO;F;9;;;Región de Metropolitana De Santiago;19
+639;FEMENINO;F;2;;;Región de Valparaíso;62
+640;FEMENINO;F;6;;;Región de Metropolitana De Santiago;53
+641;MASCULINO;M;2;;;Región de Metropolitana De Santiago;44
+642;FEMENINO;F;8;0;8;Región de Metropolitana De Santiago;30
+643;FEMENINO;F;9;0;9;Región de Metropolitana De Santiago;35
+644;MASCULINO;M;8;;;Región de Metropolitana De Santiago;29
+645;MASCULINO;M;7;0;7;Región de Metropolitana De Santiago;51
+646;MASCULINO;M;5;0;5;Región de Los Lagos;20
+647;FEMENINO;F;10;0;10;Región de Valparaíso;34
+648;MASCULINO;M;6;1;5;Región de Metropolitana De Santiago;37
+649;MASCULINO;M;8;;;Región de Metropolitana De Santiago;47
+650;FEMENINO;F;5;;;Región de Maule;58
+651;MASCULINO;M;6;;;Región de Valparaíso;22
+652;FEMENINO;F;4;0;4;Región de Metropolitana De Santiago;56
+653;MASCULINO;M;7;;;Región de Metropolitana De Santiago;25
+654;FEMENINO;F;5;;;Región de Metropolitana De Santiago;44
+655;FEMENINO;F;3;0;3;Región de Valparaíso;48
+656;FEMENINO;F;3;;;Región de Biobío;29
+657;FEMENINO;F;11;0;11;Región de Los Lagos;74
+658;FEMENINO;F;5;;;Región de Los Lagos;56
+659;FEMENINO;F;6;;;Región de Los Lagos;42
+660;FEMENINO;F;10;0;10;Región de Biobío;33
+661;FEMENINO;F;4;;;Región de Los Lagos;58
+662;FEMENINO;F;4;;;Región de Los Lagos;32
+663;FEMENINO;F;10;;;Región de Tarapacá;23
+664;FEMENINO;F;4;;;Región de Los Lagos;27
+665;FEMENINO;F;5;1;4;Región de Arica y Parinacota;27
+666;FEMENINO;F;7;1;6;Región de Los Lagos;64
+667;FEMENINO;F;8;;;Región de Los Lagos;62
+668;FEMENINO;F;5;;;Región de Metropolitana De Santiago;64
+669;MASCULINO;M;5;0;5;Región de Los Lagos;58
 670;;M;;;;;20
-671;MASCULINO;M;9;;;Regi�n de Valpara�so;63
-672;MASCULINO;M;0;;;Regi�n de Los Lagos;15
-673;MASCULINO;M;9;;;Regi�n de Los Rios;26
-674;FEMENINO;F;5;0;5;Regi�n de Metropolitana De Santiago;71
-675;FEMENINO;F;7;;;Regi�n de Los Lagos;29
-677;MASCULINO;M;6;;;Regi�n de Libertador B. O'Higgins;29
-678;FEMENINO;F;2;0;2;Regi�n de Los Lagos;53
+671;MASCULINO;M;9;;;Región de Valparaíso;63
+672;MASCULINO;M;0;;;Región de Los Lagos;15
+673;MASCULINO;M;9;;;Región de Los Rios;26
+674;FEMENINO;F;5;0;5;Región de Metropolitana De Santiago;71
+675;FEMENINO;F;7;;;Región de Los Lagos;29
+677;MASCULINO;M;6;;;Región de Libertador B. O'Higgins;29
+678;FEMENINO;F;2;0;2;Región de Los Lagos;53
 679;;;;;;;
-680;FEMENINO;F;6;;;Regi�n de Los Lagos;32
-681;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;39
-682;FEMENINO;F;3;;;Regi�n de Arica y Parinacota;32
-683;FEMENINO;F;10;;;Regi�n de Magallanes y de La Ant�rtica chilena;29
-684;FEMENINO;F;7;;;Regi�n de Coquimbo;37
-685;FEMENINO;F;7;;;Regi�n de Los Lagos;46
-686;MASCULINO;M;3;;;Regi�n de Metropolitana De Santiago;40
-687;FEMENINO;F;8;;;Regi�n de Los Lagos;54
+680;FEMENINO;F;6;;;Región de Los Lagos;32
+681;FEMENINO;F;10;;;Región de Metropolitana De Santiago;39
+682;FEMENINO;F;3;;;Región de Arica y Parinacota;32
+683;FEMENINO;F;10;;;Región de Magallanes y de La Antártica chilena;29
+684;FEMENINO;F;7;;;Región de Coquimbo;37
+685;FEMENINO;F;7;;;Región de Los Lagos;46
+686;MASCULINO;M;3;;;Región de Metropolitana De Santiago;40
+687;FEMENINO;F;8;;;Región de Los Lagos;54
 688;;F;;;;;42
-689;MASCULINO;M;6;0;6;Regi�n de Metropolitana De Santiago;29
-690;FEMENINO;F;2;0;2;Regi�n de Metropolitana De Santiago;56
-691;MASCULINO;M;6;;;Regi�n de Los Lagos;21
-692;FEMENINO;F;12;;;Regi�n de Los Lagos;49
-693;MASCULINO;M;8;;;Regi�n de Valpara�so;20
-694;FEMENINO;F;4;;;Regi�n de Maule;74
-695;FEMENINO;F;2;;;Regi�n de Los Lagos;51
-696;FEMENINO;F;9;3;6;Regi�n de Metropolitana De Santiago;35
-697;MASCULINO;M;3;1;2;Regi�n de Los Lagos;28
-698;MASCULINO;M;6;;;Regi�n de Los Lagos;24
-699;FEMENINO;F;10;0;10;Regi�n de Metropolitana De Santiago;22
-700;FEMENINO;F;0;;;Regi�n de Los Lagos;31
-701;FEMENINO;F;12;;;Regi�n de Los Lagos;41
-702;FEMENINO;F;4;0;4;Regi�n de �uble;24
-703;FEMENINO;F;7;;;Regi�n de Los Rios;29
-704;MASCULINO;M;10;0;10;Regi�n de Metropolitana De Santiago;25
-705;MASCULINO;M;7;;;Regi�n de Los Lagos;59
-706;MASCULINO;M;0;;;Regi�n de Los Lagos;63
-707;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;37
-708;FEMENINO;F;4;0;4;Regi�n de Metropolitana De Santiago;38
-709;MASCULINO;M;9;;;Regi�n de Metropolitana De Santiago;25
-710;MASCULINO;M;10;0;10;Regi�n de Metropolitana De Santiago;30
-711;FEMENINO;F;10;0;10;Regi�n de Biob�o;27
-712;MASCULINO;M;1;0;1;Regi�n de Valpara�so;60
-713;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;24
-715;FEMENINO;F;5;;;Regi�n de Los Lagos;34
-716;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;28
-717;FEMENINO;F;7;;;Regi�n de Los Lagos;52
-718;FEMENINO;F;7;0;7;Regi�n de Los Lagos;29
-719;FEMENINO;F;7;;;Regi�n de Antofagasta;46
-720;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;34
-721;FEMENINO;F;5;0;5;Regi�n de Metropolitana De Santiago;23
-722;MASCULINO;M;6;0;6;Regi�n de Valpara�so;25
-723;FEMENINO;F;7;0;7;Regi�n de Ays�n del Gral. C. Iba�ez del Campo;23
-724;FEMENINO;F;3;;;Regi�n de Antofagasta;22
-725;FEMENINO;F;4;;;Regi�n de Valpara�so;19
-726;FEMENINO;F;8;0;8;Regi�n de Metropolitana De Santiago;34
-728;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;25
-729;MASCULINO;M;4;;;Regi�n de Metropolitana De Santiago;23
-730;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;55
-731;FEMENINO;F;7;;;Regi�n de Los Lagos;29
+689;MASCULINO;M;6;0;6;Región de Metropolitana De Santiago;29
+690;FEMENINO;F;2;0;2;Región de Metropolitana De Santiago;56
+691;MASCULINO;M;6;;;Región de Los Lagos;21
+692;FEMENINO;F;12;;;Región de Los Lagos;49
+693;MASCULINO;M;8;;;Región de Valparaíso;20
+694;FEMENINO;F;4;;;Región de Maule;74
+695;FEMENINO;F;2;;;Región de Los Lagos;51
+696;FEMENINO;F;9;3;6;Región de Metropolitana De Santiago;35
+697;MASCULINO;M;3;1;2;Región de Los Lagos;28
+698;MASCULINO;M;6;;;Región de Los Lagos;24
+699;FEMENINO;F;10;0;10;Región de Metropolitana De Santiago;22
+700;FEMENINO;F;0;;;Región de Los Lagos;31
+701;FEMENINO;F;12;;;Región de Los Lagos;41
+702;FEMENINO;F;4;0;4;Región de Ñuble;24
+703;FEMENINO;F;7;;;Región de Los Rios;29
+704;MASCULINO;M;10;0;10;Región de Metropolitana De Santiago;25
+705;MASCULINO;M;7;;;Región de Los Lagos;59
+706;MASCULINO;M;0;;;Región de Los Lagos;63
+707;FEMENINO;F;11;;;Región de Metropolitana De Santiago;37
+708;FEMENINO;F;4;0;4;Región de Metropolitana De Santiago;38
+709;MASCULINO;M;9;;;Región de Metropolitana De Santiago;25
+710;MASCULINO;M;10;0;10;Región de Metropolitana De Santiago;30
+711;FEMENINO;F;10;0;10;Región de Biobío;27
+712;MASCULINO;M;1;0;1;Región de Valparaíso;60
+713;FEMENINO;F;9;;;Región de Metropolitana De Santiago;24
+715;FEMENINO;F;5;;;Región de Los Lagos;34
+716;FEMENINO;F;6;;;Región de Metropolitana De Santiago;28
+717;FEMENINO;F;7;;;Región de Los Lagos;52
+718;FEMENINO;F;7;0;7;Región de Los Lagos;29
+719;FEMENINO;F;7;;;Región de Antofagasta;46
+720;FEMENINO;F;6;;;Región de Metropolitana De Santiago;34
+721;FEMENINO;F;5;0;5;Región de Metropolitana De Santiago;23
+722;MASCULINO;M;6;0;6;Región de Valparaíso;25
+723;FEMENINO;F;7;0;7;Región de Aysén del Gral. C. Ibañez del Campo;23
+724;FEMENINO;F;3;;;Región de Antofagasta;22
+725;FEMENINO;F;4;;;Región de Valparaíso;19
+726;FEMENINO;F;8;0;8;Región de Metropolitana De Santiago;34
+728;FEMENINO;F;5;;;Región de Metropolitana De Santiago;25
+729;MASCULINO;M;4;;;Región de Metropolitana De Santiago;23
+730;FEMENINO;F;12;;;Región de Metropolitana De Santiago;55
+731;FEMENINO;F;7;;;Región de Los Lagos;29
 732;;M;;;;;38
-733;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;38
-734;FEMENINO;F;6;;;Regi�n de Valpara�so;19
+733;FEMENINO;F;5;;;Región de Metropolitana De Santiago;38
+734;FEMENINO;F;6;;;Región de Valparaíso;19
 735;;;;;;;
 736;;M;;;;;25
-737;MASCULINO;M;4;2;2;Regi�n de Antofagasta;29
-738;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;46
-739;MASCULINO;M;2;;;Regi�n de Metropolitana De Santiago;32
-740;FEMENINO;F;10;;;Regi�n de Los Lagos;61
-741;MASCULINO;M;10;;;Regi�n de Metropolitana De Santiago;28
-742;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;27
-743;FEMENINO;F;10;5;5;Regi�n de Metropolitana De Santiago;34
-744;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;25
-745;FEMENINO;F;5;0;5;Regi�n de Metropolitana De Santiago;36
-746;MASCULINO;M;11;;;Regi�n de Metropolitana De Santiago;49
-747;FEMENINO;F;9;;;Regi�n de Los Rios;30
-748;FEMENINO;F;5;;;Regi�n de Libertador B. O'Higgins;38
-749;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;46
-750;FEMENINO;F;7;0;7;Regi�n de Metropolitana De Santiago;40
-751;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;53
-752;MASCULINO;M;4;;;Regi�n de Metropolitana De Santiago;31
-753;MASCULINO;M;4;;;Regi�n de Metropolitana De Santiago;59
-754;FEMENINO;F;12;;;Regi�n de Maule;58
-755;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;28
-756;FEMENINO;F;7;;;Regi�n de Coquimbo;35
+737;MASCULINO;M;4;2;2;Región de Antofagasta;29
+738;FEMENINO;F;11;;;Región de Metropolitana De Santiago;46
+739;MASCULINO;M;2;;;Región de Metropolitana De Santiago;32
+740;FEMENINO;F;10;;;Región de Los Lagos;61
+741;MASCULINO;M;10;;;Región de Metropolitana De Santiago;28
+742;FEMENINO;F;7;;;Región de Metropolitana De Santiago;27
+743;FEMENINO;F;10;5;5;Región de Metropolitana De Santiago;34
+744;FEMENINO;F;6;;;Región de Metropolitana De Santiago;25
+745;FEMENINO;F;5;0;5;Región de Metropolitana De Santiago;36
+746;MASCULINO;M;11;;;Región de Metropolitana De Santiago;49
+747;FEMENINO;F;9;;;Región de Los Rios;30
+748;FEMENINO;F;5;;;Región de Libertador B. O'Higgins;38
+749;MASCULINO;M;6;;;Región de Metropolitana De Santiago;46
+750;FEMENINO;F;7;0;7;Región de Metropolitana De Santiago;40
+751;MASCULINO;M;8;;;Región de Metropolitana De Santiago;53
+752;MASCULINO;M;4;;;Región de Metropolitana De Santiago;31
+753;MASCULINO;M;4;;;Región de Metropolitana De Santiago;59
+754;FEMENINO;F;12;;;Región de Maule;58
+755;MASCULINO;M;8;;;Región de Metropolitana De Santiago;28
+756;FEMENINO;F;7;;;Región de Coquimbo;35
 757;;M;;;;;27
-758;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;44
-759;FEMENINO;F;7;0;7;Regi�n de Maule;25
-760;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;29
-761;MASCULINO;M;8;2;6;Regi�n de Metropolitana De Santiago;41
-762;FEMENINO;F;5;0;5;Regi�n de Metropolitana De Santiago;30
-763;FEMENINO;F;6;;;Regi�n de Biob�o;22
-764;MASCULINO;M;8;0;8;Regi�n de Metropolitana De Santiago;42
+758;FEMENINO;F;11;;;Región de Metropolitana De Santiago;44
+759;FEMENINO;F;7;0;7;Región de Maule;25
+760;FEMENINO;F;5;;;Región de Metropolitana De Santiago;29
+761;MASCULINO;M;8;2;6;Región de Metropolitana De Santiago;41
+762;FEMENINO;F;5;0;5;Región de Metropolitana De Santiago;30
+763;FEMENINO;F;6;;;Región de Biobío;22
+764;MASCULINO;M;8;0;8;Región de Metropolitana De Santiago;42
 765;FEMENINO;F;;;;;30
-766;FEMENINO;F;5;0;5;Regi�n de Metropolitana De Santiago;39
-767;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;36
-768;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;48
-769;FEMENINO;F;6;;;Regi�n de Valpara�so;30
-770;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;64
-771;MASCULINO;M;5;0;5;Regi�n de Metropolitana De Santiago;59
-772;MASCULINO;M;3;;;Regi�n de Los Lagos;39
-773;MASCULINO;M;;;;Regi�n de Metropolitana De Santiago;31
-774;FEMENINO;F;5;;;Regi�n de Magallanes y de La Ant�rtica chilena;21
-775;MASCULINO;M;12;0;12;Regi�n de Metropolitana De Santiago;28
-776;FEMENINO;F;9;1;8;Regi�n de Metropolitana De Santiago;31
-777;MASCULINO;M;9;0;9;Regi�n de Metropolitana De Santiago;22
-778;FEMENINO;F;5;;;Regi�n de Atacama;22
-779;MASCULINO;M;11;;;Regi�n de Metropolitana De Santiago;33
-780;FEMENINO;F;6;0;6;Regi�n de Metropolitana De Santiago;26
-781;MASCULINO;M;11;0;11;Regi�n de Biob�o;27
+766;FEMENINO;F;5;0;5;Región de Metropolitana De Santiago;39
+767;FEMENINO;F;7;;;Región de Metropolitana De Santiago;36
+768;FEMENINO;F;7;;;Región de Metropolitana De Santiago;48
+769;FEMENINO;F;6;;;Región de Valparaíso;30
+770;FEMENINO;F;10;;;Región de Metropolitana De Santiago;64
+771;MASCULINO;M;5;0;5;Región de Metropolitana De Santiago;59
+772;MASCULINO;M;3;;;Región de Los Lagos;39
+773;MASCULINO;M;;;;Región de Metropolitana De Santiago;31
+774;FEMENINO;F;5;;;Región de Magallanes y de La Antártica chilena;21
+775;MASCULINO;M;12;0;12;Región de Metropolitana De Santiago;28
+776;FEMENINO;F;9;1;8;Región de Metropolitana De Santiago;31
+777;MASCULINO;M;9;0;9;Región de Metropolitana De Santiago;22
+778;FEMENINO;F;5;;;Región de Atacama;22
+779;MASCULINO;M;11;;;Región de Metropolitana De Santiago;33
+780;FEMENINO;F;6;0;6;Región de Metropolitana De Santiago;26
+781;MASCULINO;M;11;0;11;Región de Biobío;27
 782;FEMENINO;F;7;;;;25
 783;;F;;;;;24
-784;FEMENINO;F;8;1;7;Regi�n de Valpara�so;40
-785;MASCULINO;M;10;;;Regi�n de Metropolitana De Santiago;45
+784;FEMENINO;F;8;1;7;Región de Valparaíso;40
+785;MASCULINO;M;10;;;Región de Metropolitana De Santiago;45
 786;;;;;;;
-787;FEMENINO;F;11;;;Regi�n de Biob�o;21
-788;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;47
-789;FEMENINO;F;0;;;Regi�n de Biob�o;29
-790;MASCULINO;M;4;;;Regi�n de Metropolitana De Santiago;35
-791;FEMENINO;F;10;2;8;Regi�n de Metropolitana De Santiago;30
-792;FEMENINO;F;5;1;4;Regi�n de Metropolitana De Santiago;27
-793;MASCULINO;M;5;;;Regi�n de Biob�o;27
-794;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;22
-795;FEMENINO;F;2;;;Regi�n de Metropolitana De Santiago;40
-796;MASCULINO;M;4;;;Regi�n de Biob�o;41
-797;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;26
-798;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;37
-799;MASCULINO;M;8;2;6;Regi�n de Metropolitana De Santiago;37
-800;FEMENINO;F;8;;;Regi�n de Valpara�so;25
-801;MASCULINO;M;10;;;Regi�n de Metropolitana De Santiago;36
-802;MASCULINO;M;5;;;Regi�n de Valpara�so;39
-803;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;30
-804;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;44
-805;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;35
-807;FEMENINO;F;2;0;2;Regi�n de Metropolitana De Santiago;52
-808;FEMENINO;F;2;;;Regi�n de Biob�o;63
-809;FEMENINO;F;7;;;Regi�n de Arica y Parinacota;31
-810;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;24
-811;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;25
+787;FEMENINO;F;11;;;Región de Biobío;21
+788;FEMENINO;F;11;;;Región de Metropolitana De Santiago;47
+789;FEMENINO;F;0;;;Región de Biobío;29
+790;MASCULINO;M;4;;;Región de Metropolitana De Santiago;35
+791;FEMENINO;F;10;2;8;Región de Metropolitana De Santiago;30
+792;FEMENINO;F;5;1;4;Región de Metropolitana De Santiago;27
+793;MASCULINO;M;5;;;Región de Biobío;27
+794;FEMENINO;F;5;;;Región de Metropolitana De Santiago;22
+795;FEMENINO;F;2;;;Región de Metropolitana De Santiago;40
+796;MASCULINO;M;4;;;Región de Biobío;41
+797;FEMENINO;F;10;;;Región de Metropolitana De Santiago;26
+798;FEMENINO;F;6;;;Región de Metropolitana De Santiago;37
+799;MASCULINO;M;8;2;6;Región de Metropolitana De Santiago;37
+800;FEMENINO;F;8;;;Región de Valparaíso;25
+801;MASCULINO;M;10;;;Región de Metropolitana De Santiago;36
+802;MASCULINO;M;5;;;Región de Valparaíso;39
+803;FEMENINO;F;12;;;Región de Metropolitana De Santiago;30
+804;FEMENINO;F;8;;;Región de Metropolitana De Santiago;44
+805;FEMENINO;F;10;;;Región de Metropolitana De Santiago;35
+807;FEMENINO;F;2;0;2;Región de Metropolitana De Santiago;52
+808;FEMENINO;F;2;;;Región de Biobío;63
+809;FEMENINO;F;7;;;Región de Arica y Parinacota;31
+810;FEMENINO;F;5;;;Región de Metropolitana De Santiago;24
+811;FEMENINO;F;8;;;Región de Metropolitana De Santiago;25
 812;;F;;;;;49
-813;MASCULINO;M;10;1;9;Regi�n de Metropolitana De Santiago;29
-814;MASCULINO;M;9;0;9;Regi�n de Metropolitana De Santiago;55
-815;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;47
+813;MASCULINO;M;10;1;9;Región de Metropolitana De Santiago;29
+814;MASCULINO;M;9;0;9;Región de Metropolitana De Santiago;55
+815;MASCULINO;M;6;;;Región de Metropolitana De Santiago;47
 816;;F;;;;;19
-817;FEMENINO;F;2;0;2;Regi�n de Los Rios;33
-818;FEMENINO;F;11;3;8;Regi�n de �uble;39
-819;FEMENINO;F;5;;;Regi�n de �uble;43
-820;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;33
-821;FEMENINO;F;10;0;10;Regi�n de Metropolitana De Santiago;51
-822;FEMENINO;F;7;;;Regi�n de Valpara�so;19
-823;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;44
-824;FEMENINO;F;9;;;Regi�n de Antofagasta;33
-825;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;58
-826;MASCULINO;M;5;;;Regi�n de Metropolitana De Santiago;28
-827;FEMENINO;F;8;0;8;Regi�n de Libertador B. O'Higgins;31
-828;MASCULINO;M;10;;;Regi�n de Metropolitana De Santiago;66
-829;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;49
-830;MASCULINO;M;7;;;Regi�n de Biob�o;23
-831;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;26
-832;MASCULINO;M;12;;;Regi�n de Metropolitana De Santiago;34
-833;MASCULINO;M;;;;Regi�n de Metropolitana De Santiago;41
-834;MASCULINO;M;4;;;Regi�n de Metropolitana De Santiago;53
-835;MASCULINO;M;7;;;Regi�n de Metropolitana De Santiago;75
-836;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;33
-837;MASCULINO;M;11;;;Regi�n de Coquimbo;20
-838;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;26
-839;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;28
-840;MASCULINO;M;6;;;Regi�n de Coquimbo;36
-841;FEMENINO;F;4;;;Regi�n de Valpara�so;51
-842;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;45
-843;FEMENINO;F;6;1;5;Regi�n de Valpara�so;18
-844;MASCULINO;M;11;;;Regi�n de Metropolitana De Santiago;37
-845;MASCULINO;M;10;;;Regi�n de Metropolitana De Santiago;27
-846;FEMENINO;F;2;;;Regi�n de Biob�o;18
-847;FEMENINO;F;5;0;5;Regi�n de Metropolitana De Santiago;62
-848;FEMENINO;F;5;;;Regi�n de Valpara�so;62
-849;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;51
-850;FEMENINO;F;9;;;Regi�n de Libertador B. O'Higgins;46
-851;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;52
-852;MASCULINO;M;12;;;Regi�n de Metropolitana De Santiago;57
-853;FEMENINO;F;6;0;6;Regi�n de Metropolitana De Santiago;47
-854;FEMENINO;F;8;;;Regi�n de La Araucan�a;24
-855;FEMENINO;F;6;0;6;Regi�n de Antofagasta;36
-856;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;26
-857;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;48
-858;MASCULINO;M;4;;;Regi�n de Biob�o;52
-859;FEMENINO;F;;;;Regi�n de Metropolitana De Santiago;25
-860;MASCULINO;M;6;7;-1;Regi�n de Valpara�so;54
-861;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;22
-862;FEMENINO;M;11;;;Regi�n de Biob�o;19
-863;FEMENINO;F;11;;;Regi�n de Arica y Parinacota;38
+817;FEMENINO;F;2;0;2;Región de Los Rios;33
+818;FEMENINO;F;11;3;8;Región de Ñuble;39
+819;FEMENINO;F;5;;;Región de Ñuble;43
+820;FEMENINO;F;5;;;Región de Metropolitana De Santiago;33
+821;FEMENINO;F;10;0;10;Región de Metropolitana De Santiago;51
+822;FEMENINO;F;7;;;Región de Valparaíso;19
+823;MASCULINO;M;8;;;Región de Metropolitana De Santiago;44
+824;FEMENINO;F;9;;;Región de Antofagasta;33
+825;FEMENINO;F;6;;;Región de Metropolitana De Santiago;58
+826;MASCULINO;M;5;;;Región de Metropolitana De Santiago;28
+827;FEMENINO;F;8;0;8;Región de Libertador B. O'Higgins;31
+828;MASCULINO;M;10;;;Región de Metropolitana De Santiago;66
+829;FEMENINO;F;12;;;Región de Metropolitana De Santiago;49
+830;MASCULINO;M;7;;;Región de Biobío;23
+831;FEMENINO;F;6;;;Región de Metropolitana De Santiago;26
+832;MASCULINO;M;12;;;Región de Metropolitana De Santiago;34
+833;MASCULINO;M;;;;Región de Metropolitana De Santiago;41
+834;MASCULINO;M;4;;;Región de Metropolitana De Santiago;53
+835;MASCULINO;M;7;;;Región de Metropolitana De Santiago;75
+836;FEMENINO;F;5;;;Región de Metropolitana De Santiago;33
+837;MASCULINO;M;11;;;Región de Coquimbo;20
+838;FEMENINO;F;6;;;Región de Metropolitana De Santiago;26
+839;FEMENINO;F;7;;;Región de Metropolitana De Santiago;28
+840;MASCULINO;M;6;;;Región de Coquimbo;36
+841;FEMENINO;F;4;;;Región de Valparaíso;51
+842;FEMENINO;F;9;;;Región de Metropolitana De Santiago;45
+843;FEMENINO;F;6;1;5;Región de Valparaíso;18
+844;MASCULINO;M;11;;;Región de Metropolitana De Santiago;37
+845;MASCULINO;M;10;;;Región de Metropolitana De Santiago;27
+846;FEMENINO;F;2;;;Región de Biobío;18
+847;FEMENINO;F;5;0;5;Región de Metropolitana De Santiago;62
+848;FEMENINO;F;5;;;Región de Valparaíso;62
+849;MASCULINO;M;6;;;Región de Metropolitana De Santiago;51
+850;FEMENINO;F;9;;;Región de Libertador B. O'Higgins;46
+851;MASCULINO;M;6;;;Región de Metropolitana De Santiago;52
+852;MASCULINO;M;12;;;Región de Metropolitana De Santiago;57
+853;FEMENINO;F;6;0;6;Región de Metropolitana De Santiago;47
+854;FEMENINO;F;8;;;Región de La Araucanía;24
+855;FEMENINO;F;6;0;6;Región de Antofagasta;36
+856;FEMENINO;F;9;;;Región de Metropolitana De Santiago;26
+857;FEMENINO;F;12;;;Región de Metropolitana De Santiago;48
+858;MASCULINO;M;4;;;Región de Biobío;52
+859;FEMENINO;F;;;;Región de Metropolitana De Santiago;25
+860;MASCULINO;M;6;7;-1;Región de Valparaíso;54
+861;FEMENINO;F;6;;;Región de Metropolitana De Santiago;22
+862;FEMENINO;M;11;;;Región de Biobío;19
+863;FEMENINO;F;11;;;Región de Arica y Parinacota;38
 864;;M;;;;;43
-865;FEMENINO;F;3;;;Regi�n de Los Lagos;29
-866;FEMENINO;F;0;;;Regi�n de Los Rios;29
-867;FEMENINO;F;7;;;Regi�n de Los Rios;25
-868;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;40
-869;FEMENINO;F;4;;;Regi�n de Metropolitana De Santiago;42
-870;MASCULINO;M;11;;;Regi�n de Metropolitana De Santiago;43
+865;FEMENINO;F;3;;;Región de Los Lagos;29
+866;FEMENINO;F;0;;;Región de Los Rios;29
+867;FEMENINO;F;7;;;Región de Los Rios;25
+868;MASCULINO;M;6;;;Región de Metropolitana De Santiago;40
+869;FEMENINO;F;4;;;Región de Metropolitana De Santiago;42
+870;MASCULINO;M;11;;;Región de Metropolitana De Santiago;43
 871;;M;;;;;38
-872;FEMENINO;F;2;1;1;Regi�n de Biob�o;35
-873;FEMENINO;F;;;;Regi�n de Metropolitana De Santiago;28
-874;FEMENINO;F;5;0;5;Regi�n de Metropolitana De Santiago;30
-875;MASCULINO;M;6;;;Regi�n de �uble;28
-876;FEMENINO;F;7;6;1;Regi�n de La Araucan�a;31
-877;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;51
-878;MASCULINO;M;6;;;Regi�n de Valpara�so;20
-879;FEMENINO;F;4;0;4;Regi�n de Arica y Parinacota;31
-880;MASCULINO;M;0;;;Regi�n de Metropolitana De Santiago;31
+872;FEMENINO;F;2;1;1;Región de Biobío;35
+873;FEMENINO;F;;;;Región de Metropolitana De Santiago;28
+874;FEMENINO;F;5;0;5;Región de Metropolitana De Santiago;30
+875;MASCULINO;M;6;;;Región de Ñuble;28
+876;FEMENINO;F;7;6;1;Región de La Araucanía;31
+877;FEMENINO;F;11;;;Región de Metropolitana De Santiago;51
+878;MASCULINO;M;6;;;Región de Valparaíso;20
+879;FEMENINO;F;4;0;4;Región de Arica y Parinacota;31
+880;MASCULINO;M;0;;;Región de Metropolitana De Santiago;31
 882;;F;;;;;18
-885;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;61
-886;MASCULINO;M;5;;;Regi�n de Metropolitana De Santiago;45
-888;MASCULINO;M;5;0;5;Regi�n de La Araucan�a;44
-889;FEMENINO;F;5;2;3;Regi�n de Metropolitana De Santiago;26
-890;MASCULINO;M;11;0;11;Regi�n de Valpara�so;28
-891;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;24
-892;FEMENINO;F;2;0;2;Regi�n de Biob�o;26
-893;FEMENINO;F;6;2;4;Regi�n de Metropolitana De Santiago;67
-894;FEMENINO;F;8;;;Regi�n de Biob�o;55
-895;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;29
-896;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;30
-897;FEMENINO;F;5;4;1;Regi�n de Valpara�so;74
-898;MASCULINO;M;12;;;Regi�n de Metropolitana De Santiago;42
-899;FEMENINO;F;0;0;0;Regi�n de Libertador B. O'Higgins;36
-900;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;20
-901;FEMENINO;F;2;1;1;Regi�n de Metropolitana De Santiago;41
-902;MASCULINO;M;9;;;Regi�n de Metropolitana De Santiago;26
-903;FEMENINO;F;11;;;Regi�n de Biob�o;21
-904;FEMENINO;F;4;;;Regi�n de Metropolitana De Santiago;36
+885;FEMENINO;F;12;;;Región de Metropolitana De Santiago;61
+886;MASCULINO;M;5;;;Región de Metropolitana De Santiago;45
+888;MASCULINO;M;5;0;5;Región de La Araucanía;44
+889;FEMENINO;F;5;2;3;Región de Metropolitana De Santiago;26
+890;MASCULINO;M;11;0;11;Región de Valparaíso;28
+891;FEMENINO;F;5;;;Región de Metropolitana De Santiago;24
+892;FEMENINO;F;2;0;2;Región de Biobío;26
+893;FEMENINO;F;6;2;4;Región de Metropolitana De Santiago;67
+894;FEMENINO;F;8;;;Región de Biobío;55
+895;FEMENINO;F;6;;;Región de Metropolitana De Santiago;29
+896;FEMENINO;F;9;;;Región de Metropolitana De Santiago;30
+897;FEMENINO;F;5;4;1;Región de Valparaíso;74
+898;MASCULINO;M;12;;;Región de Metropolitana De Santiago;42
+899;FEMENINO;F;0;0;0;Región de Libertador B. O'Higgins;36
+900;MASCULINO;M;6;;;Región de Metropolitana De Santiago;20
+901;FEMENINO;F;2;1;1;Región de Metropolitana De Santiago;41
+902;MASCULINO;M;9;;;Región de Metropolitana De Santiago;26
+903;FEMENINO;F;11;;;Región de Biobío;21
+904;FEMENINO;F;4;;;Región de Metropolitana De Santiago;36
 905;;F;;;;;28
-906;MASCULINO;M;10;;;Regi�n de Metropolitana De Santiago;23
+906;MASCULINO;M;10;;;Región de Metropolitana De Santiago;23
 907;;F;;;;;32
 908;;;;;;;
-909;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;45
-910;FEMENINO;F;6;;;Regi�n de La Araucan�a;46
-911;FEMENINO;F;9;0;9;Regi�n de Metropolitana De Santiago;27
-912;FEMENINO;F;6;;;Regi�n de La Araucan�a;23
-913;FEMENINO;F;10;;;Regi�n de La Araucan�a;28
-914;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;23
-915;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;39
-916;FEMENINO;F;10;;;Regi�n de Tarapac�;45
-917;FEMENINO;F;9;1;8;Regi�n de Metropolitana De Santiago;19
-918;FEMENINO;F;8;;;Regi�n de Maule;32
-919;FEMENINO;F;3;;;Regi�n de Metropolitana De Santiago;24
-920;FEMENINO;F;;;;Regi�n de Metropolitana De Santiago;18
-921;FEMENINO;F;5;;;Regi�n de Biob�o;35
-922;FEMENINO;F;8;;;Regi�n de Los Lagos;36
-923;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;67
-924;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;29
-925;FEMENINO;F;2;;;Regi�n de Metropolitana De Santiago;34
-926;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;29
-927;MASCULINO;M;;;;Regi�n de Metropolitana De Santiago;22
-928;FEMENINO;F;1;;;Regi�n de Metropolitana De Santiago;26
-929;FEMENINO;F;5;;;Regi�n de Los Rios;20
-930;MASCULINO;M;8;0;8;Regi�n de Metropolitana De Santiago;23
-931;MASCULINO;M;10;0;10;Regi�n de Metropolitana De Santiago;26
-932;MASCULINO;M;7;;;Regi�n de Metropolitana De Santiago;28
-933;MASCULINO;M;10;;;Regi�n de Los Rios;20
-934;OTRO;M;3;;;Regi�n de Metropolitana De Santiago;33
-935;FEMENINO;F;3;0;3;Regi�n de Antofagasta;30
-936;MASCULINO;M;7;;;Regi�n de Metropolitana De Santiago;31
-937;FEMENINO;F;8;;;Regi�n de Libertador B. O'Higgins;23
-938;FEMENINO;F;12;;;Regi�n de Valpara�so;44
-939;FEMENINO;F;10;;;Regi�n de Maule;17
+909;MASCULINO;M;6;;;Región de Metropolitana De Santiago;45
+910;FEMENINO;F;6;;;Región de La Araucanía;46
+911;FEMENINO;F;9;0;9;Región de Metropolitana De Santiago;27
+912;FEMENINO;F;6;;;Región de La Araucanía;23
+913;FEMENINO;F;10;;;Región de La Araucanía;28
+914;FEMENINO;F;11;;;Región de Metropolitana De Santiago;23
+915;FEMENINO;F;8;;;Región de Metropolitana De Santiago;39
+916;FEMENINO;F;10;;;Región de Tarapacá;45
+917;FEMENINO;F;9;1;8;Región de Metropolitana De Santiago;19
+918;FEMENINO;F;8;;;Región de Maule;32
+919;FEMENINO;F;3;;;Región de Metropolitana De Santiago;24
+920;FEMENINO;F;;;;Región de Metropolitana De Santiago;18
+921;FEMENINO;F;5;;;Región de Biobío;35
+922;FEMENINO;F;8;;;Región de Los Lagos;36
+923;FEMENINO;F;7;;;Región de Metropolitana De Santiago;67
+924;MASCULINO;M;8;;;Región de Metropolitana De Santiago;29
+925;FEMENINO;F;2;;;Región de Metropolitana De Santiago;34
+926;FEMENINO;F;5;;;Región de Metropolitana De Santiago;29
+927;MASCULINO;M;;;;Región de Metropolitana De Santiago;22
+928;FEMENINO;F;1;;;Región de Metropolitana De Santiago;26
+929;FEMENINO;F;5;;;Región de Los Rios;20
+930;MASCULINO;M;8;0;8;Región de Metropolitana De Santiago;23
+931;MASCULINO;M;10;0;10;Región de Metropolitana De Santiago;26
+932;MASCULINO;M;7;;;Región de Metropolitana De Santiago;28
+933;MASCULINO;M;10;;;Región de Los Rios;20
+934;OTRO;M;3;;;Región de Metropolitana De Santiago;33
+935;FEMENINO;F;3;0;3;Región de Antofagasta;30
+936;MASCULINO;M;7;;;Región de Metropolitana De Santiago;31
+937;FEMENINO;F;8;;;Región de Libertador B. O'Higgins;23
+938;FEMENINO;F;12;;;Región de Valparaíso;44
+939;FEMENINO;F;10;;;Región de Maule;17
 940;;F;;;;;50
-941;MASCULINO;M;12;;;Regi�n de Metropolitana De Santiago;23
-942;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;26
+941;MASCULINO;M;12;;;Región de Metropolitana De Santiago;23
+942;FEMENINO;F;5;;;Región de Metropolitana De Santiago;26
 943;;;;;;;
-944;MASCULINO;M;7;;;Regi�n de Metropolitana De Santiago;31
-945;MASCULINO;M;12;;;Regi�n de Metropolitana De Santiago;46
-946;FEMENINO;F;10;;;Regi�n de Los Lagos;26
-947;FEMENINO;F;6;2;4;Regi�n de �uble;26
-948;FEMENINO;F;9;;;Regi�n de Arica y Parinacota;29
-949;FEMENINO;F;9;0;9;Regi�n de Maule;28
+944;MASCULINO;M;7;;;Región de Metropolitana De Santiago;31
+945;MASCULINO;M;12;;;Región de Metropolitana De Santiago;46
+946;FEMENINO;F;10;;;Región de Los Lagos;26
+947;FEMENINO;F;6;2;4;Región de Ñuble;26
+948;FEMENINO;F;9;;;Región de Arica y Parinacota;29
+949;FEMENINO;F;9;0;9;Región de Maule;28
 950;;F;10;0;10;;55
-951;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;55
-952;FEMENINO;F;12;0;12;Regi�n de La Araucan�a;23
-953;FEMENINO;F;2;;;Regi�n de Coquimbo;33
-954;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;38
-955;FEMENINO;F;7;;;Regi�n de Atacama;22
-956;FEMENINO;F;6;5;1;Regi�n de Metropolitana De Santiago;25
-957;FEMENINO;F;8;;;Regi�n de Biob�o;27
-958;FEMENINO;F;9;1;8;Regi�n de Valpara�so;47
-959;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;31
-960;MASCULINO;M;10;0;10;Regi�n de Valpara�so;72
-961;MASCULINO;M;10;0;10;Regi�n de Metropolitana De Santiago;56
+951;FEMENINO;F;10;;;Región de Metropolitana De Santiago;55
+952;FEMENINO;F;12;0;12;Región de La Araucanía;23
+953;FEMENINO;F;2;;;Región de Coquimbo;33
+954;FEMENINO;F;9;;;Región de Metropolitana De Santiago;38
+955;FEMENINO;F;7;;;Región de Atacama;22
+956;FEMENINO;F;6;5;1;Región de Metropolitana De Santiago;25
+957;FEMENINO;F;8;;;Región de Biobío;27
+958;FEMENINO;F;9;1;8;Región de Valparaíso;47
+959;MASCULINO;M;6;;;Región de Metropolitana De Santiago;31
+960;MASCULINO;M;10;0;10;Región de Valparaíso;72
+961;MASCULINO;M;10;0;10;Región de Metropolitana De Santiago;56
 962;;M;;;;;31
-963;MASCULINO;M;6;;;Regi�n de La Araucan�a;29
-964;FEMENINO;F;12;0;12;Regi�n de Metropolitana De Santiago;25
-965;MASCULINO;;9;;;Regi�n de Metropolitana De Santiago;32
-966;FEMENINO;F;9;3;6;Regi�n de Metropolitana De Santiago;33
-967;MASCULINO;M;12;;;Regi�n de Metropolitana De Santiago;34
-968;MASCULINO;M;2;;;Regi�n de La Araucan�a;73
-969;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;30
-970;FEMENINO;F;11;;;Regi�n de Maule;20
-971;FEMENINO;F;0;;;Regi�n de Biob�o;51
-972;FEMENINO;F;3;0;3;Regi�n de Metropolitana De Santiago;70
-973;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;30
-974;FEMENINO;F;6;0;6;Regi�n de Metropolitana De Santiago;61
-975;MASCULINO;M;11;;;Regi�n de Los Lagos;21
-976;;M;12;;;Regi�n de Valpara�so;43
-977;FEMENINO;F;7;;;Regi�n de Maule;26
-978;FEMENINO;F;6;1;5;Regi�n de Metropolitana De Santiago;57
-979;FEMENINO;F;10;;;Regi�n de Maule;26
-980;MASCULINO;M;12;;;Regi�n de Metropolitana De Santiago;44
-981;MASCULINO;M;12;2;10;Regi�n de La Araucan�a;26
-982;FEMENINO;F;9;;;Regi�n de Arica y Parinacota;23
+963;MASCULINO;M;6;;;Región de La Araucanía;29
+964;FEMENINO;F;12;0;12;Región de Metropolitana De Santiago;25
+965;MASCULINO;;9;;;Región de Metropolitana De Santiago;32
+966;FEMENINO;F;9;3;6;Región de Metropolitana De Santiago;33
+967;MASCULINO;M;12;;;Región de Metropolitana De Santiago;34
+968;MASCULINO;M;2;;;Región de La Araucanía;73
+969;MASCULINO;M;8;;;Región de Metropolitana De Santiago;30
+970;FEMENINO;F;11;;;Región de Maule;20
+971;FEMENINO;F;0;;;Región de Biobío;51
+972;FEMENINO;F;3;0;3;Región de Metropolitana De Santiago;70
+973;FEMENINO;F;9;;;Región de Metropolitana De Santiago;30
+974;FEMENINO;F;6;0;6;Región de Metropolitana De Santiago;61
+975;MASCULINO;M;11;;;Región de Los Lagos;21
+976;;M;12;;;Región de Valparaíso;43
+977;FEMENINO;F;7;;;Región de Maule;26
+978;FEMENINO;F;6;1;5;Región de Metropolitana De Santiago;57
+979;FEMENINO;F;10;;;Región de Maule;26
+980;MASCULINO;M;12;;;Región de Metropolitana De Santiago;44
+981;MASCULINO;M;12;2;10;Región de La Araucanía;26
+982;FEMENINO;F;9;;;Región de Arica y Parinacota;23
 983;;F;;;;;27
-984;FEMENINO;F;4;0;4;Regi�n de Maule;25
-985;MASCULINO;M;8;0;8;Regi�n de Metropolitana De Santiago;25
-986;FEMENINO;F;11;9;2;Regi�n de Metropolitana De Santiago;43
-987;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;64
-988;FEMENINO;F;10;1;9;Regi�n de Valpara�so;33
-989;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;23
-990;FEMENINO;F;4;;;Regi�n de Metropolitana De Santiago;39
-991;FEMENINO;F;9;0;9;Regi�n de La Araucan�a;19
-992;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;33
-993;FEMENINO;F;6;;;Regi�n de Los Rios;22
-994;FEMENINO;F;7;;;Regi�n de Tarapac�;26
-995;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;30
-996;FEMENINO;F;3;0;3;Regi�n de Metropolitana De Santiago;31
-997;MASCULINO;M;5;1;4;Regi�n de Los Lagos;35
-998;FEMENINO;F;5;4;1;Regi�n de Biob�o;53
-999;FEMENINO;F;11;;;Regi�n de Maule;21
-1000;FEMENINO;F;7;;;Regi�n de Biob�o;39
-1001;FEMENINO;F;11;;;Regi�n de Atacama;22
-1002;FEMENINO;F;6;;;Regi�n de Valpara�so;55
-1003;FEMENINO;F;2;;;Regi�n de Metropolitana De Santiago;20
-1004;FEMENINO;F;6;0;6;Regi�n de Maule;23
-1005;MASCULINO;M;8;0;8;Regi�n de Metropolitana De Santiago;25
-1006;MASCULINO;M;4;;;Regi�n de �uble;18
-1007;FEMENINO;F;11;0;11;Regi�n de Metropolitana De Santiago;40
-1008;FEMENINO;F;4;;;Regi�n de Valpara�so;18
-1009;MASCULINO;M;4;;;Regi�n de Coquimbo;22
-1010;OTRO;F;4;4;0;Regi�n de Atacama;32
-1011;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;24
-1012;FEMENINO;F;12;1;11;Regi�n de Metropolitana De Santiago;35
-1013;MASCULINO;M;7;;;Regi�n de Metropolitana De Santiago;63
-1014;MASCULINO;M;2;;;Regi�n de Valpara�so;44
-1015;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;48
-1016;MASCULINO;M;7;0;7;Regi�n de Valpara�so;55
-1017;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;28
-1018;FEMENINO;F;10;0;10;Regi�n de Metropolitana De Santiago;43
+984;FEMENINO;F;4;0;4;Región de Maule;25
+985;MASCULINO;M;8;0;8;Región de Metropolitana De Santiago;25
+986;FEMENINO;F;11;9;2;Región de Metropolitana De Santiago;43
+987;FEMENINO;F;9;;;Región de Metropolitana De Santiago;64
+988;FEMENINO;F;10;1;9;Región de Valparaíso;33
+989;MASCULINO;M;8;;;Región de Metropolitana De Santiago;23
+990;FEMENINO;F;4;;;Región de Metropolitana De Santiago;39
+991;FEMENINO;F;9;0;9;Región de La Araucanía;19
+992;FEMENINO;F;10;;;Región de Metropolitana De Santiago;33
+993;FEMENINO;F;6;;;Región de Los Rios;22
+994;FEMENINO;F;7;;;Región de Tarapacá;26
+995;FEMENINO;F;5;;;Región de Metropolitana De Santiago;30
+996;FEMENINO;F;3;0;3;Región de Metropolitana De Santiago;31
+997;MASCULINO;M;5;1;4;Región de Los Lagos;35
+998;FEMENINO;F;5;4;1;Región de Biobío;53
+999;FEMENINO;F;11;;;Región de Maule;21
+1000;FEMENINO;F;7;;;Región de Biobío;39
+1001;FEMENINO;F;11;;;Región de Atacama;22
+1002;FEMENINO;F;6;;;Región de Valparaíso;55
+1003;FEMENINO;F;2;;;Región de Metropolitana De Santiago;20
+1004;FEMENINO;F;6;0;6;Región de Maule;23
+1005;MASCULINO;M;8;0;8;Región de Metropolitana De Santiago;25
+1006;MASCULINO;M;4;;;Región de Ñuble;18
+1007;FEMENINO;F;11;0;11;Región de Metropolitana De Santiago;40
+1008;FEMENINO;F;4;;;Región de Valparaíso;18
+1009;MASCULINO;M;4;;;Región de Coquimbo;22
+1010;OTRO;F;4;4;0;Región de Atacama;32
+1011;FEMENINO;F;8;;;Región de Metropolitana De Santiago;24
+1012;FEMENINO;F;12;1;11;Región de Metropolitana De Santiago;35
+1013;MASCULINO;M;7;;;Región de Metropolitana De Santiago;63
+1014;MASCULINO;M;2;;;Región de Valparaíso;44
+1015;FEMENINO;F;12;;;Región de Metropolitana De Santiago;48
+1016;MASCULINO;M;7;0;7;Región de Valparaíso;55
+1017;FEMENINO;F;8;;;Región de Metropolitana De Santiago;28
+1018;FEMENINO;F;10;0;10;Región de Metropolitana De Santiago;43
 1019;;;;;;;
-1020;FEMENINO;F;11;1;10;Regi�n de Maule;32
-1021;MASCULINO;M;2;0;2;Regi�n de Magallanes y de La Ant�rtica chilena;54
-1022;MASCULINO;M;8;0;8;Regi�n de Maule;72
-1023;MASCULINO;M;4;;;Regi�n de Maule;26
-1024;FEMENINO;F;12;;;Regi�n de Coquimbo;29
-1025;FEMENINO;F;8;;;Regi�n de Maule;46
-1026;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;43
-1027;MASCULINO;M;5;0;5;Regi�n de Biob�o;32
-1028;MASCULINO;M;6;0;6;Regi�n de Metropolitana De Santiago;31
-1029;FEMENINO;F;9;;;Regi�n de �uble;28
-1030;MASCULINO;M;12;;;Regi�n de Biob�o;19
-1031;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;24
-1032;MASCULINO;M;2;;;Regi�n de Metropolitana De Santiago;54
-1033;MASCULINO;M;2;1;1;Regi�n de Metropolitana De Santiago;24
-1034;FEMENINO;F;7;0;7;Regi�n de Metropolitana De Santiago;38
-1035;MASCULINO;M;0;0;0;Regi�n de Metropolitana De Santiago;28
-1036;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;36
-1037;FEMENINO;F;10;;;Regi�n de Antofagasta;77
+1020;FEMENINO;F;11;1;10;Región de Maule;32
+1021;MASCULINO;M;2;0;2;Región de Magallanes y de La Antártica chilena;54
+1022;MASCULINO;M;8;0;8;Región de Maule;72
+1023;MASCULINO;M;4;;;Región de Maule;26
+1024;FEMENINO;F;12;;;Región de Coquimbo;29
+1025;FEMENINO;F;8;;;Región de Maule;46
+1026;FEMENINO;F;10;;;Región de Metropolitana De Santiago;43
+1027;MASCULINO;M;5;0;5;Región de Biobío;32
+1028;MASCULINO;M;6;0;6;Región de Metropolitana De Santiago;31
+1029;FEMENINO;F;9;;;Región de Ñuble;28
+1030;MASCULINO;M;12;;;Región de Biobío;19
+1031;FEMENINO;F;7;;;Región de Metropolitana De Santiago;24
+1032;MASCULINO;M;2;;;Región de Metropolitana De Santiago;54
+1033;MASCULINO;M;2;1;1;Región de Metropolitana De Santiago;24
+1034;FEMENINO;F;7;0;7;Región de Metropolitana De Santiago;38
+1035;MASCULINO;M;0;0;0;Región de Metropolitana De Santiago;28
+1036;MASCULINO;M;8;;;Región de Metropolitana De Santiago;36
+1037;FEMENINO;F;10;;;Región de Antofagasta;77
 1038;;;;;;;
-1039;FEMENINO;F;2;;;Regi�n de Los Lagos;36
-1040;MASCULINO;M;6;1;5;Regi�n de Los Lagos;30
-1041;FEMENINO;F;3;;;Regi�n de Metropolitana De Santiago;25
-1042;FEMENINO;F;6;2;4;Regi�n de Biob�o;52
-1043;FEMENINO;F;12;0;12;Regi�n de Metropolitana De Santiago;39
-1044;FEMENINO;F;9;0;9;Regi�n de Valpara�so;23
-1045;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;24
-1046;MASCULINO;M;;;;Regi�n de Los Lagos;42
-1047;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;17
+1039;FEMENINO;F;2;;;Región de Los Lagos;36
+1040;MASCULINO;M;6;1;5;Región de Los Lagos;30
+1041;FEMENINO;F;3;;;Región de Metropolitana De Santiago;25
+1042;FEMENINO;F;6;2;4;Región de Biobío;52
+1043;FEMENINO;F;12;0;12;Región de Metropolitana De Santiago;39
+1044;FEMENINO;F;9;0;9;Región de Valparaíso;23
+1045;MASCULINO;M;8;;;Región de Metropolitana De Santiago;24
+1046;MASCULINO;M;;;;Región de Los Lagos;42
+1047;MASCULINO;M;8;;;Región de Metropolitana De Santiago;17
 1048;FEMENINO;F;;;;;22
-1049;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;35
-1050;FEMENINO;F;8;;;Regi�n de Maule;24
-1051;MASCULINO;M;3;;;Regi�n de Metropolitana De Santiago;20
-1052;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;24
-1053;FEMENINO;F;8;4;4;Regi�n de Valpara�so;20
+1049;MASCULINO;M;6;;;Región de Metropolitana De Santiago;35
+1050;FEMENINO;F;8;;;Región de Maule;24
+1051;MASCULINO;M;3;;;Región de Metropolitana De Santiago;20
+1052;FEMENINO;F;6;;;Región de Metropolitana De Santiago;24
+1053;FEMENINO;F;8;4;4;Región de Valparaíso;20
 1054;;;;;;;
-1055;MASCULINO;M;8;0;8;Regi�n de Libertador B. O'Higgins;29
-1056;FEMENINO;F;9;;;Regi�n de Los Lagos;30
-1057;FEMENINO;F;3;1;2;Regi�n de Metropolitana De Santiago;38
-1058;FEMENINO;F;4;;;Regi�n de Arica y Parinacota;26
-1059;FEMENINO;F;7;;;Regi�n de Los Lagos;19
-1060;MASCULINO;M;5;0;5;Regi�n de Biob�o;20
-1061;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;22
-1062;FEMENINO;F;3;;;Regi�n de La Araucan�a;56
-1063;MASCULINO;M;4;;;Regi�n de Los Lagos;42
-1064;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;20
-1065;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;34
-1066;MASCULINO;M;3;;;Regi�n de Valpara�so;20
-1067;FEMENINO;F;5;;;Regi�n de Valpara�so;38
-1068;OTRO;F;9;0;9;Regi�n de �uble;21
-1069;FEMENINO;F;7;;;Regi�n de Valpara�so;21
-1070;FEMENINO;F;6;2;4;Regi�n de Atacama;42
-1071;FEMENINO;F;4;;;Regi�n de Metropolitana De Santiago;33
-1072;FEMENINO;F;6;0;6;Regi�n de Valpara�so;27
-1073;MASCULINO;M;7;;;Regi�n de Valpara�so;26
-1074;FEMENINO;F;5;;;Regi�n de Biob�o;34
+1055;MASCULINO;M;8;0;8;Región de Libertador B. O'Higgins;29
+1056;FEMENINO;F;9;;;Región de Los Lagos;30
+1057;FEMENINO;F;3;1;2;Región de Metropolitana De Santiago;38
+1058;FEMENINO;F;4;;;Región de Arica y Parinacota;26
+1059;FEMENINO;F;7;;;Región de Los Lagos;19
+1060;MASCULINO;M;5;0;5;Región de Biobío;20
+1061;FEMENINO;F;12;;;Región de Metropolitana De Santiago;22
+1062;FEMENINO;F;3;;;Región de La Araucanía;56
+1063;MASCULINO;M;4;;;Región de Los Lagos;42
+1064;MASCULINO;M;6;;;Región de Metropolitana De Santiago;20
+1065;FEMENINO;F;9;;;Región de Metropolitana De Santiago;34
+1066;MASCULINO;M;3;;;Región de Valparaíso;20
+1067;FEMENINO;F;5;;;Región de Valparaíso;38
+1068;OTRO;F;9;0;9;Región de Ñuble;21
+1069;FEMENINO;F;7;;;Región de Valparaíso;21
+1070;FEMENINO;F;6;2;4;Región de Atacama;42
+1071;FEMENINO;F;4;;;Región de Metropolitana De Santiago;33
+1072;FEMENINO;F;6;0;6;Región de Valparaíso;27
+1073;MASCULINO;M;7;;;Región de Valparaíso;26
+1074;FEMENINO;F;5;;;Región de Biobío;34
 1075;;M;;;;;18
-1076;FEMENINO;F;6;1;5;Regi�n de Valpara�so;37
-1077;FEMENINO;F;6;3;3;Regi�n de Metropolitana De Santiago;22
-1078;MASCULINO;M;12;;;Regi�n de Metropolitana De Santiago;36
-1079;MASCULINO;M;5;;;Regi�n de Metropolitana De Santiago;38
-1080;FEMENINO;F;6;;;Regi�n de Los Lagos;21
-1081;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;52
-1082;MASCULINO;M;0;;;Regi�n de Metropolitana De Santiago;23
-1083;MASCULINO;M;7;0;7;Regi�n de Metropolitana De Santiago;29
-1084;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;44
-1085;FEMENINO;F;6;;;Regi�n de Maule;25
-1086;MASCULINO;M;4;;;Regi�n de Antofagasta;25
-1087;FEMENINO;F;6;2;4;Regi�n de Metropolitana De Santiago;40
+1076;FEMENINO;F;6;1;5;Región de Valparaíso;37
+1077;FEMENINO;F;6;3;3;Región de Metropolitana De Santiago;22
+1078;MASCULINO;M;12;;;Región de Metropolitana De Santiago;36
+1079;MASCULINO;M;5;;;Región de Metropolitana De Santiago;38
+1080;FEMENINO;F;6;;;Región de Los Lagos;21
+1081;FEMENINO;F;8;;;Región de Metropolitana De Santiago;52
+1082;MASCULINO;M;0;;;Región de Metropolitana De Santiago;23
+1083;MASCULINO;M;7;0;7;Región de Metropolitana De Santiago;29
+1084;MASCULINO;M;6;;;Región de Metropolitana De Santiago;44
+1085;FEMENINO;F;6;;;Región de Maule;25
+1086;MASCULINO;M;4;;;Región de Antofagasta;25
+1087;FEMENINO;F;6;2;4;Región de Metropolitana De Santiago;40
 1088;;F;;;;;26
 1089;;;;;;;
-1090;MASCULINO;M;0;;;Regi�n de Metropolitana De Santiago;42
-1091;FEMENINO;F;11;9;2;Regi�n de Metropolitana De Santiago;35
-1092;MASCULINO;M;11;;;Regi�n de Metropolitana De Santiago;62
-1093;FEMENINO;F;12;;;Regi�n de Libertador B. O'Higgins;20
+1090;MASCULINO;M;0;;;Región de Metropolitana De Santiago;42
+1091;FEMENINO;F;11;9;2;Región de Metropolitana De Santiago;35
+1092;MASCULINO;M;11;;;Región de Metropolitana De Santiago;62
+1093;FEMENINO;F;12;;;Región de Libertador B. O'Higgins;20
 1094;;F;;;;;33
-1095;FEMENINO;F;3;0;3;Regi�n de Los Lagos;38
-1096;MASCULINO;M;7;;;Regi�n de Tarapac�;24
-1097;FEMENINO;F;2;;;Regi�n de Maule;25
-1098;OTRO;F;8;;;Regi�n de Antofagasta;25
+1095;FEMENINO;F;3;0;3;Región de Los Lagos;38
+1096;MASCULINO;M;7;;;Región de Tarapacá;24
+1097;FEMENINO;F;2;;;Región de Maule;25
+1098;OTRO;F;8;;;Región de Antofagasta;25
 1099;;F;;;;;69
-1100;MASCULINO;M;12;;;Regi�n de Metropolitana De Santiago;65
-1101;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;28
-1102;FEMENINO;F;11;;;Regi�n de Antofagasta;24
-1103;MASCULINO;M;3;2;1;Regi�n de Maule;26
-1104;FEMENINO;F;8;;;Regi�n de Biob�o;31
-1105;MASCULINO;M;10;;;Regi�n de Metropolitana De Santiago;40
-1106;FEMENINO;F;11;;;Regi�n de Coquimbo;24
-1107;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;25
+1100;MASCULINO;M;12;;;Región de Metropolitana De Santiago;65
+1101;MASCULINO;M;8;;;Región de Metropolitana De Santiago;28
+1102;FEMENINO;F;11;;;Región de Antofagasta;24
+1103;MASCULINO;M;3;2;1;Región de Maule;26
+1104;FEMENINO;F;8;;;Región de Biobío;31
+1105;MASCULINO;M;10;;;Región de Metropolitana De Santiago;40
+1106;FEMENINO;F;11;;;Región de Coquimbo;24
+1107;FEMENINO;F;12;;;Región de Metropolitana De Santiago;25
 1108;;M;;;;;36
 1109;;;;;;;
-1110;FEMENINO;F;7;;;Regi�n de Coquimbo;18
-1111;MASCULINO;M;7;;;Regi�n de �uble;28
-1112;MASCULINO;M;11;0;11;Regi�n de Biob�o;25
-1113;FEMENINO;F;8;;;Regi�n de Maule;25
-1114;FEMENINO;F;10;0;10;Regi�n de Metropolitana De Santiago;34
-1115;FEMENINO;F;7;;;Regi�n de La Araucan�a;22
-1116;FEMENINO;F;4;;;Regi�n de Metropolitana De Santiago;52
-1117;OTRO;M;10;0;10;Regi�n de Metropolitana De Santiago;21
-1118;FEMENINO;F;0;;;Regi�n de Metropolitana De Santiago;36
-1119;MASCULINO;M;1;;;Regi�n de Metropolitana De Santiago;37
-1120;FEMENINO;F;6;4;2;Regi�n de Valpara�so;35
-1121;FEMENINO;F;11;;;Regi�n de Biob�o;20
-1122;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;38
-1123;FEMENINO;F;5;2;3;Regi�n de Valpara�so;46
-1124;MASCULINO;M;9;1;8;Regi�n de Biob�o;21
-1125;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;28
-1126;MASCULINO;M;8;0;8;Regi�n de Metropolitana De Santiago;26
+1110;FEMENINO;F;7;;;Región de Coquimbo;18
+1111;MASCULINO;M;7;;;Región de Ñuble;28
+1112;MASCULINO;M;11;0;11;Región de Biobío;25
+1113;FEMENINO;F;8;;;Región de Maule;25
+1114;FEMENINO;F;10;0;10;Región de Metropolitana De Santiago;34
+1115;FEMENINO;F;7;;;Región de La Araucanía;22
+1116;FEMENINO;F;4;;;Región de Metropolitana De Santiago;52
+1117;OTRO;M;10;0;10;Región de Metropolitana De Santiago;21
+1118;FEMENINO;F;0;;;Región de Metropolitana De Santiago;36
+1119;MASCULINO;M;1;;;Región de Metropolitana De Santiago;37
+1120;FEMENINO;F;6;4;2;Región de Valparaíso;35
+1121;FEMENINO;F;11;;;Región de Biobío;20
+1122;FEMENINO;F;10;;;Región de Metropolitana De Santiago;38
+1123;FEMENINO;F;5;2;3;Región de Valparaíso;46
+1124;MASCULINO;M;9;1;8;Región de Biobío;21
+1125;FEMENINO;F;8;;;Región de Metropolitana De Santiago;28
+1126;MASCULINO;M;8;0;8;Región de Metropolitana De Santiago;26
 1127;;;;;;;
-1128;MASCULINO;M;12;;;Regi�n de Metropolitana De Santiago;32
-1129;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;34
-1130;MASCULINO;M;10;;;Regi�n de Valpara�so;26
-1131;FEMENINO;F;9;;;Regi�n de �uble;26
-1132;FEMENINO;F;10;0;10;Regi�n de Metropolitana De Santiago;40
-1133;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;19
+1128;MASCULINO;M;12;;;Región de Metropolitana De Santiago;32
+1129;FEMENINO;F;9;;;Región de Metropolitana De Santiago;34
+1130;MASCULINO;M;10;;;Región de Valparaíso;26
+1131;FEMENINO;F;9;;;Región de Ñuble;26
+1132;FEMENINO;F;10;0;10;Región de Metropolitana De Santiago;40
+1133;FEMENINO;F;10;;;Región de Metropolitana De Santiago;19
 1134;;;;;;;
-1135;OTRO;M;;;;Regi�n de Metropolitana De Santiago;22
-1136;MASCULINO;M;5;;;Regi�n de Los Lagos;30
-1137;FEMENINO;F;2;1;1;Regi�n de Biob�o;27
-1138;FEMENINO;F;8;0;8;Regi�n de Metropolitana De Santiago;58
-1139;FEMENINO;F;;;;Regi�n de Metropolitana De Santiago;57
-1140;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;27
-1141;FEMENINO;F;9;;;Regi�n de Valpara�so;21
-1142;FEMENINO;F;5;;;Regi�n de Biob�o;26
-1143;MASCULINO;M;6;2;4;Regi�n de Metropolitana De Santiago;41
-1144;FEMENINO;F;11;0;11;Regi�n de Arica y Parinacota;24
-1145;FEMENINO;F;5;0;5;Regi�n de Metropolitana De Santiago;50
-1146;FEMENINO;F;6;0;6;Regi�n de Valpara�so;22
-1147;FEMENINO;F;3;;;Regi�n de Metropolitana De Santiago;18
-1148;FEMENINO;F;1;;;Regi�n de La Araucan�a;54
-1149;FEMENINO;F;6;;;Regi�n de Valpara�so;23
-1150;FEMENINO;F;4;6;-2;Regi�n de Atacama;28
-1151;FEMENINO;F;7;;;Regi�n de Biob�o;19
-1152;MASCULINO;M;11;1;10;Regi�n de Metropolitana De Santiago;31
-1153;MASCULINO;M;3;;;Regi�n de Metropolitana De Santiago;20
-1154;MASCULINO;M;;;;Regi�n de Los Rios;27
-1155;FEMENINO;F;7;;;Regi�n de La Araucan�a;23
-1156;MASCULINO;M;9;;;Regi�n de Libertador B. O'Higgins;34
-1157;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;55
-1158;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;30
-1159;FEMENINO;F;2;0;2;Regi�n de Valpara�so;27
-1160;MASCULINO;M;;;;Regi�n de Metropolitana De Santiago;25
+1135;OTRO;M;;;;Región de Metropolitana De Santiago;22
+1136;MASCULINO;M;5;;;Región de Los Lagos;30
+1137;FEMENINO;F;2;1;1;Región de Biobío;27
+1138;FEMENINO;F;8;0;8;Región de Metropolitana De Santiago;58
+1139;FEMENINO;F;;;;Región de Metropolitana De Santiago;57
+1140;FEMENINO;F;6;;;Región de Metropolitana De Santiago;27
+1141;FEMENINO;F;9;;;Región de Valparaíso;21
+1142;FEMENINO;F;5;;;Región de Biobío;26
+1143;MASCULINO;M;6;2;4;Región de Metropolitana De Santiago;41
+1144;FEMENINO;F;11;0;11;Región de Arica y Parinacota;24
+1145;FEMENINO;F;5;0;5;Región de Metropolitana De Santiago;50
+1146;FEMENINO;F;6;0;6;Región de Valparaíso;22
+1147;FEMENINO;F;3;;;Región de Metropolitana De Santiago;18
+1148;FEMENINO;F;1;;;Región de La Araucanía;54
+1149;FEMENINO;F;6;;;Región de Valparaíso;23
+1150;FEMENINO;F;4;6;-2;Región de Atacama;28
+1151;FEMENINO;F;7;;;Región de Biobío;19
+1152;MASCULINO;M;11;1;10;Región de Metropolitana De Santiago;31
+1153;MASCULINO;M;3;;;Región de Metropolitana De Santiago;20
+1154;MASCULINO;M;;;;Región de Los Rios;27
+1155;FEMENINO;F;7;;;Región de La Araucanía;23
+1156;MASCULINO;M;9;;;Región de Libertador B. O'Higgins;34
+1157;FEMENINO;F;6;;;Región de Metropolitana De Santiago;55
+1158;FEMENINO;F;11;;;Región de Metropolitana De Santiago;30
+1159;FEMENINO;F;2;0;2;Región de Valparaíso;27
+1160;MASCULINO;M;;;;Región de Metropolitana De Santiago;25
 1161;;;;;;;
-1162;FEMENINO;F;4;;;Regi�n de Biob�o;21
-1163;FEMENINO;F;8;;;Regi�n de Valpara�so;31
-1164;MASCULINO;M;5;2;3;Regi�n de Metropolitana De Santiago;32
+1162;FEMENINO;F;4;;;Región de Biobío;21
+1163;FEMENINO;F;8;;;Región de Valparaíso;31
+1164;MASCULINO;M;5;2;3;Región de Metropolitana De Santiago;32
 1165;;;;;;;
-1166;MASCULINO;M;2;1;1;Regi�n de Metropolitana De Santiago;24
-1167;MASCULINO;M;6;0;6;Regi�n de Valpara�so;20
-1168;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;39
-1169;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;22
-1170;MASCULINO;M;11;;;Regi�n de Libertador B. O'Higgins;33
-1171;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;36
-1172;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;33
-1173;FEMENINO;F;7;0;7;Regi�n de Los Lagos;22
-1174;FEMENINO;F;12;0;12;Regi�n de Biob�o;32
+1166;MASCULINO;M;2;1;1;Región de Metropolitana De Santiago;24
+1167;MASCULINO;M;6;0;6;Región de Valparaíso;20
+1168;FEMENINO;F;8;;;Región de Metropolitana De Santiago;39
+1169;FEMENINO;F;6;;;Región de Metropolitana De Santiago;22
+1170;MASCULINO;M;11;;;Región de Libertador B. O'Higgins;33
+1171;FEMENINO;F;7;;;Región de Metropolitana De Santiago;36
+1172;FEMENINO;F;8;;;Región de Metropolitana De Santiago;33
+1173;FEMENINO;F;7;0;7;Región de Los Lagos;22
+1174;FEMENINO;F;12;0;12;Región de Biobío;32
 1175;;;;;;;
-1176;MASCULINO;M;1;0;1;Regi�n de Maule;71
+1176;MASCULINO;M;1;0;1;Región de Maule;71
 1177;;M;;;;;71
-1178;FEMENINO;F;12;;;Regi�n de Maule;38
+1178;FEMENINO;F;12;;;Región de Maule;38
 1179;;F;;;;;31
-1180;FEMENINO;F;8;;;Regi�n de Valpara�so;30
+1180;FEMENINO;F;8;;;Región de Valparaíso;30
 1181;;;;;;;
-1182;FEMENINO;F;3;3;0;Regi�n de Valpara�so;38
-1183;MASCULINO;M;3;;;Regi�n de Metropolitana De Santiago;54
+1182;FEMENINO;F;3;3;0;Región de Valparaíso;38
+1183;MASCULINO;M;3;;;Región de Metropolitana De Santiago;54
 1184;;;;;;;
-1185;FEMENINO;F;12;;;Regi�n de Los Lagos;38
-1186;FEMENINO;F;9;1;8;Regi�n de Metropolitana De Santiago;49
+1185;FEMENINO;F;12;;;Región de Los Lagos;38
+1186;FEMENINO;F;9;1;8;Región de Metropolitana De Santiago;49
 1187;;;;;;;
-1188;FEMENINO;F;5;3;2;Regi�n de Biob�o;21
-1189;FEMENINO;F;10;;;Regi�n de Maule;42
-1190;FEMENINO;F;5;;;Regi�n de Coquimbo;18
-1191;FEMENINO;F;5;;;Regi�n de Los Rios;30
-1192;FEMENINO;F;11;;;Regi�n de Maule;35
-1193;OTRO;M;6;;;Regi�n de Metropolitana De Santiago;30
-1194;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;54
-1195;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;43
-1196;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;33
+1188;FEMENINO;F;5;3;2;Región de Biobío;21
+1189;FEMENINO;F;10;;;Región de Maule;42
+1190;FEMENINO;F;5;;;Región de Coquimbo;18
+1191;FEMENINO;F;5;;;Región de Los Rios;30
+1192;FEMENINO;F;11;;;Región de Maule;35
+1193;OTRO;M;6;;;Región de Metropolitana De Santiago;30
+1194;MASCULINO;M;8;;;Región de Metropolitana De Santiago;54
+1195;FEMENINO;F;9;;;Región de Metropolitana De Santiago;43
+1196;FEMENINO;F;8;;;Región de Metropolitana De Santiago;33
 1197;;;;;;;
-1198;MASCULINO;M;10;;;Regi�n de Metropolitana De Santiago;63
-1199;FEMENINO;F;2;;;Regi�n de Metropolitana De Santiago;26
-1200;MASCULINO;M;7;;;Regi�n de Metropolitana De Santiago;39
-1201;FEMENINO;F;8;;;Regi�n de Libertador B. O'Higgins;54
-1202;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;44
-1203;FEMENINO;F;10;0;10;Regi�n de Metropolitana De Santiago;25
-1204;MASCULINO;;3;;;Regi�n de �uble;
-1205;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;62
-1206;MASCULINO;M;6;0;6;Regi�n de La Araucan�a;21
-1207;MASCULINO;M;6;0;6;Regi�n de Biob�o;20
-1208;FEMENINO;F;7;2;5;Regi�n de Metropolitana De Santiago;25
-1209;MASCULINO;M;6;;;Regi�n de La Araucan�a;47
-1210;MASCULINO;M;0;;;Regi�n de Metropolitana De Santiago;33
+1198;MASCULINO;M;10;;;Región de Metropolitana De Santiago;63
+1199;FEMENINO;F;2;;;Región de Metropolitana De Santiago;26
+1200;MASCULINO;M;7;;;Región de Metropolitana De Santiago;39
+1201;FEMENINO;F;8;;;Región de Libertador B. O'Higgins;54
+1202;FEMENINO;F;10;;;Región de Metropolitana De Santiago;44
+1203;FEMENINO;F;10;0;10;Región de Metropolitana De Santiago;25
+1204;MASCULINO;;3;;;Región de Ñuble;
+1205;FEMENINO;F;6;;;Región de Metropolitana De Santiago;62
+1206;MASCULINO;M;6;0;6;Región de La Araucanía;21
+1207;MASCULINO;M;6;0;6;Región de Biobío;20
+1208;FEMENINO;F;7;2;5;Región de Metropolitana De Santiago;25
+1209;MASCULINO;M;6;;;Región de La Araucanía;47
+1210;MASCULINO;M;0;;;Región de Metropolitana De Santiago;33
 1211;;;;;;;
-1212;FEMENINO;F;9;;;Regi�n de Valpara�so;39
-1213;FEMENINO;F;4;;;Regi�n de Valpara�so;33
-1214;FEMENINO;F;9;;;Regi�n de Biob�o;19
-1215;OTRO;M;3;;;Regi�n de Maule;19
-1216;MASCULINO;M;7;;;Regi�n de Coquimbo;27
-1217;FEMENINO;F;9;0;9;Regi�n de Metropolitana De Santiago;46
-1218;MASCULINO;M;6;;;Regi�n de Valpara�so;22
-1219;FEMENINO;F;7;0;7;Regi�n de �uble;33
-1220;FEMENINO;F;5;;;Regi�n de Valpara�so;57
-1221;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;51
+1212;FEMENINO;F;9;;;Región de Valparaíso;39
+1213;FEMENINO;F;4;;;Región de Valparaíso;33
+1214;FEMENINO;F;9;;;Región de Biobío;19
+1215;OTRO;M;3;;;Región de Maule;19
+1216;MASCULINO;M;7;;;Región de Coquimbo;27
+1217;FEMENINO;F;9;0;9;Región de Metropolitana De Santiago;46
+1218;MASCULINO;M;6;;;Región de Valparaíso;22
+1219;FEMENINO;F;7;0;7;Región de Ñuble;33
+1220;FEMENINO;F;5;;;Región de Valparaíso;57
+1221;FEMENINO;F;8;;;Región de Metropolitana De Santiago;51
 1222;;;;;;;
-1223;FEMENINO;F;0;0;0;Regi�n de Los Rios;42
-1224;FEMENINO;F;1;;;Regi�n de Metropolitana De Santiago;27
-1225;FEMENINO;F;7;;;Regi�n de Arica y Parinacota;58
+1223;FEMENINO;F;0;0;0;Región de Los Rios;42
+1224;FEMENINO;F;1;;;Región de Metropolitana De Santiago;27
+1225;FEMENINO;F;7;;;Región de Arica y Parinacota;58
 1226;;F;;;;;69
-1227;FEMENINO;F;12;3;9;Regi�n de �uble;69
-1228;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;19
-1229;FEMENINO;F;8;;;Regi�n de Biob�o;20
-1230;MASCULINO;M;11;;;Regi�n de Valpara�so;19
-1231;FEMENINO;F;8;;;Regi�n de Valpara�so;25
-1232;FEMENINO;F;5;;;Regi�n de Valpara�so;20
-1233;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;24
-1234;FEMENINO;F;7;0;7;Regi�n de �uble;79
-1235;FEMENINO;F;4;;;Regi�n de Metropolitana De Santiago;66
-1236;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;25
-1237;MASCULINO;M;9;;;Regi�n de Metropolitana De Santiago;48
-1238;MASCULINO;M;7;0;7;Regi�n de Metropolitana De Santiago;38
-1239;FEMENINO;F;11;0;11;Regi�n de Magallanes y de La Ant�rtica chilena;32
-1240;FEMENINO;F;7;0;7;Regi�n de Metropolitana De Santiago;33
-1241;MASCULINO;M;8;;;Regi�n de Valpara�so;26
-1242;MASCULINO;M;5;0;5;Regi�n de Antofagasta;34
-1243;MASCULINO;M;2;3;-1;Regi�n de Metropolitana De Santiago;26
-1244;MASCULINO;M;12;;;Regi�n de Metropolitana De Santiago;31
-1245;MASCULINO;M;2;;;Regi�n de Metropolitana De Santiago;27
-1246;MASCULINO;M;8;0;8;Regi�n de Maule;22
-1247;MASCULINO;M;7;;;Regi�n de Maule;21
-1248;OTRO;M;6;;;Regi�n de La Araucan�a;25
-1249;MASCULINO;M;5;;;Regi�n de Metropolitana De Santiago;22
-1250;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;23
-1251;MASCULINO;M;5;0;5;Regi�n de Maule;24
-1252;FEMENINO;F;12;;;Regi�n de Biob�o;38
-1253;FEMENINO;F;11;0;11;Regi�n de Magallanes y de La Ant�rtica chilena;29
-1254;FEMENINO;F;5;;;Regi�n de �uble;40
-1255;FEMENINO;F;6;;;Regi�n de La Araucan�a;46
-1256;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;28
-1257;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;31
-1258;FEMENINO;F;4;;;Regi�n de Antofagasta;50
-1259;FEMENINO;F;5;;;Regi�n de Atacama;37
-1260;MASCULINO;M;9;1;8;Regi�n de Arica y Parinacota;27
-1261;FEMENINO;F;3;6;-3;Regi�n de Metropolitana De Santiago;19
-1262;FEMENINO;F;5;0;5;Regi�n de Atacama;49
-1263;FEMENINO;F;10;;;Regi�n de Los Lagos;20
-1264;MASCULINO;M;1;0;1;Regi�n de Valpara�so;22
-1265;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;19
-1266;FEMENINO;F;0;0;0;Regi�n de Valpara�so;38
-1267;FEMENINO;F;10;;;Regi�n de Valpara�so;22
-1268;MASCULINO;M;5;;;Regi�n de Coquimbo;52
-1269;MASCULINO;M;6;;;Regi�n de Valpara�so;41
-1270;MASCULINO;M;5;;;Regi�n de Libertador B. O'Higgins;29
-1271;MASCULINO;M;7;0;7;Regi�n de Metropolitana De Santiago;32
-1272;MASCULINO;M;8;0;8;Regi�n de Metropolitana De Santiago;33
-1273;FEMENINO;F;4;;;Regi�n de Los Rios;34
-1274;FEMENINO;F;4;;;Regi�n de Atacama;27
-1275;FEMENINO;F;6;;;Regi�n de Libertador B. O'Higgins;50
-1276;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;25
-1277;FEMENINO;F;10;1;9;Regi�n de Metropolitana De Santiago;31
-1278;FEMENINO;F;6;2;4;Regi�n de Los Lagos;27
+1227;FEMENINO;F;12;3;9;Región de Ñuble;69
+1228;FEMENINO;F;6;;;Región de Metropolitana De Santiago;19
+1229;FEMENINO;F;8;;;Región de Biobío;20
+1230;MASCULINO;M;11;;;Región de Valparaíso;19
+1231;FEMENINO;F;8;;;Región de Valparaíso;25
+1232;FEMENINO;F;5;;;Región de Valparaíso;20
+1233;FEMENINO;F;8;;;Región de Metropolitana De Santiago;24
+1234;FEMENINO;F;7;0;7;Región de Ñuble;79
+1235;FEMENINO;F;4;;;Región de Metropolitana De Santiago;66
+1236;FEMENINO;F;9;;;Región de Metropolitana De Santiago;25
+1237;MASCULINO;M;9;;;Región de Metropolitana De Santiago;48
+1238;MASCULINO;M;7;0;7;Región de Metropolitana De Santiago;38
+1239;FEMENINO;F;11;0;11;Región de Magallanes y de La Antártica chilena;32
+1240;FEMENINO;F;7;0;7;Región de Metropolitana De Santiago;33
+1241;MASCULINO;M;8;;;Región de Valparaíso;26
+1242;MASCULINO;M;5;0;5;Región de Antofagasta;34
+1243;MASCULINO;M;2;3;-1;Región de Metropolitana De Santiago;26
+1244;MASCULINO;M;12;;;Región de Metropolitana De Santiago;31
+1245;MASCULINO;M;2;;;Región de Metropolitana De Santiago;27
+1246;MASCULINO;M;8;0;8;Región de Maule;22
+1247;MASCULINO;M;7;;;Región de Maule;21
+1248;OTRO;M;6;;;Región de La Araucanía;25
+1249;MASCULINO;M;5;;;Región de Metropolitana De Santiago;22
+1250;FEMENINO;F;7;;;Región de Metropolitana De Santiago;23
+1251;MASCULINO;M;5;0;5;Región de Maule;24
+1252;FEMENINO;F;12;;;Región de Biobío;38
+1253;FEMENINO;F;11;0;11;Región de Magallanes y de La Antártica chilena;29
+1254;FEMENINO;F;5;;;Región de Ñuble;40
+1255;FEMENINO;F;6;;;Región de La Araucanía;46
+1256;MASCULINO;M;8;;;Región de Metropolitana De Santiago;28
+1257;FEMENINO;F;10;;;Región de Metropolitana De Santiago;31
+1258;FEMENINO;F;4;;;Región de Antofagasta;50
+1259;FEMENINO;F;5;;;Región de Atacama;37
+1260;MASCULINO;M;9;1;8;Región de Arica y Parinacota;27
+1261;FEMENINO;F;3;6;-3;Región de Metropolitana De Santiago;19
+1262;FEMENINO;F;5;0;5;Región de Atacama;49
+1263;FEMENINO;F;10;;;Región de Los Lagos;20
+1264;MASCULINO;M;1;0;1;Región de Valparaíso;22
+1265;FEMENINO;F;6;;;Región de Metropolitana De Santiago;19
+1266;FEMENINO;F;0;0;0;Región de Valparaíso;38
+1267;FEMENINO;F;10;;;Región de Valparaíso;22
+1268;MASCULINO;M;5;;;Región de Coquimbo;52
+1269;MASCULINO;M;6;;;Región de Valparaíso;41
+1270;MASCULINO;M;5;;;Región de Libertador B. O'Higgins;29
+1271;MASCULINO;M;7;0;7;Región de Metropolitana De Santiago;32
+1272;MASCULINO;M;8;0;8;Región de Metropolitana De Santiago;33
+1273;FEMENINO;F;4;;;Región de Los Rios;34
+1274;FEMENINO;F;4;;;Región de Atacama;27
+1275;FEMENINO;F;6;;;Región de Libertador B. O'Higgins;50
+1276;MASCULINO;M;6;;;Región de Metropolitana De Santiago;25
+1277;FEMENINO;F;10;1;9;Región de Metropolitana De Santiago;31
+1278;FEMENINO;F;6;2;4;Región de Los Lagos;27
 1279;;;;;;;
-1280;FEMENINO;F;4;;;Regi�n de Atacama;44
-1281;MASCULINO;M;5;0;5;Regi�n de Metropolitana De Santiago;23
-1282;FEMENINO;F;6;;;Regi�n de Libertador B. O'Higgins;25
-1283;FEMENINO;F;6;;;Regi�n de Los Lagos;35
-1284;MASCULINO;M;6;0;6;Regi�n de Metropolitana De Santiago;32
-1285;FEMENINO;F;11;0;11;Regi�n de Metropolitana De Santiago;37
-1286;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;27
-1287;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;41
-1288;MASCULINO;M;7;0;7;Regi�n de Metropolitana De Santiago;22
-1289;FEMENINO;F;8;;;Regi�n de La Araucan�a;24
-1290;FEMENINO;F;11;0;11;Regi�n de Metropolitana De Santiago;28
+1280;FEMENINO;F;4;;;Región de Atacama;44
+1281;MASCULINO;M;5;0;5;Región de Metropolitana De Santiago;23
+1282;FEMENINO;F;6;;;Región de Libertador B. O'Higgins;25
+1283;FEMENINO;F;6;;;Región de Los Lagos;35
+1284;MASCULINO;M;6;0;6;Región de Metropolitana De Santiago;32
+1285;FEMENINO;F;11;0;11;Región de Metropolitana De Santiago;37
+1286;FEMENINO;F;11;;;Región de Metropolitana De Santiago;27
+1287;MASCULINO;M;8;;;Región de Metropolitana De Santiago;41
+1288;MASCULINO;M;7;0;7;Región de Metropolitana De Santiago;22
+1289;FEMENINO;F;8;;;Región de La Araucanía;24
+1290;FEMENINO;F;11;0;11;Región de Metropolitana De Santiago;28
 1291;;M;;;;;31
-1292;FEMENINO;F;2;;;Regi�n de Los Lagos;30
-1293;MASCULINO;M;7;;;Regi�n de Valpara�so;29
-1294;FEMENINO;F;5;;;Regi�n de Tarapac�;38
-1295;FEMENINO;F;10;0;10;Regi�n de Metropolitana De Santiago;40
+1292;FEMENINO;F;2;;;Región de Los Lagos;30
+1293;MASCULINO;M;7;;;Región de Valparaíso;29
+1294;FEMENINO;F;5;;;Región de Tarapacá;38
+1295;FEMENINO;F;10;0;10;Región de Metropolitana De Santiago;40
 1296;;M;;;;;41
-1297;FEMENINO;F;5;0;5;Regi�n de Coquimbo;47
-1298;FEMENINO;F;3;;;Regi�n de Atacama;45
-1299;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;22
-1300;FEMENINO;F;9;;;Regi�n de La Araucan�a;31
-1301;MASCULINO;;;;;Regi�n de Metropolitana De Santiago;
-1302;MASCULINO;M;5;;;Regi�n de Metropolitana De Santiago;19
-1303;MASCULINO;M;8;1;7;Regi�n de Metropolitana De Santiago;20
-1304;FEMENINO;F;7;0;7;Regi�n de Metropolitana De Santiago;42
-1305;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;24
-1306;FEMENINO;F;8;;;Regi�n de Valpara�so;30
-1307;MASCULINO;M;3;;;Regi�n de Valpara�so;37
-1308;FEMENINO;F;7;;;Regi�n de Valpara�so;18
-1309;FEMENINO;F;2;0;2;Regi�n de La Araucan�a;18
-1310;MASCULINO;M;3;;;Regi�n de La Araucan�a;46
-1311;MASCULINO;M;6;0;6;Regi�n de Los Rios;29
-1312;FEMENINO;F;5;;;Regi�n de Los Lagos;23
-1313;FEMENINO;F;6;0;6;Regi�n de Metropolitana De Santiago;38
-1314;FEMENINO;F;10;;;Regi�n de La Araucan�a;20
-1315;FEMENINO;F;11;3;8;Regi�n de Maule;28
-1316;MASCULINO;M;0;0;0;Regi�n de Metropolitana De Santiago;75
+1297;FEMENINO;F;5;0;5;Región de Coquimbo;47
+1298;FEMENINO;F;3;;;Región de Atacama;45
+1299;FEMENINO;F;8;;;Región de Metropolitana De Santiago;22
+1300;FEMENINO;F;9;;;Región de La Araucanía;31
+1301;MASCULINO;;;;;Región de Metropolitana De Santiago;
+1302;MASCULINO;M;5;;;Región de Metropolitana De Santiago;19
+1303;MASCULINO;M;8;1;7;Región de Metropolitana De Santiago;20
+1304;FEMENINO;F;7;0;7;Región de Metropolitana De Santiago;42
+1305;FEMENINO;F;7;;;Región de Metropolitana De Santiago;24
+1306;FEMENINO;F;8;;;Región de Valparaíso;30
+1307;MASCULINO;M;3;;;Región de Valparaíso;37
+1308;FEMENINO;F;7;;;Región de Valparaíso;18
+1309;FEMENINO;F;2;0;2;Región de La Araucanía;18
+1310;MASCULINO;M;3;;;Región de La Araucanía;46
+1311;MASCULINO;M;6;0;6;Región de Los Rios;29
+1312;FEMENINO;F;5;;;Región de Los Lagos;23
+1313;FEMENINO;F;6;0;6;Región de Metropolitana De Santiago;38
+1314;FEMENINO;F;10;;;Región de La Araucanía;20
+1315;FEMENINO;F;11;3;8;Región de Maule;28
+1316;MASCULINO;M;0;0;0;Región de Metropolitana De Santiago;75
 1317;;;;;;;
-1318;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;19
-1319;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;23
-1320;MASCULINO;M;12;;;Regi�n de Metropolitana De Santiago;27
-1321;FEMENINO;F;6;;;Regi�n de �uble;31
-1322;MASCULINO;M;5;;;Regi�n de Metropolitana De Santiago;58
-1323;MASCULINO;M;9;;;Regi�n de Metropolitana De Santiago;21
-1324;FEMENINO;F;4;;;Regi�n de Metropolitana De Santiago;51
-1325;FEMENINO;F;2;;;Regi�n de Biob�o;34
-1326;FEMENINO;F;2;;;Regi�n de Los Rios;35
-1327;FEMENINO;F;10;;;Regi�n de �uble;18
-1328;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;31
-1329;FEMENINO;F;9;;;Regi�n de Atacama;20
+1318;FEMENINO;F;7;;;Región de Metropolitana De Santiago;19
+1319;FEMENINO;F;8;;;Región de Metropolitana De Santiago;23
+1320;MASCULINO;M;12;;;Región de Metropolitana De Santiago;27
+1321;FEMENINO;F;6;;;Región de Ñuble;31
+1322;MASCULINO;M;5;;;Región de Metropolitana De Santiago;58
+1323;MASCULINO;M;9;;;Región de Metropolitana De Santiago;21
+1324;FEMENINO;F;4;;;Región de Metropolitana De Santiago;51
+1325;FEMENINO;F;2;;;Región de Biobío;34
+1326;FEMENINO;F;2;;;Región de Los Rios;35
+1327;FEMENINO;F;10;;;Región de Ñuble;18
+1328;FEMENINO;F;5;;;Región de Metropolitana De Santiago;31
+1329;FEMENINO;F;9;;;Región de Atacama;20
 1330;;M;;;;;19
-1331;MASCULINO;M;2;;;Regi�n de Metropolitana De Santiago;49
-1332;MASCULINO;M;10;;;Regi�n de Metropolitana De Santiago;41
-1333;FEMENINO;F;7;;;Regi�n de Valpara�so;34
-1334;FEMENINO;F;3;;;Regi�n de Los Rios;33
-1335;FEMENINO;F;10;0;10;Regi�n de Coquimbo;51
-1336;MASCULINO;M;5;;;Regi�n de Libertador B. O'Higgins;24
-1337;MASCULINO;M;3;0;3;Regi�n de Metropolitana De Santiago;40
-1338;FEMENINO;F;9;;;Regi�n de Biob�o;20
-1339;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;27
-1340;FEMENINO;F;8;;;Regi�n de La Araucan�a;27
-1341;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;65
-1342;FEMENINO;F;5;;;Regi�n de La Araucan�a;27
-1343;FEMENINO;F;10;0;10;Regi�n de Coquimbo;27
-1344;FEMENINO;F;12;;;Regi�n de Valpara�so;46
-1345;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;26
-1346;MASCULINO;M;3;;;Regi�n de Metropolitana De Santiago;34
-1347;FEMENINO;F;9;0;9;Regi�n de Metropolitana De Santiago;31
-1348;FEMENINO;F;6;;;Regi�n de La Araucan�a;19
-1349;FEMENINO;F;9;;;Regi�n de Coquimbo;30
-1350;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;29
-1351;FEMENINO;F;10;1;9;Regi�n de Maule;32
-1352;FEMENINO;F;7;;;Regi�n de Valpara�so;28
-1353;FEMENINO;F;7;;;Regi�n de Los Lagos;30
-1354;FEMENINO;F;4;;;Regi�n de Metropolitana De Santiago;58
-1355;FEMENINO;F;2;0;2;Regi�n de �uble;24
-1356;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;49
-1357;MASCULINO;M;3;;;Regi�n de Libertador B. O'Higgins;50
-1358;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;39
+1331;MASCULINO;M;2;;;Región de Metropolitana De Santiago;49
+1332;MASCULINO;M;10;;;Región de Metropolitana De Santiago;41
+1333;FEMENINO;F;7;;;Región de Valparaíso;34
+1334;FEMENINO;F;3;;;Región de Los Rios;33
+1335;FEMENINO;F;10;0;10;Región de Coquimbo;51
+1336;MASCULINO;M;5;;;Región de Libertador B. O'Higgins;24
+1337;MASCULINO;M;3;0;3;Región de Metropolitana De Santiago;40
+1338;FEMENINO;F;9;;;Región de Biobío;20
+1339;FEMENINO;F;11;;;Región de Metropolitana De Santiago;27
+1340;FEMENINO;F;8;;;Región de La Araucanía;27
+1341;FEMENINO;F;6;;;Región de Metropolitana De Santiago;65
+1342;FEMENINO;F;5;;;Región de La Araucanía;27
+1343;FEMENINO;F;10;0;10;Región de Coquimbo;27
+1344;FEMENINO;F;12;;;Región de Valparaíso;46
+1345;FEMENINO;F;9;;;Región de Metropolitana De Santiago;26
+1346;MASCULINO;M;3;;;Región de Metropolitana De Santiago;34
+1347;FEMENINO;F;9;0;9;Región de Metropolitana De Santiago;31
+1348;FEMENINO;F;6;;;Región de La Araucanía;19
+1349;FEMENINO;F;9;;;Región de Coquimbo;30
+1350;FEMENINO;F;5;;;Región de Metropolitana De Santiago;29
+1351;FEMENINO;F;10;1;9;Región de Maule;32
+1352;FEMENINO;F;7;;;Región de Valparaíso;28
+1353;FEMENINO;F;7;;;Región de Los Lagos;30
+1354;FEMENINO;F;4;;;Región de Metropolitana De Santiago;58
+1355;FEMENINO;F;2;0;2;Región de Ñuble;24
+1356;FEMENINO;F;11;;;Región de Metropolitana De Santiago;49
+1357;MASCULINO;M;3;;;Región de Libertador B. O'Higgins;50
+1358;MASCULINO;M;6;;;Región de Metropolitana De Santiago;39
 1359;;M;;;;;39
-1360;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;24
-1361;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;30
-1362;FEMENINO;F;11;;;Regi�n de La Araucan�a;28
-1363;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;32
-1364;FEMENINO;F;4;;;Regi�n de Los Rios;33
-1365;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;22
-1366;FEMENINO;F;12;0;12;Regi�n de Metropolitana De Santiago;28
-1367;MASCULINO;M;10;;;Regi�n de Metropolitana De Santiago;23
-1368;FEMENINO;F;7;;;Regi�n de Los Lagos;44
-1369;FEMENINO;F;6;2;4;Regi�n de Metropolitana De Santiago;65
-1370;MASCULINO;M;11;0;11;Regi�n de Biob�o;19
-1371;FEMENINO;F;6;;;Regi�n de La Araucan�a;21
-1372;MASCULINO;M;11;0;11;Regi�n de Libertador B. O'Higgins;20
+1360;FEMENINO;F;9;;;Región de Metropolitana De Santiago;24
+1361;MASCULINO;M;6;;;Región de Metropolitana De Santiago;30
+1362;FEMENINO;F;11;;;Región de La Araucanía;28
+1363;FEMENINO;F;5;;;Región de Metropolitana De Santiago;32
+1364;FEMENINO;F;4;;;Región de Los Rios;33
+1365;FEMENINO;F;11;;;Región de Metropolitana De Santiago;22
+1366;FEMENINO;F;12;0;12;Región de Metropolitana De Santiago;28
+1367;MASCULINO;M;10;;;Región de Metropolitana De Santiago;23
+1368;FEMENINO;F;7;;;Región de Los Lagos;44
+1369;FEMENINO;F;6;2;4;Región de Metropolitana De Santiago;65
+1370;MASCULINO;M;11;0;11;Región de Biobío;19
+1371;FEMENINO;F;6;;;Región de La Araucanía;21
+1372;MASCULINO;M;11;0;11;Región de Libertador B. O'Higgins;20
 1373;FEMENINO;F;;;;;18
-1374;FEMENINO;F;4;;;Regi�n de Tarapac�;33
-1375;FEMENINO;F;6;;;Regi�n de Valpara�so;35
+1374;FEMENINO;F;4;;;Región de Tarapacá;33
+1375;FEMENINO;F;6;;;Región de Valparaíso;35
 1376;;F;;;;;29
 1377;;F;;;;;29
-1378;FEMENINO;F;10;;;Regi�n de Valpara�so;24
-1379;FEMENINO;F;9;0;9;Regi�n de Tarapac�;27
-1380;FEMENINO;F;8;;;Regi�n de �uble;37
-1381;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;24
-1382;MASCULINO;M;10;;;Regi�n de Valpara�so;29
-1383;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;26
-1384;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;21
+1378;FEMENINO;F;10;;;Región de Valparaíso;24
+1379;FEMENINO;F;9;0;9;Región de Tarapacá;27
+1380;FEMENINO;F;8;;;Región de Ñuble;37
+1381;FEMENINO;F;6;;;Región de Metropolitana De Santiago;24
+1382;MASCULINO;M;10;;;Región de Valparaíso;29
+1383;FEMENINO;F;11;;;Región de Metropolitana De Santiago;26
+1384;FEMENINO;F;5;;;Región de Metropolitana De Santiago;21
 1385;;M;;;;;34
-1386;FEMENINO;F;2;0;2;Regi�n de Metropolitana De Santiago;32
-1387;FEMENINO;F;11;;;Regi�n de Antofagasta;31
-1388;FEMENINO;F;2;;;Regi�n de Metropolitana De Santiago;36
+1386;FEMENINO;F;2;0;2;Región de Metropolitana De Santiago;32
+1387;FEMENINO;F;11;;;Región de Antofagasta;31
+1388;FEMENINO;F;2;;;Región de Metropolitana De Santiago;36
 1389;;F;;;;;37
 1390;;F;;;;;36
-1391;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;22
-1392;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;31
-1393;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;35
-1394;MASCULINO;M;5;;;Regi�n de Antofagasta;20
-1395;MASCULINO;M;5;0;5;Regi�n de Metropolitana De Santiago;38
-1396;FEMENINO;F;11;;;Regi�n de Los Lagos;45
-1397;FEMENINO;F;8;;;Regi�n de Valpara�so;74
-1398;FEMENINO;F;9;;;Regi�n de Biob�o;26
-1399;MASCULINO;M;6;0;6;Regi�n de Metropolitana De Santiago;38
+1391;FEMENINO;F;12;;;Región de Metropolitana De Santiago;22
+1392;FEMENINO;F;12;;;Región de Metropolitana De Santiago;31
+1393;MASCULINO;M;8;;;Región de Metropolitana De Santiago;35
+1394;MASCULINO;M;5;;;Región de Antofagasta;20
+1395;MASCULINO;M;5;0;5;Región de Metropolitana De Santiago;38
+1396;FEMENINO;F;11;;;Región de Los Lagos;45
+1397;FEMENINO;F;8;;;Región de Valparaíso;74
+1398;FEMENINO;F;9;;;Región de Biobío;26
+1399;MASCULINO;M;6;0;6;Región de Metropolitana De Santiago;38
 1400;;F;;;;;57
-1401;FEMENINO;F;5;;;Regi�n de Biob�o;22
-1402;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;25
-1403;MASCULINO;M;5;;;Regi�n de Metropolitana De Santiago;56
-1404;FEMENINO;F;7;;;Regi�n de La Araucan�a;22
+1401;FEMENINO;F;5;;;Región de Biobío;22
+1402;FEMENINO;F;10;;;Región de Metropolitana De Santiago;25
+1403;MASCULINO;M;5;;;Región de Metropolitana De Santiago;56
+1404;FEMENINO;F;7;;;Región de La Araucanía;22
 1405;;;;;;;
-1406;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;32
-1407;MASCULINO;M;9;0;9;Regi�n de Valpara�so;20
-1408;FEMENINO;F;4;;;Regi�n de Metropolitana De Santiago;30
-1409;MASCULINO;M;10;;;Regi�n de Metropolitana De Santiago;26
-1410;FEMENINO;F;7;0;7;Regi�n de Valpara�so;40
-1411;MASCULINO;M;9;;;Regi�n de Valpara�so;24
-1412;MASCULINO;M;12;;;Regi�n de Metropolitana De Santiago;42
-1413;FEMENINO;F;;;;Regi�n de Metropolitana De Santiago;65
-1414;FEMENINO;F;1;;;Regi�n de Valpara�so;35
+1406;MASCULINO;M;6;;;Región de Metropolitana De Santiago;32
+1407;MASCULINO;M;9;0;9;Región de Valparaíso;20
+1408;FEMENINO;F;4;;;Región de Metropolitana De Santiago;30
+1409;MASCULINO;M;10;;;Región de Metropolitana De Santiago;26
+1410;FEMENINO;F;7;0;7;Región de Valparaíso;40
+1411;MASCULINO;M;9;;;Región de Valparaíso;24
+1412;MASCULINO;M;12;;;Región de Metropolitana De Santiago;42
+1413;FEMENINO;F;;;;Región de Metropolitana De Santiago;65
+1414;FEMENINO;F;1;;;Región de Valparaíso;35
 1415;;F;;;;;22
-1416;FEMENINO;F;7;;;Regi�n de Arica y Parinacota;19
-1417;MASCULINO;M;7;1;6;Regi�n de Maule;19
-1418;FEMENINO;F;12;3;9;Regi�n de Maule;52
-1419;FEMENINO;F;4;;;Regi�n de Valpara�so;40
-1420;FEMENINO;F;9;1;8;Regi�n de Metropolitana De Santiago;37
-1421;FEMENINO;F;4;;;Regi�n de Metropolitana De Santiago;21
-1422;FEMENINO;F;10;0;10;Regi�n de Maule;25
-1423;MASCULINO;M;8;;;Regi�n de Magallanes y de La Ant�rtica chilena;29
-1424;FEMENINO;F;6;;;Regi�n de Biob�o;33
-1425;MASCULINO;M;6;;;Regi�n de Valpara�so;23
-1426;FEMENINO;F;11;;;Regi�n de Valpara�so;33
-1427;MASCULINO;M;7;12;-5;Regi�n de Metropolitana De Santiago;19
-1428;FEMENINO;F;12;;;Regi�n de Tarapac�;46
-1429;FEMENINO;F;11;;;Regi�n de Los Lagos;66
-1430;FEMENINO;F;12;0;12;Regi�n de Magallanes y de La Ant�rtica chilena;34
-1431;FEMENINO;F;5;;;Regi�n de Libertador B. O'Higgins;33
-1432;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;21
-1433;MASCULINO;M;6;;;Regi�n de Valpara�so;34
-1434;FEMENINO;F;4;;;Regi�n de Maule;25
-1435;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;44
-1436;MASCULINO;M;8;0;8;Regi�n de Metropolitana De Santiago;40
-1437;MASCULINO;M;7;0;7;Regi�n de La Araucan�a;22
-1438;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;29
-1439;MASCULINO;M;3;;;Regi�n de Metropolitana De Santiago;47
-1440;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;33
-1441;FEMENINO;F;2;;;Regi�n de Metropolitana De Santiago;18
-1442;FEMENINO;F;9;;;Regi�n de Antofagasta;32
+1416;FEMENINO;F;7;;;Región de Arica y Parinacota;19
+1417;MASCULINO;M;7;1;6;Región de Maule;19
+1418;FEMENINO;F;12;3;9;Región de Maule;52
+1419;FEMENINO;F;4;;;Región de Valparaíso;40
+1420;FEMENINO;F;9;1;8;Región de Metropolitana De Santiago;37
+1421;FEMENINO;F;4;;;Región de Metropolitana De Santiago;21
+1422;FEMENINO;F;10;0;10;Región de Maule;25
+1423;MASCULINO;M;8;;;Región de Magallanes y de La Antártica chilena;29
+1424;FEMENINO;F;6;;;Región de Biobío;33
+1425;MASCULINO;M;6;;;Región de Valparaíso;23
+1426;FEMENINO;F;11;;;Región de Valparaíso;33
+1427;MASCULINO;M;7;12;-5;Región de Metropolitana De Santiago;19
+1428;FEMENINO;F;12;;;Región de Tarapacá;46
+1429;FEMENINO;F;11;;;Región de Los Lagos;66
+1430;FEMENINO;F;12;0;12;Región de Magallanes y de La Antártica chilena;34
+1431;FEMENINO;F;5;;;Región de Libertador B. O'Higgins;33
+1432;FEMENINO;F;9;;;Región de Metropolitana De Santiago;21
+1433;MASCULINO;M;6;;;Región de Valparaíso;34
+1434;FEMENINO;F;4;;;Región de Maule;25
+1435;FEMENINO;F;8;;;Región de Metropolitana De Santiago;44
+1436;MASCULINO;M;8;0;8;Región de Metropolitana De Santiago;40
+1437;MASCULINO;M;7;0;7;Región de La Araucanía;22
+1438;FEMENINO;F;5;;;Región de Metropolitana De Santiago;29
+1439;MASCULINO;M;3;;;Región de Metropolitana De Santiago;47
+1440;FEMENINO;F;9;;;Región de Metropolitana De Santiago;33
+1441;FEMENINO;F;2;;;Región de Metropolitana De Santiago;18
+1442;FEMENINO;F;9;;;Región de Antofagasta;32
 1443;;;;;;;
-1444;FEMENINO;F;4;;;Regi�n de Biob�o;24
-1445;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;27
-1446;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;27
-1447;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;26
-1448;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;34
-1449;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;34
-1450;MASCULINO;M;5;1;4;Regi�n de Maule;27
-1451;FEMENINO;F;3;;;Regi�n de Libertador B. O'Higgins;25
-1452;MASCULINO;M;9;0;9;Regi�n de Los Lagos;34
-1453;FEMENINO;F;;;;Regi�n de Maule;34
-1454;FEMENINO;F;6;1;5;Regi�n de Metropolitana De Santiago;20
-1455;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;22
-1456;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;51
-1457;MASCULINO;M;12;0;12;Regi�n de Los Lagos;38
-1458;FEMENINO;F;8;;;Regi�n de Biob�o;40
-1459;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;33
-1460;FEMENINO;F;9;0;9;Regi�n de Biob�o;22
-1461;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;27
-1462;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;26
-1463;MASCULINO;M;9;;;Regi�n de Valpara�so;27
-1464;FEMENINO;F;6;0;6;Regi�n de Biob�o;28
-1465;FEMENINO;F;7;;;Regi�n de Coquimbo;34
-1466;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;41
-1467;FEMENINO;F;4;;;Regi�n de Biob�o;32
-1468;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;29
-1469;FEMENINO;F;9;;;Regi�n de Libertador B. O'Higgins;25
-1470;MASCULINO;F;;4;;Regi�n de Los Lagos;18
-1471;FEMENINO;F;4;;;Regi�n de Los Lagos;36
-1472;FEMENINO;F;3;;;Regi�n de Biob�o;32
-1473;FEMENINO;F;9;;;Regi�n de Antofagasta;84
-1474;FEMENINO;F;11;;;Regi�n de Valpara�so;41
-1475;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;23
-1476;FEMENINO;F;11;;;Regi�n de Biob�o;20
-1477;MASCULINO;M;7;1;6;Regi�n de Metropolitana De Santiago;49
-1478;FEMENINO;F;5;;;Regi�n de Biob�o;24
-1479;FEMENINO;F;8;1;7;Regi�n de �uble;30
-1480;MASCULINO;M;5;;;Regi�n de Metropolitana De Santiago;38
-1481;FEMENINO;F;10;0;10;Regi�n de Maule;23
-1482;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;39
-1483;FEMENINO;F;6;;;Regi�n de Libertador B. O'Higgins;75
-1484;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;25
-1485;MASCULINO;M;6;;;Regi�n de Metropolitana De Santiago;23
-1486;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;36
-1487;OTRO;M;10;;;Regi�n de Antofagasta;25
-1488;FEMENINO;F;8;;;Regi�n de Valpara�so;26
-1489;MASCULINO;M;3;;;Regi�n de Antofagasta;40
-1490;MASCULINO;M;12;;;Regi�n de �uble;48
-1491;FEMENINO;F;5;2;3;Regi�n de Valpara�so;23
-1492;FEMENINO;F;3;;;Regi�n de Metropolitana De Santiago;42
-1493;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;23
-1494;OTRO;M;7;;;Regi�n de Metropolitana De Santiago;36
-1495;FEMENINO;F;4;0;4;Regi�n de Los Lagos;31
-1496;MASCULINO;M;10;;;Regi�n de Metropolitana De Santiago;19
-1497;FEMENINO;F;2;;;Regi�n de Libertador B. O'Higgins;23
-1498;FEMENINO;F;9;;;Regi�n de Libertador B. O'Higgins;42
-1499;FEMENINO;F;2;;;Regi�n de Valpara�so;33
-1500;FEMENINO;F;9;;;Regi�n de Libertador B. O'Higgins;55
-1501;MASCULINO;M;12;;;Regi�n de Valpara�so;19
-1502;FEMENINO;F;7;;;Regi�n de Valpara�so;35
-1503;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;63
+1444;FEMENINO;F;4;;;Región de Biobío;24
+1445;MASCULINO;M;6;;;Región de Metropolitana De Santiago;27
+1446;FEMENINO;F;8;;;Región de Metropolitana De Santiago;27
+1447;FEMENINO;F;6;;;Región de Metropolitana De Santiago;26
+1448;FEMENINO;F;7;;;Región de Metropolitana De Santiago;34
+1449;FEMENINO;F;8;;;Región de Metropolitana De Santiago;34
+1450;MASCULINO;M;5;1;4;Región de Maule;27
+1451;FEMENINO;F;3;;;Región de Libertador B. O'Higgins;25
+1452;MASCULINO;M;9;0;9;Región de Los Lagos;34
+1453;FEMENINO;F;;;;Región de Maule;34
+1454;FEMENINO;F;6;1;5;Región de Metropolitana De Santiago;20
+1455;FEMENINO;F;7;;;Región de Metropolitana De Santiago;22
+1456;FEMENINO;F;6;;;Región de Metropolitana De Santiago;51
+1457;MASCULINO;M;12;0;12;Región de Los Lagos;38
+1458;FEMENINO;F;8;;;Región de Biobío;40
+1459;MASCULINO;M;6;;;Región de Metropolitana De Santiago;33
+1460;FEMENINO;F;9;0;9;Región de Biobío;22
+1461;FEMENINO;F;9;;;Región de Metropolitana De Santiago;27
+1462;FEMENINO;F;5;;;Región de Metropolitana De Santiago;26
+1463;MASCULINO;M;9;;;Región de Valparaíso;27
+1464;FEMENINO;F;6;0;6;Región de Biobío;28
+1465;FEMENINO;F;7;;;Región de Coquimbo;34
+1466;FEMENINO;F;12;;;Región de Metropolitana De Santiago;41
+1467;FEMENINO;F;4;;;Región de Biobío;32
+1468;MASCULINO;M;8;;;Región de Metropolitana De Santiago;29
+1469;FEMENINO;F;9;;;Región de Libertador B. O'Higgins;25
+1470;MASCULINO;F;;4;;Región de Los Lagos;18
+1471;FEMENINO;F;4;;;Región de Los Lagos;36
+1472;FEMENINO;F;3;;;Región de Biobío;32
+1473;FEMENINO;F;9;;;Región de Antofagasta;84
+1474;FEMENINO;F;11;;;Región de Valparaíso;41
+1475;FEMENINO;F;6;;;Región de Metropolitana De Santiago;23
+1476;FEMENINO;F;11;;;Región de Biobío;20
+1477;MASCULINO;M;7;1;6;Región de Metropolitana De Santiago;49
+1478;FEMENINO;F;5;;;Región de Biobío;24
+1479;FEMENINO;F;8;1;7;Región de Ñuble;30
+1480;MASCULINO;M;5;;;Región de Metropolitana De Santiago;38
+1481;FEMENINO;F;10;0;10;Región de Maule;23
+1482;FEMENINO;F;6;;;Región de Metropolitana De Santiago;39
+1483;FEMENINO;F;6;;;Región de Libertador B. O'Higgins;75
+1484;FEMENINO;F;6;;;Región de Metropolitana De Santiago;25
+1485;MASCULINO;M;6;;;Región de Metropolitana De Santiago;23
+1486;FEMENINO;F;6;;;Región de Metropolitana De Santiago;36
+1487;OTRO;M;10;;;Región de Antofagasta;25
+1488;FEMENINO;F;8;;;Región de Valparaíso;26
+1489;MASCULINO;M;3;;;Región de Antofagasta;40
+1490;MASCULINO;M;12;;;Región de Ñuble;48
+1491;FEMENINO;F;5;2;3;Región de Valparaíso;23
+1492;FEMENINO;F;3;;;Región de Metropolitana De Santiago;42
+1493;FEMENINO;F;10;;;Región de Metropolitana De Santiago;23
+1494;OTRO;M;7;;;Región de Metropolitana De Santiago;36
+1495;FEMENINO;F;4;0;4;Región de Los Lagos;31
+1496;MASCULINO;M;10;;;Región de Metropolitana De Santiago;19
+1497;FEMENINO;F;2;;;Región de Libertador B. O'Higgins;23
+1498;FEMENINO;F;9;;;Región de Libertador B. O'Higgins;42
+1499;FEMENINO;F;2;;;Región de Valparaíso;33
+1500;FEMENINO;F;9;;;Región de Libertador B. O'Higgins;55
+1501;MASCULINO;M;12;;;Región de Valparaíso;19
+1502;FEMENINO;F;7;;;Región de Valparaíso;35
+1503;FEMENINO;F;8;;;Región de Metropolitana De Santiago;63
 1504;;;;;;;
-1505;FEMENINO;F;5;;;Regi�n de Valpara�so;71
-1506;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;73
-1507;FEMENINO;F;10;0;10;Regi�n de Metropolitana De Santiago;18
-1508;FEMENINO;F;9;0;9;Regi�n de Biob�o;24
-1509;FEMENINO;F;5;0;5;Regi�n de Valpara�so;28
-1510;FEMENINO;F;8;;;Regi�n de Valpara�so;26
-1511;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;29
-1512;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;30
-1513;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;35
+1505;FEMENINO;F;5;;;Región de Valparaíso;71
+1506;FEMENINO;F;9;;;Región de Metropolitana De Santiago;73
+1507;FEMENINO;F;10;0;10;Región de Metropolitana De Santiago;18
+1508;FEMENINO;F;9;0;9;Región de Biobío;24
+1509;FEMENINO;F;5;0;5;Región de Valparaíso;28
+1510;FEMENINO;F;8;;;Región de Valparaíso;26
+1511;FEMENINO;F;5;;;Región de Metropolitana De Santiago;29
+1512;FEMENINO;F;7;;;Región de Metropolitana De Santiago;30
+1513;FEMENINO;F;5;;;Región de Metropolitana De Santiago;35
 1514;;;;;;;
-1515;FEMENINO;F;5;;;Regi�n de Coquimbo;49
-1516;FEMENINO;F;7;;;Regi�n de Ays�n del Gral. C. Iba�ez del Campo;23
-1517;MASCULINO;M;3;;;Regi�n de Metropolitana De Santiago;40
-1518;FEMENINO;F;5;2;3;Regi�n de Libertador B. O'Higgins;40
-1519;FEMENINO;F;7;;;Regi�n de Los Lagos;22
-1520;FEMENINO;F;8;;;Regi�n de Valpara�so;61
-1521;FEMENINO;F;6;0;6;Regi�n de Maule;29
-1522;FEMENINO;F;7;;;Regi�n de Valpara�so;26
+1515;FEMENINO;F;5;;;Región de Coquimbo;49
+1516;FEMENINO;F;7;;;Región de Aysén del Gral. C. Ibañez del Campo;23
+1517;MASCULINO;M;3;;;Región de Metropolitana De Santiago;40
+1518;FEMENINO;F;5;2;3;Región de Libertador B. O'Higgins;40
+1519;FEMENINO;F;7;;;Región de Los Lagos;22
+1520;FEMENINO;F;8;;;Región de Valparaíso;61
+1521;FEMENINO;F;6;0;6;Región de Maule;29
+1522;FEMENINO;F;7;;;Región de Valparaíso;26
 1523;;F;;;;;31
-1524;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;27
-1525;FEMENINO;F;5;;;Regi�n de Coquimbo;33
-1526;FEMENINO;F;;;;Regi�n de Los Lagos;26
+1524;FEMENINO;F;8;;;Región de Metropolitana De Santiago;27
+1525;FEMENINO;F;5;;;Región de Coquimbo;33
+1526;FEMENINO;F;;;;Región de Los Lagos;26
 1527;;F;;;;;55
-1528;FEMENINO;F;1;;;Regi�n de Arica y Parinacota;27
-1529;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;41
-1530;MASCULINO;M;2;;;Regi�n de Metropolitana De Santiago;32
-1531;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;35
-1532;FEMENINO;F;9;0;9;Regi�n de Maule;18
-1533;MASCULINO;M;7;;;Regi�n de Libertador B. O'Higgins;24
-1534;FEMENINO;F;6;;;Regi�n de Maule;24
-1535;MASCULINO;M;0;;;Regi�n de Metropolitana De Santiago;42
-1536;FEMENINO;F;10;2;8;Regi�n de �uble;22
-1537;FEMENINO;F;7;;;Regi�n de Los Lagos;34
-1538;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;31
-1539;FEMENINO;F;12;;;Regi�n de Metropolitana De Santiago;21
-1540;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;48
-1541;FEMENINO;F;5;0;5;Regi�n de Metropolitana De Santiago;32
-1542;FEMENINO;F;6;2;4;Regi�n de Metropolitana De Santiago;37
-1543;MASCULINO;M;4;;;Regi�n de Valpara�so;29
-1544;FEMENINO;F;7;;;Regi�n de Antofagasta;50
-1545;MASCULINO;M;8;0;8;Regi�n de Metropolitana De Santiago;33
+1528;FEMENINO;F;1;;;Región de Arica y Parinacota;27
+1529;FEMENINO;F;8;;;Región de Metropolitana De Santiago;41
+1530;MASCULINO;M;2;;;Región de Metropolitana De Santiago;32
+1531;FEMENINO;F;9;;;Región de Metropolitana De Santiago;35
+1532;FEMENINO;F;9;0;9;Región de Maule;18
+1533;MASCULINO;M;7;;;Región de Libertador B. O'Higgins;24
+1534;FEMENINO;F;6;;;Región de Maule;24
+1535;MASCULINO;M;0;;;Región de Metropolitana De Santiago;42
+1536;FEMENINO;F;10;2;8;Región de Ñuble;22
+1537;FEMENINO;F;7;;;Región de Los Lagos;34
+1538;FEMENINO;F;7;;;Región de Metropolitana De Santiago;31
+1539;FEMENINO;F;12;;;Región de Metropolitana De Santiago;21
+1540;FEMENINO;F;8;;;Región de Metropolitana De Santiago;48
+1541;FEMENINO;F;5;0;5;Región de Metropolitana De Santiago;32
+1542;FEMENINO;F;6;2;4;Región de Metropolitana De Santiago;37
+1543;MASCULINO;M;4;;;Región de Valparaíso;29
+1544;FEMENINO;F;7;;;Región de Antofagasta;50
+1545;MASCULINO;M;8;0;8;Región de Metropolitana De Santiago;33
 1546;;;;;;;
-1547;FEMENINO;F;4;;;Regi�n de La Araucan�a;23
-1548;FEMENINO;F;6;;;Regi�n de Coquimbo;31
-1549;FEMENINO;F;2;;;Regi�n de La Araucan�a;26
-1550;MASCULINO;M;11;;;Regi�n de Metropolitana De Santiago;54
+1547;FEMENINO;F;4;;;Región de La Araucanía;23
+1548;FEMENINO;F;6;;;Región de Coquimbo;31
+1549;FEMENINO;F;2;;;Región de La Araucanía;26
+1550;MASCULINO;M;11;;;Región de Metropolitana De Santiago;54
 1551;;;;;;;
-1552;MASCULINO;M;9;;;Regi�n de Maule;25
-1553;FEMENINO;F;9;;;Regi�n de �uble;33
-1554;FEMENINO;F;4;;;Regi�n de Biob�o;26
-1555;MASCULINO;M;3;;;Regi�n de Metropolitana De Santiago;25
-1556;FEMENINO;F;3;;;Regi�n de Metropolitana De Santiago;46
-1557;FEMENINO;F;11;;;Regi�n de La Araucan�a;35
-1558;FEMENINO;F;5;0;5;Regi�n de Coquimbo;31
-1559;MASCULINO;M;9;;;Regi�n de Biob�o;27
-1560;FEMENINO;F;8;;;Regi�n de Valpara�so;43
-1561;FEMENINO;F;4;;;Regi�n de Metropolitana De Santiago;45
+1552;MASCULINO;M;9;;;Región de Maule;25
+1553;FEMENINO;F;9;;;Región de Ñuble;33
+1554;FEMENINO;F;4;;;Región de Biobío;26
+1555;MASCULINO;M;3;;;Región de Metropolitana De Santiago;25
+1556;FEMENINO;F;3;;;Región de Metropolitana De Santiago;46
+1557;FEMENINO;F;11;;;Región de La Araucanía;35
+1558;FEMENINO;F;5;0;5;Región de Coquimbo;31
+1559;MASCULINO;M;9;;;Región de Biobío;27
+1560;FEMENINO;F;8;;;Región de Valparaíso;43
+1561;FEMENINO;F;4;;;Región de Metropolitana De Santiago;45
 1562;;;;;;;
-1563;FEMENINO;F;4;;;Regi�n de Atacama;31
-1564;FEMENINO;F;6;;;Regi�n de Los Rios;32
-1565;FEMENINO;F;;;;Regi�n de Metropolitana De Santiago;21
-1566;MASCULINO;M;6;;;Regi�n de Biob�o;19
+1563;FEMENINO;F;4;;;Región de Atacama;31
+1564;FEMENINO;F;6;;;Región de Los Rios;32
+1565;FEMENINO;F;;;;Región de Metropolitana De Santiago;21
+1566;MASCULINO;M;6;;;Región de Biobío;19
 1567;;;;;;;
-1568;FEMENINO;F;5;0;5;Regi�n de La Araucan�a;25
-1569;FEMENINO;F;;;;Regi�n de Coquimbo;18
-1570;FEMENINO;F;11;;;Regi�n de Biob�o;28
-1571;MASCULINO;M;9;;;Regi�n de Antofagasta;24
+1568;FEMENINO;F;5;0;5;Región de La Araucanía;25
+1569;FEMENINO;F;;;;Región de Coquimbo;18
+1570;FEMENINO;F;11;;;Región de Biobío;28
+1571;MASCULINO;M;9;;;Región de Antofagasta;24
 1572;;;;;;;
-1573;MASCULINO;M;8;0;8;Regi�n de Metropolitana De Santiago;35
-1574;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;26
-1575;MASCULINO;M;11;;;Regi�n de Los Rios;38
-1576;MASCULINO;M;10;;;Regi�n de Valpara�so;33
-1577;MASCULINO;M;9;;;Regi�n de Metropolitana De Santiago;37
-1578;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;28
-1579;FEMENINO;F;8;;;Regi�n de Valpara�so;18
-1580;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;46
-1581;FEMENINO;F;3;3;0;Regi�n de �uble;32
+1573;MASCULINO;M;8;0;8;Región de Metropolitana De Santiago;35
+1574;FEMENINO;F;11;;;Región de Metropolitana De Santiago;26
+1575;MASCULINO;M;11;;;Región de Los Rios;38
+1576;MASCULINO;M;10;;;Región de Valparaíso;33
+1577;MASCULINO;M;9;;;Región de Metropolitana De Santiago;37
+1578;FEMENINO;F;8;;;Región de Metropolitana De Santiago;28
+1579;FEMENINO;F;8;;;Región de Valparaíso;18
+1580;FEMENINO;F;8;;;Región de Metropolitana De Santiago;46
+1581;FEMENINO;F;3;3;0;Región de Ñuble;32
 1582;;M;;;;;23
-1583;FEMENINO;F;5;;;Regi�n de �uble;19
-1584;FEMENINO;F;7;;;Regi�n de Antofagasta;26
-1585;MASCULINO;M;11;;;Regi�n de Valpara�so;47
-1586;FEMENINO;F;8;0;8;Regi�n de Metropolitana De Santiago;21
-1587;FEMENINO;F;7;0;7;Regi�n de Metropolitana De Santiago;20
-1588;FEMENINO;F;5;;;Regi�n de Maule;25
-1589;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;34
-1590;FEMENINO;F;1;;;Regi�n de Metropolitana De Santiago;28
-1591;FEMENINO;F;12;;;Regi�n de Biob�o;18
-1592;FEMENINO;F;12;;;Regi�n de Libertador B. O'Higgins;24
-1593;MASCULINO;M;6;;;Regi�n de Valpara�so;23
-1594;FEMENINO;F;10;;;Regi�n de Valpara�so;41
-1595;MASCULINO;M;6;1;5;Regi�n de Biob�o;22
-1596;FEMENINO;F;5;;;Regi�n de Biob�o;39
-1597;FEMENINO;F;11;;;Regi�n de Tarapac�;25
-1598;FEMENINO;F;7;0;7;Regi�n de La Araucan�a;49
-1599;FEMENINO;F;4;;;Regi�n de Metropolitana De Santiago;31
-1600;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;36
-1601;MASCULINO;M;12;0;12;Regi�n de Biob�o;25
-1602;MASCULINO;M;7;;;Regi�n de Metropolitana De Santiago;22
-1603;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;26
-1604;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;45
-1605;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;35
-1606;MASCULINO;M;5;;;Regi�n de Metropolitana De Santiago;31
-1607;FEMENINO;F;6;;;Regi�n de Valpara�so;43
-1608;FEMENINO;F;5;2;3;Regi�n de Metropolitana De Santiago;26
-1609;FEMENINO;F;10;;;Regi�n de Valpara�so;40
-1610;FEMENINO;F;3;0;3;Regi�n de Valpara�so;23
-1611;FEMENINO;F;3;;;Regi�n de Metropolitana De Santiago;34
-1612;FEMENINO;F;4;;;Regi�n de Metropolitana De Santiago;23
+1583;FEMENINO;F;5;;;Región de Ñuble;19
+1584;FEMENINO;F;7;;;Región de Antofagasta;26
+1585;MASCULINO;M;11;;;Región de Valparaíso;47
+1586;FEMENINO;F;8;0;8;Región de Metropolitana De Santiago;21
+1587;FEMENINO;F;7;0;7;Región de Metropolitana De Santiago;20
+1588;FEMENINO;F;5;;;Región de Maule;25
+1589;FEMENINO;F;8;;;Región de Metropolitana De Santiago;34
+1590;FEMENINO;F;1;;;Región de Metropolitana De Santiago;28
+1591;FEMENINO;F;12;;;Región de Biobío;18
+1592;FEMENINO;F;12;;;Región de Libertador B. O'Higgins;24
+1593;MASCULINO;M;6;;;Región de Valparaíso;23
+1594;FEMENINO;F;10;;;Región de Valparaíso;41
+1595;MASCULINO;M;6;1;5;Región de Biobío;22
+1596;FEMENINO;F;5;;;Región de Biobío;39
+1597;FEMENINO;F;11;;;Región de Tarapacá;25
+1598;FEMENINO;F;7;0;7;Región de La Araucanía;49
+1599;FEMENINO;F;4;;;Región de Metropolitana De Santiago;31
+1600;FEMENINO;F;8;;;Región de Metropolitana De Santiago;36
+1601;MASCULINO;M;12;0;12;Región de Biobío;25
+1602;MASCULINO;M;7;;;Región de Metropolitana De Santiago;22
+1603;FEMENINO;F;6;;;Región de Metropolitana De Santiago;26
+1604;FEMENINO;F;7;;;Región de Metropolitana De Santiago;45
+1605;FEMENINO;F;7;;;Región de Metropolitana De Santiago;35
+1606;MASCULINO;M;5;;;Región de Metropolitana De Santiago;31
+1607;FEMENINO;F;6;;;Región de Valparaíso;43
+1608;FEMENINO;F;5;2;3;Región de Metropolitana De Santiago;26
+1609;FEMENINO;F;10;;;Región de Valparaíso;40
+1610;FEMENINO;F;3;0;3;Región de Valparaíso;23
+1611;FEMENINO;F;3;;;Región de Metropolitana De Santiago;34
+1612;FEMENINO;F;4;;;Región de Metropolitana De Santiago;23
 1613;;;;;;;
-1614;FEMENINO;F;8;;;Regi�n de Metropolitana De Santiago;31
-1615;MASCULINO;M;8;;;Regi�n de Metropolitana De Santiago;41
-1616;FEMENINO;F;11;;;Regi�n de Metropolitana De Santiago;31
-1617;MASCULINO;M;11;0;11;Regi�n de Metropolitana De Santiago;21
-1618;FEMENINO;F;5;;;Regi�n de Valpara�so;39
-1619;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;19
-1620;FEMENINO;F;5;;;Regi�n de Valpara�so;19
-1621;FEMENINO;F;4;;;Regi�n de Biob�o;26
-1622;MASCULINO;M;10;;;Regi�n de Metropolitana De Santiago;35
-1623;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;73
+1614;FEMENINO;F;8;;;Región de Metropolitana De Santiago;31
+1615;MASCULINO;M;8;;;Región de Metropolitana De Santiago;41
+1616;FEMENINO;F;11;;;Región de Metropolitana De Santiago;31
+1617;MASCULINO;M;11;0;11;Región de Metropolitana De Santiago;21
+1618;FEMENINO;F;5;;;Región de Valparaíso;39
+1619;FEMENINO;F;6;;;Región de Metropolitana De Santiago;19
+1620;FEMENINO;F;5;;;Región de Valparaíso;19
+1621;FEMENINO;F;4;;;Región de Biobío;26
+1622;MASCULINO;M;10;;;Región de Metropolitana De Santiago;35
+1623;FEMENINO;F;5;;;Región de Metropolitana De Santiago;73
 1624;;;;;;;
-1625;MASCULINO;M;0;;;Regi�n de Metropolitana De Santiago;28
-1626;FEMENINO;F;4;;;Regi�n de Biob�o;25
-1627;OTRO;F;8;;;Regi�n de Metropolitana De Santiago;30
-1628;FEMENINO;F;7;;;Regi�n de Metropolitana De Santiago;60
-1629;FEMENINO;F;6;;;Regi�n de Atacama;31
-1630;MASCULINO;M;7;;;Regi�n de Valpara�so;47
-1631;FEMENINO;F;10;;;Regi�n de Valpara�so;30
-1632;FEMENINO;F;5;;;Regi�n de Arica y Parinacota;32
-1633;MASCULINO;M;11;;;Regi�n de Metropolitana De Santiago;31
-1634;FEMENINO;F;7;;;Regi�n de Valpara�so;22
-1635;MASCULINO;M;1;;;Regi�n de Antofagasta;20
-1636;MASCULINO;M;7;;;Regi�n de Metropolitana De Santiago;23
-1637;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;47
-1638;MASCULINO;M;;;;Regi�n de Metropolitana De Santiago;34
-1639;FEMENINO;F;3;;;Regi�n de Coquimbo;48
-1640;OTRO;M;8;;;Regi�n de Metropolitana De Santiago;41
-1641;FEMENINO;F;1;;;Regi�n de Maule;38
-1642;FEMENINO;F;6;;;Regi�n de Valpara�so;37
-1643;;F;;;;Regi�n de Arica y Parinacota;17
-1644;FEMENINO;M;6;;;Regi�n de �uble;28
-1645;FEMENINO;F;10;;;Regi�n de Metropolitana De Santiago;36
-1646;FEMENINO;F;9;;;Regi�n de Metropolitana De Santiago;65
-1647;FEMENINO;F;6;;;Regi�n de Valpara�so;27
-1648;FEMENINO;F;5;;;Regi�n de Metropolitana De Santiago;38
-1649;FEMENINO;F;7;;;Regi�n de La Araucan�a;33
-1650;FEMENINO;F;7;;;Regi�n de Valpara�so;79
-1651;FEMENINO;F;6;;;Regi�n de Metropolitana De Santiago;25
+1625;MASCULINO;M;0;;;Región de Metropolitana De Santiago;28
+1626;FEMENINO;F;4;;;Región de Biobío;25
+1627;OTRO;F;8;;;Región de Metropolitana De Santiago;30
+1628;FEMENINO;F;7;;;Región de Metropolitana De Santiago;60
+1629;FEMENINO;F;6;;;Región de Atacama;31
+1630;MASCULINO;M;7;;;Región de Valparaíso;47
+1631;FEMENINO;F;10;;;Región de Valparaíso;30
+1632;FEMENINO;F;5;;;Región de Arica y Parinacota;32
+1633;MASCULINO;M;11;;;Región de Metropolitana De Santiago;31
+1634;FEMENINO;F;7;;;Región de Valparaíso;22
+1635;MASCULINO;M;1;;;Región de Antofagasta;20
+1636;MASCULINO;M;7;;;Región de Metropolitana De Santiago;23
+1637;FEMENINO;F;10;;;Región de Metropolitana De Santiago;47
+1638;MASCULINO;M;;;;Región de Metropolitana De Santiago;34
+1639;FEMENINO;F;3;;;Región de Coquimbo;48
+1640;OTRO;M;8;;;Región de Metropolitana De Santiago;41
+1641;FEMENINO;F;1;;;Región de Maule;38
+1642;FEMENINO;F;6;;;Región de Valparaíso;37
+1643;;F;;;;Región de Arica y Parinacota;17
+1644;FEMENINO;M;6;;;Región de Ñuble;28
+1645;FEMENINO;F;10;;;Región de Metropolitana De Santiago;36
+1646;FEMENINO;F;9;;;Región de Metropolitana De Santiago;65
+1647;FEMENINO;F;6;;;Región de Valparaíso;27
+1648;FEMENINO;F;5;;;Región de Metropolitana De Santiago;38
+1649;FEMENINO;F;7;;;Región de La Araucanía;33
+1650;FEMENINO;F;7;;;Región de Valparaíso;79
+1651;FEMENINO;F;6;;;Región de Metropolitana De Santiago;25
