@@ -1,5 +1,5 @@
 ﻿Record ID;IDENTIFICACION DE GENERO;SEXO;GOLDBERG1_PUNTAJE;GOLDBERG2_PUNTAJE;GOLDBERG2_DIFERENCIA;REGION;EDAD
-2;MASCULINO;M;2;;;Región de Valparaíso;80
+2;MASCULINO;M;2;;;Región de Valparaíso;75
 3;MASCULINO;M;3;;;Región de Valparaíso;16
 5;FEMENINO;F;6;;;Región de Metropolitana De Santiago;40
 6;FEMENINO;F;5;;;Región de Biobío;29
@@ -20,9 +20,9 @@
 21;MASCULINO;M;4;0;4;Región de Valparaíso;32
 22;FEMENINO;F;3;1;2;Región de Libertador B. O'Higgins;30
 23;FEMENINO;F;6;;;Región de Tarapacá;41
-24;MASCULINO;;0;;;Región de Biobío;
+24;MASCULINO;M;0;;;Región de Biobío;
 25;FEMENINO;F;4;;;Región de Metropolitana De Santiago;23
-26;;F;;;;;28
+26;FEMENINO;F;4;2;3;Región de Metropolitana De Santiago;28
 27;MASCULINO;M;4;0;4;Región de Metropolitana De Santiago;33
 29;FEMENINO;F;4;;;Región de Valparaíso;19
 30;FEMENINO;F;4;;;Región de Metropolitana De Santiago;42
@@ -64,11 +64,11 @@
 68;FEMENINO;F;;;;Región de Biobío;34
 69;MASCULINO;M;6;0;6;Región de Biobío;32
 70;FEMENINO;F;10;0;10;Región de Los Lagos;18
-73;;F;;;;;20
+73;FEMENINO;F;;;;;20
 74;FEMENINO;F;12;0;12;Región de Los Lagos;18
 75;FEMENINO;F;7;;;Región de La Araucanía;48
 76;FEMENINO;F;11;1;10;Región de Valparaíso;27
-77;;M;4;0;4;Región de Biobío;31
+77;MASCULINO;M;4;0;4;Región de Biobío;31
 78;FEMENINO;F;7;;;Región de Metropolitana De Santiago;37
 79;FEMENINO;F;8;2;6;Región de Metropolitana De Santiago;32
 80;MASCULINO;M;5;;;Región de Libertador B. O'Higgins;41
@@ -102,7 +102,7 @@
 112;FEMENINO;F;11;1;10;Región de Antofagasta;23
 113;FEMENINO;F;10;1;9;Región de Metropolitana De Santiago;66
 114;FEMENINO;F;7;;;Región de Ñuble;27
-115;;F;;;;;66
+115;FEMENINO;F;;;;;66
 116;MASCULINO;M;6;;;Región de Metropolitana De Santiago;19
 117;MASCULINO;M;11;3;8;Región de Antofagasta;72
 118;FEMENINO;F;9;;;Región de Metropolitana De Santiago;20
@@ -197,13 +197,13 @@
 212;FEMENINO;F;;;;Región de Magallanes y de La Antártica chilena;27
 213;MASCULINO;M;11;;;Región de Metropolitana De Santiago;23
 214;MASCULINO;M;11;;;Región de Antofagasta;17
-215;;F;;;;;34
+215;FEMENINO;F;;;;;34
 216;FEMENINO;F;2;;;Región de Maule;26
 217;MASCULINO;M;11;0;11;Región de Magallanes y de La Antártica chilena;18
 218;FEMENINO;F;10;;;Región de Los Lagos;33
 219;FEMENINO;F;12;;;Región de Metropolitana De Santiago;34
 220;FEMENINO;F;12;0;12;Región de Ñuble;39
-221;;F;;;;;18
+221;FEMENINO;F;;;;;18
 222;MASCULINO;M;7;1;6;Región de Los Lagos;27
 223;MASCULINO;M;7;;;Región de Metropolitana De Santiago;37
 224;MASCULINO;M;2;;;Región de Metropolitana De Santiago;33
@@ -269,13 +269,13 @@
 293;MASCULINO;M;11;1;10;Región de Libertador B. O'Higgins;20
 294;MASCULINO;M;8;3;5;Región de Los Lagos;24
 295;FEMENINO;F;11;;;Región de Metropolitana De Santiago;31
-296;;M;;;;;41
+296;MASCULINO;M;;;;;41
 297;MASCULINO;M;5;0;5;Región de Maule;35
 298;FEMENINO;F;6;;;Región de Magallanes y de La Antártica chilena;47
 299;MASCULINO;M;9;;;Región de Valparaíso;21
 301;FEMENINO;F;7;7;0;Región de Valparaíso;28
 302;MASCULINO;M;;;;Región de Metropolitana De Santiago;31
-304;;F;;;;;56
+304;FEMENINO;F;;;;;56
 305;MASCULINO;M;6;;;Región de Metropolitana De Santiago;28
 306;MASCULINO;M;7;;;Región de Metropolitana De Santiago;28
 307;MASCULINO;M;9;;;Región de Maule;31
@@ -292,7 +292,7 @@
 318;MASCULINO;M;10;0;10;Región de Valparaíso;28
 319;FEMENINO;F;10;;;Región de Biobío;23
 320;FEMENINO;F;12;;;Región de Metropolitana De Santiago;31
-321;;F;;;;;56
+321;FEMENINO;F;;;;;56
 322;FEMENINO;F;9;0;9;Región de Valparaíso;25
 323;MASCULINO;M;4;;;Región de Metropolitana De Santiago;35
 324;MASCULINO;M;5;;;Región de Los Lagos;27
@@ -304,7 +304,7 @@
 331;FEMENINO;F;6;0;6;Región de Metropolitana De Santiago;35
 332;FEMENINO;F;7;0;7;Región de La Araucanía;78
 333;MASCULINO;M;6;1;5;Región de Metropolitana De Santiago;32
-334;;M;;;;;21
+334;MASCULINO;M;;;;;21
 335;FEMENINO;F;6;0;6;Región de Libertador B. O'Higgins;19
 336;MASCULINO;M;8;;;Región de Magallanes y de La Antártica chilena;30
 337;FEMENINO;F;8;0;8;Región de Metropolitana De Santiago;31
@@ -315,7 +315,7 @@
 342;MASCULINO;M;7;;;Región de Metropolitana De Santiago;28
 343;MASCULINO;M;8;0;8;Región de Tarapacá;19
 344;MASCULINO;M;7;4;3;Región de Metropolitana De Santiago;35
-345;;F;;;;;40
+345;FEMENINO;F;;;;;40
 346;FEMENINO;F;5;;;Región de Metropolitana De Santiago;24
 347;FEMENINO;F;7;0;7;Región de Biobío;39
 348;MASCULINO;M;8;;;Región de Los Lagos;38
@@ -324,7 +324,7 @@
 351;FEMENINO;F;6;0;6;Región de Maule;39
 352;FEMENINO;F;6;;;Región de Metropolitana De Santiago;28
 353;FEMENINO;F;4;;;Región de Valparaíso;36
-354;;F;;;;;38
+354;FEMENINO;F;;;;;38
 355;FEMENINO;F;6;;;Región de Metropolitana De Santiago;68
 357;FEMENINO;F;7;;;Región de Aysén del Gral. C. Ibañez del Campo;49
 358;FEMENINO;F;5;;;Región de Metropolitana De Santiago;20
@@ -381,8 +381,8 @@
 412;FEMENINO;F;6;;;Región de Metropolitana De Santiago;21
 413;MASCULINO;M;6;;;Región de Metropolitana De Santiago;18
 414;FEMENINO;F;9;;;Región de Valparaíso;18
-415;;F;;;;;30
-416;;F;;;;;30
+415;FEMENINO;F;;;;;30
+416;FEMENINO;F;;;;;30
 418;FEMENINO;F;9;;;Región de Maule;29
 419;FEMENINO;F;11;;;Región de Los Lagos;29
 420;FEMENINO;F;5;;;Región de Metropolitana De Santiago;21
@@ -395,7 +395,7 @@
 431;MASCULINO;M;11;;;Región de La Araucanía;35
 432;FEMENINO;F;10;;;Región de Tarapacá;24
 433;FEMENINO;F;7;;;Región de Valparaíso;26
-435;;F;;;;;30
+435;FEMENINO;F;;;;;30
 436;FEMENINO;F;12;;;Región de Metropolitana De Santiago;57
 437;FEMENINO;F;;0;;Región de Ñuble;39
 438;FEMENINO;F;5;;;Región de Metropolitana De Santiago;21
@@ -438,7 +438,7 @@
 479;FEMENINO;F;9;;;Región de Metropolitana De Santiago;23
 480;FEMENINO;F;4;;;Región de Tarapacá;32
 481;MASCULINO;M;10;;;Región de Metropolitana De Santiago;34
-482;;M;;;;;39
+482;MASCULINO;M;;;;;39
 483;FEMENINO;F;6;;;Región de Valparaíso;23
 484;FEMENINO;F;4;;;Región de Metropolitana De Santiago;36
 485;FEMENINO;F;5;;;Región de Libertador B. O'Higgins;51
@@ -459,12 +459,12 @@
 500;FEMENINO;F;4;;;Región de Los Lagos;20
 501;MASCULINO;M;5;0;5;Región de Metropolitana De Santiago;64
 502;MASCULINO;M;8;;;Región de Biobío;22
-503;;M;;;;;22
+503;MASCULINO;M;;;;;22
 504;FEMENINO;F;7;;;Región de Biobío;44
 505;FEMENINO;F;5;;;Región de Biobío;21
 506;FEMENINO;F;7;1;6;Región de Metropolitana De Santiago;22
 507;MASCULINO;M;3;;;Región de Metropolitana De Santiago;32
-508;;;;;;;
+508;MASCULINO;M;;;;;
 509;MASCULINO;M;8;0;8;Región de Metropolitana De Santiago;28
 510;FEMENINO;F;1;0;1;Región de Metropolitana De Santiago;28
 511;FEMENINO;F;4;;;Región de Antofagasta;54
@@ -479,16 +479,16 @@
 521;FEMENINO;F;1;0;1;Región de Ñuble;33
 522;FEMENINO;F;9;;;Región de Metropolitana De Santiago;28
 523;MASCULINO;M;2;;;Región de Metropolitana De Santiago;20
-524;;;;;;;
+524;MASCULINO;M;;;;;
 525;FEMENINO;F;5;;;Región de La Araucanía;21
-526;;F;;;;;20
+526;FEMENINO;F;;;;;20
 527;FEMENINO;F;6;;;Región de Maule;54
 528;FEMENINO;F;;;;Región de Ñuble;37
 529;MASCULINO;M;7;;;Región de Metropolitana De Santiago;25
 530;FEMENINO;F;9;0;9;Región de Valparaíso;19
 531;FEMENINO;F;4;;;Región de Metropolitana De Santiago;54
 533;MASCULINO;M;2;;;Región de Metropolitana De Santiago;77
-535;;F;;;;;25
+535;FEMENINO;F;;;;;25
 536;FEMENINO;F;7;;;Región de Maule;28
 537;FEMENINO;F;4;;;Región de Maule;24
 538;FEMENINO;F;3;0;3;Región de Ñuble;23
@@ -503,8 +503,8 @@
 548;FEMENINO;F;6;;;Región de Metropolitana De Santiago;32
 549;MASCULINO;M;7;0;7;Región de La Araucanía;27
 550;MASCULINO;M;3;;;Región de Metropolitana De Santiago;38
-551;;F;;;;;20
-552;;F;;;;;20
+551;FEMENINO;F;;;;;20
+552;FEMENINO;F;;;;;20
 553;FEMENINO;F;6;1;5;Región de Metropolitana De Santiago;29
 554;FEMENINO;F;5;;;Región de Los Rios;60
 555;FEMENINO;F;8;;;Región de Metropolitana De Santiago;27
@@ -553,11 +553,11 @@
 599;MASCULINO;M;4;;;Región de Metropolitana De Santiago;39
 600;FEMENINO;F;6;;;Región de Libertador B. O'Higgins;24
 601;FEMENINO;F;6;;;Región de Los Lagos;52
-602;;F;;;;;23
+602;FEMENINO;F;;;;;23
 603;MASCULINO;M;8;;;Región de Metropolitana De Santiago;36
 604;MASCULINO;M;9;;;Región de Ñuble;28
 605;MASCULINO;M;1;;;Región de Arica y Parinacota;38
-606;;F;;;;;20
+606;FEMENINO;F;;;;;20
 607;FEMENINO;F;7;;;Región de Metropolitana De Santiago;32
 608;FEMENINO;F;6;;;Región de Metropolitana De Santiago;32
 609;FEMENINO;F;11;;;Región de Coquimbo;47
@@ -570,7 +570,7 @@
 616;MASCULINO;M;0;0;0;Región de Maule;18
 617;FEMENINO;F;6;;;Región de Maule;23
 618;FEMENINO;F;7;0;7;Región de Metropolitana De Santiago;31
-619;;F;;;;;31
+619;FEMENINO;F;;;;;31
 620;FEMENINO;F;;;;Región de Valparaíso;26
 621;FEMENINO;F;5;0;5;Región de Metropolitana De Santiago;39
 622;FEMENINO;F;7;;;Región de Metropolitana De Santiago;21
@@ -629,7 +629,7 @@
 675;FEMENINO;F;7;;;Región de Los Lagos;29
 677;MASCULINO;M;6;;;Región de Libertador B. O'Higgins;29
 678;FEMENINO;F;2;0;2;Región de Los Lagos;53
-679;;;;;;;
+679;FEMENINO;F;;;;;
 680;FEMENINO;F;6;;;Región de Los Lagos;32
 681;FEMENINO;F;10;;;Región de Metropolitana De Santiago;39
 682;FEMENINO;F;3;;;Región de Arica y Parinacota;32
@@ -638,7 +638,7 @@
 685;FEMENINO;F;7;;;Región de Los Lagos;46
 686;MASCULINO;M;3;;;Región de Metropolitana De Santiago;40
 687;FEMENINO;F;8;;;Región de Los Lagos;54
-688;;F;;;;;42
+688;FEMENINO;F;;;;;42
 689;MASCULINO;M;6;0;6;Región de Metropolitana De Santiago;29
 690;FEMENINO;F;2;0;2;Región de Metropolitana De Santiago;56
 691;MASCULINO;M;6;;;Región de Los Lagos;21
@@ -680,11 +680,11 @@
 729;MASCULINO;M;4;;;Región de Metropolitana De Santiago;23
 730;FEMENINO;F;12;;;Región de Metropolitana De Santiago;55
 731;FEMENINO;F;7;;;Región de Los Lagos;29
-732;;M;;;;;38
+732;MASCULINO;M;;;;;38
 733;FEMENINO;F;5;;;Región de Metropolitana De Santiago;38
 734;FEMENINO;F;6;;;Región de Valparaíso;19
-735;;;;;;;
-736;;M;;;;;25
+735;FEMENINO;F;;;;;
+736;MASCULINO;M;;;;;25
 737;MASCULINO;M;4;2;2;Región de Antofagasta;29
 738;FEMENINO;F;11;;;Región de Metropolitana De Santiago;46
 739;MASCULINO;M;2;;;Región de Metropolitana De Santiago;32
@@ -705,7 +705,7 @@
 754;FEMENINO;F;12;;;Región de Maule;58
 755;MASCULINO;M;8;;;Región de Metropolitana De Santiago;28
 756;FEMENINO;F;7;;;Región de Coquimbo;35
-757;;M;;;;;27
+757;MASCULINO;M;;;;;27
 758;FEMENINO;F;11;;;Región de Metropolitana De Santiago;44
 759;FEMENINO;F;7;0;7;Región de Maule;25
 760;FEMENINO;F;5;;;Región de Metropolitana De Santiago;29
@@ -731,10 +731,10 @@
 780;FEMENINO;F;6;0;6;Región de Metropolitana De Santiago;26
 781;MASCULINO;M;11;0;11;Región de Biobío;27
 782;FEMENINO;F;7;;;;25
-783;;F;;;;;24
+783;FEMENINO;F;;;;;24
 784;FEMENINO;F;8;1;7;Región de Valparaíso;40
 785;MASCULINO;M;10;;;Región de Metropolitana De Santiago;45
-786;;;;;;;
+786;FEMENINO;F;;;;;
 787;FEMENINO;F;11;;;Región de Biobío;21
 788;FEMENINO;F;11;;;Región de Metropolitana De Santiago;47
 789;FEMENINO;F;0;;;Región de Biobío;29
@@ -759,11 +759,11 @@
 809;FEMENINO;F;7;;;Región de Arica y Parinacota;31
 810;FEMENINO;F;5;;;Región de Metropolitana De Santiago;24
 811;FEMENINO;F;8;;;Región de Metropolitana De Santiago;25
-812;;F;;;;;49
+812;FEMENINO;F;;;;;49
 813;MASCULINO;M;10;1;9;Región de Metropolitana De Santiago;29
 814;MASCULINO;M;9;0;9;Región de Metropolitana De Santiago;55
 815;MASCULINO;M;6;;;Región de Metropolitana De Santiago;47
-816;;F;;;;;19
+816;FEMENINO;F;;;;;19
 817;FEMENINO;F;2;0;2;Región de Los Rios;33
 818;FEMENINO;F;11;3;8;Región de Ñuble;39
 819;FEMENINO;F;5;;;Región de Ñuble;43
