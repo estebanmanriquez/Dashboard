@@ -129,7 +129,7 @@
 128,ZOOM,"Lorena Lara","CARLOS DE LOS ANGELES","MARTÍNEZ CABELLO",83,"Región de Metropolitana De Santiago","Hospital Adalberto Steeger (Talagante)","Tele Interconsulta Neuro","ACV isquémico","ACV FRONTO INSULAR IZQUIERDO ",0,"2023-09-20 21:43"
 129,ZOOM,"Enrico Mazzon","IVÁN DEL CARMEN","SOTOMAYOR ROJAS",64,"Región de Valparaíso","Hospital Claudio Vicuña (San Antonio)","Código ACV","ACV isquémico","ACVi menor, ACM D°",0,"2023-09-21 15:17"
 130,ZOOM,"Fiorella Celsi","ÁLVARO RODRIGO","GÓMEZ ARÁNGUIZ",52,"Región de Metropolitana De Santiago","Hospital Adalberto Steeger (Talagante)","Código ACV","ACV isquémico","ACM izquierda",0,"2023-09-22 12:04"
-131,,"Fiorella Celsi",,,,,,,,,1,
+131,ZOOM,"Fiorella Celsi","ROSA HAYDÉE","VILO TRAURAN",52,"Región de Atacama","Hospital San José del Carmen (Copiapó)","Código ACV","ACV isquémico","ACV ISQUÉMICO DE ACM DERECHA",1,"2023-10-10 09:15"
 132,ZOOM,"Fiorella Celsi","MIREYA DEL TRÁNSITO","RAMOS ORTIZ",48,,"Hospital Adalberto Steeger (Talagante)","Código ACV","ACV isquémico","ACM derecha",0,"2023-09-23 00:41"
 133,ZOOM,"Fiorella Celsi","JOSÉ SALVADOR","URIBE BOTERO",76,,"Hospital San José de Victoria","Código ACV","ACV isquémico","ACV isquémico mesencefálico  izquierdo",0,"2023-09-23 00:36"
 134,ZOOM,"Fiorella Celsi","LILIANA DEL ROSARIO","UGALDE CASTILLO",57,,"Hospital San Martín (Quillota)","Código ACV","ACV isquémico","ACV isquémico ACM derecha",0,"2023-09-23 05:22"
@@ -169,3 +169,8 @@
 168,ZOOM,"Enrico Mazzon","BERNARDINA DEL CARMEN","ABARCA ABARCA",66,,"Hospital de Santa Cruz","Código ACV","ACV isquémico","acv isquemico menor a der. ",0,"2023-10-05 18:05"
 169,ZOOM,"Enrico Mazzon","CLORINDA YOLANDA","NAMONCURA MANQUEL",41,"Región de La Araucanía","Hospital San José de Victoria","Código ACV","Crisis isquémica transitoria","Crisis isquemica transitoria, ABCD2: 4",0,"2023-10-05 20:24"
 170,ZOOM,"Diego Rocha",NIBALDO,"DONOSO PIZARRO",69,"Región de Libertador B. O'Higgins","Hospital San Juan de Dios de San Fernando","Código ACV","Crisis isquémica transitoria","tia moderado riesgo",0,"2023-10-06 11:17"
+171,"Atención Remota","Andres Gallardo","JOSÉ DOMINGO","MUÑOZ HEAP",87,"Región de Valparaíso","Hospital San Martín (Quillota)","Tele Interconsulta Neuro","ACV isquémico","Minor stroke",,"2023-10-07 20:01"
+172,"Atención Remota","Lorena Lara","JUAN DE LA CRUZ","VIVANCO FIGUEROA",67,"Región de Metropolitana De Santiago","Hospital El Pino (Santiago, San Bernardo)","Código ACV","ACV isquémico","ACV ISQUEMICO ACM DERECHA",,"2023-10-08 13:11"
+173,ZOOM,"Lorena Lara","VIOLETA MARGARITA DEL CARMEN","ACUÑA RAMOS",69,"Región de Libertador B. O'Higgins","Hospital San Juan de Dios de San Fernando","Código ACV","ACV isquémico","ACV ISQUEMICO LACUNAR IZQUIERDO ",,"2023-10-08 16:01"
+174,ZOOM,"Lorena Lara","ARTEMIO DE JESÚS","MADRID RAMÍREZ",82,"Región de Metropolitana De Santiago","Hospital Adalberto Steeger (Talagante)","Código ACV",Otro,"Dg.: COMPROMISO DE CONCIENCIA EN ESTUDIO",,"2023-10-08 17:49"
+175,ZOOM,"Diego Rocha","MANUEL ANTONIO","LUBET ETCHEVERRY",48,"Región de Valparaíso","Hospital Hanga Roa (Isla De Pascua)","Tele Interconsulta Neuro","ACV isquémico","acv isquemico fronto insular derecho",,"2023-10-09 18:25"
