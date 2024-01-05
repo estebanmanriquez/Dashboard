@@ -268,7 +268,7 @@
 267,ZOOM,"Enrico Mazzon","ALICIA DEL PILAR","MELLA RODRÍGUEZ",47,"Región de Valparaíso","Hospital San Martín (Quillota)","Código ACV","Pseudo ACV","Cefalea atípica. ",,"2023-11-16 12:41",Mujer
 268,ZOOM,"Enrico Mazzon","MIGUEL ANGEL","PÉREZ MENA",53,"Región de Valparaíso","Hospital San Martín (Quillota)","Código ACV","Crisis isquémica transitoria","Crisis isquémica transitoria, ABCD2: 5",,"2023-11-16 14:10",Hombre
 269,ZOOM,"Diego Rocha","GLORIA DEL CARMEN","SAN MARTÍN SARMIENTO",59,"Región de Metropolitana De Santiago","Hospital El Pino (Santiago, San Bernardo)","Tele Interconsulta Neuro","Pseudo ACV","paralisis facial periferica derecha",,"2023-11-17 18:12",Mujer
-270,ZOOM,"Andres Gallardo","JUAN MIGUEL","IBÁÑEZ GUZMÁN",84,,"Hospital Claudio Vicuña (San Antonio)","Código ACV","ACV isquémico","ACV Isquémico ACM izquierda",,"2023-11-18 13:54",Hombre
+270,ZOOM,"Andres Gallardo","JUAN MIGUEL","IBÁÑEZ GUZMÁN",84,"Región de Valparaíso","Hospital Claudio Vicuña (San Antonio)","Código ACV","ACV isquémico","ACV Isquémico ACM izquierda",,"2023-11-18 13:54",Hombre
 271,ZOOM,"Andres Gallardo","JUAN MANUEL","CERDA VIDAL",83,"Región de Valparaíso","Hospital San Martín (Quillota)","Código ACV","ACV isquémico","acv isquemico acm izquierda",,"2023-11-18 20:15",
 272,ZOOM,"Andres Gallardo","JUANA DEL CARMEN","VALENZUELA ALEGRE",86,"Región de Metropolitana De Santiago","Hospital El Pino (Santiago, San Bernardo)","Código ACV",,,,"2023-11-19 08:09",Mujer
 273,ZOOM,"Lorena Lara","JUAN ANTONIO","VERA NAVARRO",52,"Región de Valparaíso","Hospital San Martín (Quillota)","Tele Interconsulta Neuro","ACV hemorrágico",HSA,,"2023-11-19 12:35",Hombre
@@ -307,7 +307,7 @@
 306,ZOOM,"Enrico Mazzon","LORENA DEL CARMEN","RUIZ SANTANDER",51,"Región de Metropolitana De Santiago","Hospital El Pino (Santiago, San Bernardo)","Código ACV","ACV isquémico","ACVi múltiples ACM D°? Encefalopatía?",,"2023-11-30 17:27",Mujer
 307,ZOOM,"Diego Rocha","ROBERTO DEL CARMEN","VALDIVIA CONTRERAS",90,"Región de Coquimbo","Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz (Vallenar)","Código ACV","ACV isquémico","ACV Isquemico ACM derecha",,"2023-12-01 14:40",Hombre
 308,"Atención Remota","Andres Gallardo","BRISTELA DEL CARMEN","GALAZ COFRÉ",58,"Región de Libertador B. O'Higgins","Hospital de Santa Cruz","Código ACV","ACV isquémico","ACV Isquémico ACM izquierda",,"2023-12-02 12:06",
-309,"Atención Remota","Andres Gallardo","ALFONSO ENRIQUE","DÍAZ CARRASCO",70,,"Hospital El Pino (Santiago, San Bernardo)","Código ACV","ACV isquémico","acv isquemico acm izquierda",,"2023-12-02 17:41",
+309,"Atención Remota","Andres Gallardo","ALFONSO ENRIQUE","DÍAZ CARRASCO",70,"Región de Metropolitana De Santiago","Hospital El Pino (Santiago, San Bernardo)","Código ACV","ACV isquémico","acv isquemico acm izquierda",,"2023-12-02 17:41",Hombre
 310,"Atención Remota","Andres Gallardo","ANGÉLICA MARÍA","OLIVA IGLESIAS",49,"Región de Valparaíso","Hospital San Martín (Quillota)","Código ACV","ACV isquémico","ACV Isquémico",,"2023-12-02 23:32",
 311,ZOOM,"Diego Rocha","BERTA CONSUELO","MARTÍNEZ GONZÁLEZ",78,"Región de Metropolitana De Santiago","Hospital El Pino (Santiago, San Bernardo)","Código ACV","ACV isquémico","ACV isquemico ACM izquierda",,"2023-12-03 13:08",Mujer
 312,ZOOM,"Diego Rocha","IRIS LEONOR","ECHEVERRÍA REYES",67,"Región de Metropolitana De Santiago","Hospital El Pino (Santiago, San Bernardo)","Código ACV","ACV isquémico","ACV isquemico fosa posterior",,"2023-12-03 19:52",Mujer
@@ -328,10 +328,10 @@
 327,ZOOM,"Diego Rocha","JULIA ALEJANDRA DEL CARMEN","GONZÁLEZ SALAZAR",57,"Región de Valparaíso","Hospital San Martín (Quillota)","Código ACV",Otro,CEFALEA,,"2023-12-08 15:52",Mujer
 328,ZOOM,"Diego Rocha","HAYDÉE ROSA","VALENCIA SEVERINO",81,"Región de Valparaíso","Hospital San Martín (Quillota)","Código ACV","ACV isquémico","minor stroke vs TIA",,"2023-12-08 17:17",Mujer
 329,ZOOM,"Diego Rocha","TERESA JACQUELINE","IBACETA SANDOVAL",56,"Región de Valparaíso","Hospital San Martín (Quillota)","Código ACV","Pseudo ACV","pseudo acv - sindrome funcional neurologico",,"2023-12-08 23:59",Mujer
-330,"Atención Remota","Andres Gallardo","PRISCILLA DEL ROSARIO","MENDOZA MÁRQUEZ",44,,"Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz (Vallenar)","Tele Interconsulta Neuro","ACV isquémico","ACV Isquémico acm derecha",,"2023-12-09 10:29",
-331,"Atención Remota","Andres Gallardo","ENRIQUE GREGORIO","PEREIRA FARÍAS",79,,"Hospital San Martín (Quillota)","Código ACV","ACV isquémico","ACV Isquémico acm derecha",,"2023-12-09 18:18",
-332,"Atención Remota","Andres Gallardo","LUZ MARÍA","FLORES PASTENES",74,,"Hospital San Martín (Quillota)","Código ACV","ACV isquémico","ACV Isquémico",,"2023-12-09 18:26",
-333,ZOOM,"Andres Gallardo","LUCILA DE LAS MERCEDES","LUCERO VIDAL",86,,"Hospital El Pino (Santiago, San Bernardo)","Tele Interconsulta Neuro","ACV isquémico","Minor stroke",,"2023-12-09 18:30",
+330,"Atención Remota","Andres Gallardo","PRISCILLA DEL ROSARIO","MENDOZA MÁRQUEZ",44,"Región de Atacama","Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz (Vallenar)","Tele Interconsulta Neuro","ACV isquémico","ACV Isquémico acm derecha",,"2023-12-09 10:29",Mujer
+331,"Atención Remota","Andres Gallardo","ENRIQUE GREGORIO","PEREIRA FARÍAS",79,"Región de Valparaíso","Hospital San Martín (Quillota)","Código ACV","ACV isquémico","ACV Isquémico acm derecha",,"2023-12-09 18:18",Hombre
+332,"Atención Remota","Andres Gallardo","LUZ MARÍA","FLORES PASTENES",74,"Región de Valparaíso","Hospital San Martín (Quillota)","Código ACV","ACV isquémico","ACV Isquémico",,"2023-12-09 18:26",Mujer
+333,ZOOM,"Andres Gallardo","LUCILA DE LAS MERCEDES","LUCERO VIDAL",86,"Región de Metropolitana De Santiago","Hospital El Pino (Santiago, San Bernardo)","Tele Interconsulta Neuro","ACV isquémico","Minor stroke",,"2023-12-09 18:30",Mujer
 334,ZOOM,"Diego Rocha","DANIEL ALEXIS","MUÑOZ CUEVAS",45,"Región de Valparaíso","Hospital San Martín (Quillota)","Código ACV","Pseudo ACV","Paralisis facial perferica derecha",,"2023-12-10 11:12",Hombre
 335,ZOOM,"Diego Rocha","ARMANDO DEL CARMEN","VERA UGALDE",87,"Región de Valparaíso","Hospital Claudio Vicuña (San Antonio)","Código ACV","ACV isquémico","ACV isquemico fosa posterior - minor stroke",,"2023-12-10 14:54",Hombre
 336,ZOOM,"Diego Rocha","PEDRO EDMUNDO","HERNÁNDEZ VILLARROEL",76,"Región de Valparaíso","Hospital San Martín (Quillota)","Código ACV","ACV isquémico","ACV isquemico subcortical izquierdo",,"2023-12-10 15:36",Hombre
@@ -346,11 +346,11 @@
 345,ZOOM,"Lorena Lara",JIABIAO,"LI null",50,"Región de Libertador B. O'Higgins","Hospital de Santa Cruz","Tele Interconsulta Neuro",Otro,"OBS MASA CEREBRAL DERECHA ",,"2023-12-13 22:26",Hombre
 346,ZOOM,"Diego Rocha","JOSÉ REINALDO","ZAVALA MORA",73,"Región de La Araucanía","Hospital San José de Victoria","Código ACV","ACV isquémico","ACV isquemico ACM izquierda",,"2023-12-14 21:37",Hombre
 347,ZOOM,"Diego Rocha","HUMBERTO DEL CARMEN","PULGAR PULGAR",80,"Región de Valparaíso","Hospital San Martín (Quillota)","Código ACV","Crisis isquémica transitoria","CIT ABCD2 4 ptos",,"2023-12-15 13:52",Hombre
-348,ZOOM,"Andres Gallardo","HUMBERTO EDUARDO","ROJAS PERALTA",76,,"Hospital San José del Carmen (Copiapó)","Código ACV","ACV isquémico","ACV Isquémico acm izquierda",,"2023-12-16 14:50",
-349,"Atención Remota","Andres Gallardo","LEONOR DEL CARMEN","LEÓN ESCANILLA",87,,"Hospital San Martín (Quillota)","Código ACV","ACV isquémico","ACV Isquémico ACM derecha",,"2023-12-16 14:56",
-350,ZOOM,"Andres Gallardo","MARÍA PATRICIA","LONCÓN ROMERO",50,,"Hospital San José de Victoria","Tele Interconsulta Neuro","ACV isquémico","minor stroke",,"2023-12-17 13:45",
-351,ZOOM,"Andres Gallardo","JULITA IGNACIA","MUÑOZ GONZÁLEZ",94,,"Hospital San Juan de Dios de San Fernando","Código ACV","ACV isquémico","ACV Isquémico acm izquierda",,"2023-12-18 04:07",
-352,ZOOM,"Andres Gallardo","JULITA IGNACIA","MUÑOZ GONZÁLEZ",94,,"Hospital El Pino (Santiago, San Bernardo)","Código ACV","ACV isquémico","ACV Isquémico acm izquierda",,"2023-12-18 04:15",
+348,ZOOM,"Andres Gallardo","HUMBERTO EDUARDO","ROJAS PERALTA",76,"Región de Atacama","Hospital San José del Carmen (Copiapó)","Código ACV","ACV isquémico","ACV Isquémico acm izquierda",,"2023-12-16 14:50",Hombre
+349,"Atención Remota","Andres Gallardo","LEONOR DEL CARMEN","LEÓN ESCANILLA",87,"Región de Valparaíso","Hospital San Martín (Quillota)","Código ACV","ACV isquémico","ACV Isquémico ACM derecha",,"2023-12-16 14:56",Mujer
+350,ZOOM,"Andres Gallardo","MARÍA PATRICIA","LONCÓN ROMERO",50,"Región de La Araucanía","Hospital San José de Victoria","Tele Interconsulta Neuro","ACV isquémico","minor stroke",,"2023-12-17 13:45",Mujer
+351,ZOOM,"Andres Gallardo","JULITA IGNACIA","MUÑOZ GONZÁLEZ",94,"Región de Libertador B. O'Higgins","Hospital San Juan de Dios de San Fernando","Código ACV","ACV isquémico","ACV Isquémico acm izquierda",,"2023-12-18 04:07",Mujer
+352,ZOOM,"Andres Gallardo","JULITA IGNACIA","MUÑOZ GONZÁLEZ",94,"Región de Metropolitana De Santiago","Hospital El Pino (Santiago, San Bernardo)","Código ACV","ACV isquémico","ACV Isquémico acm izquierda",,"2023-12-18 04:15",Mujer
 353,ZOOM,"Fiorella Celsi","JOSÉ ALBERTO","OLIVARES AROS",53,"Región de Valparaíso","Hospital San Martín (Quillota)","Código ACV","ACV isquémico","ACV ISQUÉMICO HEMISFERICO DERECHO",,"2023-12-18 18:34",Hombre
 354,ZOOM,"Diego Rocha",Oreana,"Fuenmayor Izquierdo",34,"Región de Libertador B. O'Higgins","Hospital San Juan de Dios de San Fernando","Código ACV","Pseudo ACV","Cefalea / Migraña con aura???",,"2023-12-20 15:26",Mujer
 355,ZOOM,"Diego Rocha",CARMEN,"AROCA JARA",71,"Región de Valparaíso","Hospital San Martín (Quillota)","Código ACV","ACV isquémico","ACV isquemico ACM izquierda",,"2023-12-21 00:39",Mujer
@@ -373,14 +373,14 @@
 372,ZOOM,"Fiorella Celsi","GUMERCINDA SABINA","CÓRDOVA RAMÍREZ",67,"Región de Valparaíso","Hospital Claudio Vicuña (San Antonio)","Código ACV","ACV isquémico","ACV ISQUEMICO ACA IZQUIERDA",,"2023-12-27 20:38",Mujer
 373,ZOOM,"Fiorella Celsi","IVAN DAVID","FUENTES MARQUEZ",18,"Región de Valparaíso","Hospital San Martín (Quillota)","Tele Interconsulta Neuro",Otro,"CRISIS EPILEPTICA FOCAL TEMPORAL IZQUIERDA, AFASIA POST ICTAL VS STATUS FOCAL PARCIALMENTE RECUPERADO",,"2023-12-27 22:10",Hombre
 374,ZOOM,"Andres Gallardo","HILDA ESTER","SALAZAR CARREÑO",99,"Región de Valparaíso","Hospital San Martín (Quillota)","Código ACV","ACV isquémico","ACV Isquémico",,"2023-12-28 14:07",
-375,ZOOM,"Andres Gallardo","OSCAR ADOLFO","PIZARRO RIVADENEIRA",78,,"Hospital San Martín (Quillota)","Código ACV","ACV isquémico","minor stroke",,"2023-12-28 20:21",
-376,ZOOM,"Andres Gallardo","AMPARITO XIMENA","ALTAMIRANO GONZÁLEZ",52,,"Hospital San Martín (Quillota)","Tele Interconsulta Neuro","Pseudo ACV","cefalea con bandera roja",,"2023-12-28 20:54",
-377,ZOOM,"Andres Gallardo","LUIS ESTEBAN","NAVARRETE OPAZO",66,,"Hospital San José de Victoria","Tele Interconsulta Neuro","ACV hemorrágico","hic talamica",,"2023-12-28 22:11",
+375,ZOOM,"Andres Gallardo","OSCAR ADOLFO","PIZARRO RIVADENEIRA",78,"Región de Valparaíso","Hospital San Martín (Quillota)","Código ACV","ACV isquémico","minor stroke",,"2023-12-28 20:21",
+376,ZOOM,"Andres Gallardo","AMPARITO XIMENA","ALTAMIRANO GONZÁLEZ",52,"Región de Valparaíso","Hospital San Martín (Quillota)","Tele Interconsulta Neuro","Pseudo ACV","cefalea con bandera roja",,"2023-12-28 20:54",
+377,ZOOM,"Andres Gallardo","LUIS ESTEBAN","NAVARRETE OPAZO",66,"Región de La Araucanía","Hospital San José de Victoria","Tele Interconsulta Neuro","ACV hemorrágico","hic talamica",,"2023-12-28 22:11",Hombre
 378,ZOOM,"Diego Rocha","LUCILA DEL ROSARIO","FLORES CAMPOS",70,"Región de Metropolitana De Santiago","Hospital El Pino (Santiago, San Bernardo)","Tele Interconsulta Neuro","ACV isquémico","ACV isquemico fosa posterior",,"2023-12-29 18:11",Mujer
 379,ZOOM,"Diego Rocha","RICARDO ENRIQUE","RETAMALES CONTRERAS",62,"Región de Metropolitana De Santiago","Hospital Adalberto Steeger (Talagante)","Código ACV","Crisis isquémica transitoria","TIA ABCD2 6 ptos",,"2023-12-29 18:41",Hombre
 380,ZOOM,"Enrico Mazzon",Eugenio,"Nuñez Armijo",93,"Región de Valparaíso","Hospital San Martín (Quillota)","Código ACV","ACV isquémico","ACVi lacunar D°",,"2023-12-30 18:51",Hombre
 381,ZOOM,"Enrico Mazzon",CARLINA,"CARO GUZMÁN",100,"Región de Valparaíso","Hospital San Martín (Quillota)","Código ACV","ACV isquémico","ACVi ACV I°",,"2023-12-30 23:50",Mujer
-382,ZOOM,"Diego Rocha",,,,"Región de Metropolitana De Santiago","Hospital Adalberto Steeger (Talagante)","Tele Interconsulta Neuro",Otro,"Obs ACV isquemico acm izquierda",,"2023-12-31 16:09",Hombre
+382,ZOOM,"Diego Rocha","MARIO ENRIQUE","LÓPEZ TORO",63,"Región de Metropolitana De Santiago","Hospital Adalberto Steeger (Talagante)","Tele Interconsulta Neuro",Otro,"Obs ACV isquemico acm izquierda",,"2023-12-31 16:09",Hombre
 383,ZOOM,"Diego Rocha","PEDRO ADRIÁN","CÓRDOVA SEPÚLVEDA",69,"Región de Metropolitana De Santiago","Hospital El Pino (Santiago, San Bernardo)","Tele Interconsulta Neuro","ACV isquémico","acv isquemico acm izquierda",,"2023-12-31 18:13",Hombre
 384,ZOOM,"Diego Rocha",JUANA,FUENTES,63,"Región de Metropolitana De Santiago","Hospital El Pino (Santiago, San Bernardo)","Código ACV","ACV isquémico","ACV isquemico fosa posterior",,"2023-12-31 22:40",Mujer
 385,ZOOM,"Diego Rocha","JACQUELINE DEL CARMEN","MATTA HERNÁNDEZ",57,"Región de Valparaíso","Hospital Claudio Vicuña (San Antonio)","Código ACV","ACV isquémico","acv ISQUEMICO ACM IZQUIERDA",,"2023-12-31 23:01",Mujer
@@ -394,3 +394,9 @@
 393,ZOOM,"Felipe Jurado",ARNALDO,"HIDALGO MONTENEGRO",75,"Región de La Araucanía","Hospital San José de Victoria","Código ACV","Crisis isquémica transitoria",TIA,,"2024-01-01 21:11",Hombre
 394,ZOOM,"Eloy Mansilla","ANA MARÍA","HEIMPELL DAZAROLA",74,"Región de Valparaíso","Hospital San Martín (Quillota)","Código ACV","ACV isquémico","ACV isquemico ACM izquierda",,"2024-01-02 11:12",Mujer
 395,ZOOM,"Eloy Mansilla","GRACIELA DEL PILAR","ALDERETE PARRA",63,"Región de Metropolitana De Santiago","Hospital El Pino (Santiago, San Bernardo)","Tele Interconsulta Neuro","ACV isquémico","ACV isquemico ACM derecha",,"2024-01-02 13:23",Mujer
+396,ZOOM,"Eloy Mansilla","GABRIEL FERNANDO","LÓPEZ MAURICE",75,"Región de Metropolitana De Santiago","Hospital El Pino (Santiago, San Bernardo)","Código ACV","ACV isquémico","obs acv isquemico circulacion posterior",,"2024-01-03 00:21",Hombre
+397,ZOOM,"Fiorella Celsi","ROBINZON PEDRO","BRITO ARCE",68,"Región de Valparaíso","Hospital San Martín (Quillota)","Tele Interconsulta Neuro","ACV hemorrágico","HIC HEMISFERICA DERECHA",,"2024-01-03 12:49",Hombre
+398,ZOOM,"Fiorella Celsi","MARTA DEL CARMEN","PINTO MUÑOZ",85,"Región de Libertador B. O'Higgins","Hospital de Santa Cruz","Código ACV","ACV isquémico","acv isquemic acm izquierda",,"2024-01-03 16:32",Mujer
+399,ZOOM,"Fiorella Celsi","PEDRO PABLO","GUTIÉRREZ AGUILERA",75,"Región de Atacama","Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz (Vallenar)","Tele Interconsulta Neuro","ACV isquémico","OBS TU VS HIC LOBAR",,"2024-01-04 01:01",Hombre
+400,ZOOM,"Enrico Mazzon","DANIEL GUSTAVO","GALLEGUILLOS RAMÍREZ",42,"Región de Metropolitana De Santiago","Hospital El Pino (Santiago, San Bernardo)","Código ACV","ACV isquémico","ACVi ACM D°",,"2024-01-04 23:01",Hombre
+401,ZOOM,"Fiorella Celsi","HILDA ROSA DEL CARMEN","SOTO ROJAS",63,"Región de Metropolitana De Santiago","Hospital Adalberto Steeger (Talagante)","Código ACV","ACV isquémico","ACV ISQUEMICO ACM DERECHA",,"2024-01-05 11:20",Mujer
