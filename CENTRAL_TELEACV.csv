@@ -1,4 +1,4 @@
-﻿"Record ID","Plataforma de Ingreso",Neurólogo,Nombres,Apellidos,Edad,"Región del Paciente","Hospital Ejecutor","Tipo de Atención","Diagnóstico del Evento","Diagnóstico Principal",Anulado,"Fecha de Guardado Interconsulta","Identificación de Género","¿Trombolisis?  "
+﻿"Record ID","Plataforma de Ingreso",Neurólogo,Nombres,Apellidos,Edad,"Región del Paciente","Hospital Ejecutor","Tipo de Atención","Diagnóstico del Evento","Diagnóstico Principal",Anulado,"Fecha de Guardado Interconsulta","Identificación de Género",Trombolisis
 1,ZOOM,"Enrico Mazzon","DELFINA DEL CARMEN","CONTRERAS CASTRO",75,"Región de Valparaíso","Hospital San Martín (Quillota)","Código ACV",Otro,Lipotimia,0,"2023-08-03 17:06",Mujer,No
 2,ZOOM,"Enrico Mazzon","ANDRÉS FRANCISCO","BELTRÁN JARA",50,"Región de Metropolitana De Santiago","Hospital El Pino (Santiago, San Bernardo)","Código ACV","ACV isquémico","ACVi cerebeloso múltiple",0,"2023-08-03 17:16",Hombre,No
 3,"Atención Remota","Diego Rocha","PAULINA DEL PILAR","ESCOBAR MEZA",41,"Región de Valparaíso","Hospital Claudio Vicuña (San Antonio)","Código ACV","Pseudo ACV","Sindrome funcional neurologico",0,"2023-08-07 21:07",Mujer,No
